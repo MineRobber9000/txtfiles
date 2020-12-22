@@ -1,0 +1,22 @@
+Note: Unnecessary use of -X or --request, POST is already inferred.
+*   Trying 2a01:4f8:231:24f::2...
+* TCP_NODELAY set
+* Connected to khuxkm.nand.sh (2a01:4f8:231:24f::2) port 80 (#0)
+> POST /webhook/ HTTP/1.1
+> Host: khuxkm.nand.sh
+> User-Agent: curl/7.58.0
+> Accept: */*
+> X-GitHub-Event: push
+> Content-type: application/json
+> Content-Length: 78
+> 
+* upload completely sent off: 78 out of 78 bytes
+< HTTP/1.1 200 OK
+< Server: nginx/1.14.0 (Ubuntu)
+< Date: Sun, 18 Nov 2018 05:23:36 GMT
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< X-Powered-By: Express
+< X-Clacks-Overhead: GNU ~abraxas
+< 
+* Connection #0 to host khuxkm.nand.sh left intact

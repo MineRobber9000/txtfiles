@@ -1,0 +1,4 @@
+From: khuxkm@tilde.team
+Subject: Testing new message host
+
+We have a new host. Emails can be sent to anon@hmm.st.

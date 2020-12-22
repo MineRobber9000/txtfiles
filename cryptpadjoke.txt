@@ -1,0 +1,17 @@
+02:05 <fosslinux>  rip wat happened to ben
+02:05 <fosslinux>  hes GONE
+02:13 <~ahriman>  vacation
+02:13 <~ahriman>  he went to the Kalahari Desert for Christmas
+02:13 <~ahriman>  said something about "kicking Les Stroud Survivorman's Ass" as he stormed out of chat with a rucksack and a machete
+02:18 <fosslinux>  lol
+02:19 <fosslinux>  rip khuxkm everything's down to you when *insert name of some idiot like me* runs nmap on ~team
+02:24 <login>  I thought nmap is disabled now
+02:25 <login>  is ping disabled?
+02:40 <~khuxkm|lounge>  login: it's a reference to the last time tilde.team had an outage
+02:41 <~khuxkm|lounge>  basically foss is saying that responsibility falls to me (though technically it also falls to cmc) should the fecal matter hit the wind proprelling device
+02:43 <nonlinear>  Who knows about pad.tildeverse.org?
+02:44 <nonlinear>  Specifically, the Rich Text Pad formatting toolbar isn't working.
+02:45 <nonlinear>  I believe the CSP must not be specified correctly.
+02:46 <SinaCutie>  o/
+02:48 <~khuxkm|lounge>  of course it isn't working, when ben (the cryptpad expert) is on vacation
+02:49 <nonlinear>  It couldn't be any other way :)

@@ -1,0 +1,132 @@
+SEC,East,West
+TEAM,SEC,East,Alabama,ALA,94,AUB
+TEAM,SEC,East,Georgia,UGA,92,FLA
+TEAM,SEC,East,Tennessee,TENN,35,UK
+TEAM,SEC,East,Texas A&M,TAMU,75,MIZZ
+TEAM,SEC,East,LSU,LSU,85,ARK
+TEAM,SEC,West,Florida,FLA,85,UGA
+TEAM,SEC,West,Arkansas,ARK,35,LSU
+TEAM,SEC,West,Missouri,MIZZ,50,TAMU
+TEAM,SEC,West,Kentucky,UK,70,TENN
+TEAM,SEC,West,Auburn,AUB,75,ALA
+B1G,East,West
+TEAM,B1G,East,Ohio State,OSU,92,MICH
+TEAM,B1G,East,Michigan State,MSU,65,PSU
+TEAM,B1G,East,Wisconsin,WIS,72,MINN
+TEAM,B1G,East,Purdue,PUR,50,NW
+TEAM,B1G,East,Iowa,IOWA,70,NEB
+TEAM,B1G,West,Michigan,MICH,88,OSU
+TEAM,B1G,West,Minnesota,MINN,40,WIS
+TEAM,B1G,West,Northwestern,NW,70,PUR
+TEAM,B1G,West,Penn State,PSU,80,MSU
+TEAM,B1G,West,Nebraska,NEB,60,IOWA
+ACC,Atlantic,Coastal
+TEAM,ACC,Atlantic,Virginia,UVA,55,VT
+TEAM,ACC,Atlantic,Boston College,BC,55,SYR
+TEAM,ACC,Atlantic,Clemson,CLEM,95,FSU
+TEAM,ACC,Atlantic,Miami,MIA,80,UNC
+TEAM,ACC,Atlantic,Georgia Tech,GT,40,PITT
+TEAM,ACC,Coastal,North Carolina,UNC,60,MIA
+TEAM,ACC,Coastal,Virginia Tech,VT,45,UVA
+TEAM,ACC,Coastal,Pittsburgh,PITT,50,GT
+TEAM,ACC,Coastal,Syracuse,SYR,65,BC
+TEAM,ACC,Coastal,Florida State,FSU,55,CLEM
+B12,North,South
+TEAM,B12,North,Oklahoma,OKLA,92,TEX
+TEAM,B12,North,Iowa State,ISU,65,WVU
+TEAM,B12,North,TCU,TCU,55,BAY
+TEAM,B12,North,Oklahoma St,OKST,55,TTU
+TEAM,B12,North,Kansas St,KSU,45,KU
+TEAM,B12,South,Texas,TEX,90,OKLA
+TEAM,B12,South,Baylor,BAY,55,TCU
+TEAM,B12,South,West Virginia,WVU,75,ISU
+TEAM,B12,South,Kansas,KU,26,KSU
+TEAM,B12,South,Texas Tech,TTU,45,OKST
+PAC-12,North,South
+TEAM,PAC-12,North,California,CAL,60,STAN
+TEAM,PAC-12,North,Oregon,ORE,78,COL
+TEAM,PAC-12,North,UCLA,UCLA,45,USC
+TEAM,PAC-12,North,Washington,WASH,83,WSU
+TEAM,PAC-12,North,Arizona,ARIZ,60,ASU
+TEAM,PAC-12,South,USC,USC,70,UCLA
+TEAM,PAC-12,South,Stanford,STAN,75,CAL
+TEAM,PAC-12,South,Washington State,WSU,80,WASH
+TEAM,PAC-12,South,Colorado,COL,50,ORE
+TEAM,PAC-12,South,Arizona State,ASU,55,ARIZ
+NAC,Captains,Commanders
+TEAM,NAC,Captains,Notre Dame,ND,92,BYU
+TEAM,NAC,Captains,Army,ARMY,60,NAVY
+TEAM,NAC,Captains,Illinois,ILL,40,IU
+TEAM,NAC,Captains,Duke,DUKE,40,UL
+TEAM,NAC,Captains,Maryland,MAR,40,RUT
+TEAM,NAC,Commanders,BYU,BYU,40,ND
+TEAM,NAC,Commanders,Navy,NAVY,26,ARMY
+TEAM,NAC,Commanders,Indiana,IU,40,ILL
+TEAM,NAC,Commanders,Louisville,UL,45,DUKE
+TEAM,NAC,Commanders,Rutgers,RUT,40,MAR
+GCC,South,North
+TEAM,GCC,South,Ole Miss,MISS,45,MSST
+TEAM,GCC,South,Vanderbilt,VAN,40,SC
+TEAM,GCC,South,Utah,UTAH,40,ORST
+TEAM,GCC,South,NC State,NCST,40,WAKE
+TEAM,GCC,South,Rice,RICE,25,UTEP
+TEAM,GCC,North,Mississippi St,MSST,40,MISS
+TEAM,GCC,North,South Carolina,SC,40,VAN
+TEAM,GCC,North,Oregon State,ORST,40,UTAH
+TEAM,GCC,North,Wake Forest,WAKE,40,NCST
+TEAM,GCC,North,UTEP,UTEP,25,RICE
+AAC,East,West
+TEAM,AAC,East,Central Florida,UCF,85,USF
+TEAM,AAC,East,Houston,HOU,60,SMU
+TEAM,AAC,East,Cincinnati,UC,30,MEM
+TEAM,AAC,East,Connecticut,CONN,30,TEM
+TEAM,AAC,East,Tulane,TUL,30,ECU
+TEAM,AAC,West,South Florida,USF,30,UCF
+TEAM,AAC,West,SMU,SMU,25,HOU
+TEAM,AAC,West,Memphis,MEM,30,UC
+TEAM,AAC,West,Temple,TEM,30,CONN
+TEAM,AAC,West,East Carolina,ECU,30,TUL
+MWC,West,East
+TEAM,MWC,West,Air Force,AF,25,CSU
+TEAM,MWC,West,Fresno State,FRES,45,SDSU
+TEAM,MWC,West,UNLV,UNLV,25,NEV
+TEAM,MWC,West,Boise State,BSU,45,WYO
+TEAM,MWC,West,New Mexico,UNM,25,HAW
+TEAM,MWC,East,Colorado State,CSU,25,AF
+TEAM,MWC,East,San Diego State,SDSU,25,FRES
+TEAM,MWC,East,Nevada,NEV,25,UNLV
+TEAM,MWC,East,Wyoming,WYO,25,BSU
+TEAM,MWC,East,Hawaii,HAW,25,UNM
+MAC,East,West
+TEAM,MAC,East,Bowling Green,BGU,25,TOL
+TEAM,MAC,East,Northern Illinois,NIU,25,BALL
+TEAM,MAC,East,Akron,AKR,25,KENT
+TEAM,MAC,East,Buffalo,UB,25,OHIO
+TEAM,MAC,East,Marshall,MRS,25,LIB
+TEAM,MAC,West,Toledo,TOL,25,BGU
+TEAM,MAC,West,Ball State,BALL,25,NIU
+TEAM,MAC,West,Kent State,KENT,25,AKR
+TEAM,MAC,West,Ohio,OHIO,25,UB
+TEAM,MAC,West,Liberty,LIB,25,MRS
+IVY,East,West
+TEAM,IVY,East,Harvard,HARV,25,YALE
+TEAM,IVY,East,Princeton,PRIN,25,PENN
+TEAM,IVY,East,Brown,BRWN,25,DART
+TEAM,IVY,East,Cornell,CORN,25,COLU
+TEAM,IVY,East,MIT,MIT,25,JHU
+TEAM,IVY,West,Yale,YALE,25,HARV
+TEAM,IVY,West,Penn,PENN,25,PRIN
+TEAM,IVY,West,Dartmouth,DART,25,BRWN
+TEAM,IVY,West,Columbia,COLU,25,CORN
+TEAM,IVY,West,Johns Hopkins,JHU,25,MIT
+PFL,West,East
+TEAM,PFL,West,William & Mary,WM,25,RICH
+TEAM,PFL,West,Texas State,TXST,25,APST
+TEAM,PFL,West,North Dakota State,NDSU,25,IDA
+TEAM,PFL,West,Youngstown State,YSU,25,DAY
+TEAM,PFL,West,Northern Iowa,UNI,25,DRAK
+TEAM,PFL,East,Richmond,RICH,25,WM
+TEAM,PFL,East,Appalachian State,APST,25,TXST
+TEAM,PFL,East,Idaho,IDA,25,NDSU
+TEAM,PFL,East,Dayton,DAY,25,YSU
+TEAM,PFL,East,Drake,DRAK,25,UNI

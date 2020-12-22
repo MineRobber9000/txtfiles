@@ -1,0 +1,1314 @@
+20:16 -!- e1e0 [~erxeto@e1e0.irc] has quit [Ping timeout: 120 seconds]
+20:24 < blitzkraft> on tilde ssh, if i disconnect from byobu, it completely disconnects from ssh, instead of dropping me to a tilde shell. is that normal?
+20:36 -!- anton [anton@amcclure.org] has quit [Client exited]
+20:36 -!- anton [anton@amcclure.org] has joined #team
+20:41 < xfnw> yes
+20:41 < xfnw> theres a special key combo to pop into a normal shell, but i forgot it lol
+20:45 -!- e1e0 [~erxeto@e1e0.irc] has joined #team
+21:07 < jtmlis> So I documented a rough draft for my remote learning workflow, https://julientremblaymclellan.miraheze.org/wiki/Remote_Learning_workflow
+21:07 < tildebot> [Title] Remote Learning workflow - Julien Tremblay McLellan's virtual corner
+21:07 < jtmlis> work in progress, feel free to edit the wiki page.
+21:10  * Dr-WaSabi goes back down the vim rabbit hole
+21:11 < xfnw> :'<,'>!fmt
+21:19 < terris> xfnw: that's fun one. i set par as the formatter and just use gqip as i go when i'm done revising a paragraph
+21:31 -!- benharri [biboumi@harris.team] has left #team []
+21:31 -!- benharri [biboumi@harris.team] has joined #team
+21:31 -!- mode/#team [+qo benharri benharri] by ChanServ
+21:34 -!- cyberia is now known as spideria
+22:41 < Dr-WaSabi> tomasino:  Thanks for the idea.
+22:42 < Dr-WaSabi> saw you map differnt char for git gutter changes, so had a little fun with that and used 👍 for new, 👎for del, and 🤞for modified
+22:42 < tildebot> [Demojize] <Dr-WaSabi> saw you map differnt char for git gutter changes, so had a little fun with that and used :thumbs_up: for new, :thumbs_down:for del, and :crossed_fingers:for modified
+00:06 -!- spideria is now known as sleeperia
+04:25 -!- e1e0 [~erxeto@e1e0.irc] has quit [quit: WeeChat 2.8]
+04:39 < login> kumquat: move to geneva
+04:39 < login> https://www.cnbc.com/2020/10/01/swiss-city-geneva-to-introduce-a-minimum-wage-of-over-4000-a-month.html
+04:40 < kumquat> lol no
+04:40 < kumquat> do you know how expensive switzerland is?
+04:40 < kumquat> I actually got a lucrative job offer to go work in Switzerland a couple years ago and turned it down
+04:41 < login> that is a minimum wage of $23 per hour
+04:42 < login> switzerland must be expensive, but your savings will work better once you leave
+04:43 < mspe> Rent Prices in Switzerland are 94.38% higher than in France
+04:43 < mspe> Groceries Prices in Switzerland are 71.28% higher than in France
+04:43 < kumquat> everything there is WAY more expensive
+04:43 < kumquat> it doesn't work out to be good
+04:44 < kumquat> it's like making $100,000 in California
+04:44 < mspe> Restaurant Prices in Switzerland are 69.00% higher than in France
+04:44 < kumquat> it sounds good on paper, but when you spend over half your salary on rent, doesn't sound so great anymore
+04:46 < kumquat> there's a lot of pharma companies based in CH, it was novartis who offered me a job, but could only guarantee a 1 year contract. I've visited CH before, didn't really love it, and between that and uprooting our lives for a 1 year contract that could possibly not be extended, to find ourselves almost immediately in a financially precarious position, didn't seem wise or prudent
+04:46 < mspe> Rent Prices in Estonia are 42.51% lower than in France
+04:46 < mspe> Groceries Prices in Estonia are 43.54% lower than in France
+04:46 < mspe> Restaurant Prices in Estonia are 27.25% lower than in France
+04:47 -!- e1e0 [~erxeto@e1e0.irc] has joined #team
+04:53 < aravk> don't hail jan6 too loudly mspe
+04:54 < mspe> just random examples ^^
+04:55 < kumquat> lolol
+04:55 < kumquat> "random"
+04:55 < login> how much is income in estonia less than france?
+04:56 < kumquat> it depends on the sector
+04:56 < kumquat> IT seems to be quite well-paid
+04:56 < kumquat> so you have the same salary or better than in FRance
+04:56 < kumquat> other sectors aren't as well-paying, though
+04:56 < login> but not so for swiss IT?
+04:57 < login> i see, so IT people in Estonia will find everything very affordable
+04:57 < kumquat> don't know, just know for pharma for CH, just know that in calculating, even a good salary in CH, it's not that good comparably
+04:57 < login> but it'll be just as expensive in switzerland for everybody else
+04:58 < login> sounds like everybody in CH makes a lot of money
+04:58 < login> for high rent to be so sustainable
+04:58 < login> might be time to sleep on the ground floor of the office and shower in the gym
+05:01 < aravk> someone give me an overview of estonia
+05:01 < aravk> I literally know nothing about it
+05:02 < aravk> except that it's cheaper to live there in france
+05:02 < aravk> s/in/than/
+05:02 < sedbot> <aravk> except that it's cheaper to live there than france
+05:02 < kumquat> lol
+05:02 < mspe> login: it's a little bit in average, but not the case for IT
+05:02 < mspe> * bit lower
+05:04 < mspe> aravk: jan6 could tell you better
+05:04 < mspe> kumquat and I are just dreaming of going there
+05:04 < mspe> (for now)
+05:06 < mspe> and we're thinking of visiting Tallinn for my birthday
+05:06 < aravk> ,birthday mspe
+05:06 < tildebot> [Birthday] mspe is 40 in 98 days
+05:06 < aravk> cool
+05:06 < aravk> I'll shout for jan6
+05:06 < aravk> JAN6
+05:07 < mspe> but in a nutshell
+05:07 < mspe> small country
+05:07 < mspe> half of it is covered with forests
+05:08 < mspe> 3 big cities
+05:08 < mspe> the capital is less than 500,000 people
+05:08 < mspe> the 2nd is a big students town
+05:08 < mspe> they have electronic id
+05:08 < mspe> can digitally sign official documents with it
+05:08 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+05:08 < mspe> everything is digitized
+05:09 < kumquat> ,hug
+05:09 < tildebot> [Ducks] kumquat befriended a duck in 14.21 seconds! You've befriended 80 ducks in #team!
+05:09 < mspe> you have e-voting
+05:09 < mspe> they started to use AI to assist political decisions
+05:09 < mspe> the administration is transparent for the use of your data
+05:09 < mspe> strong culture of remote working and entrepreneurship
+05:10 < mspe> you can launch your startup in less than an hour
+05:10 < mspe> etc.
+05:11 < mspe> nice countries around to visit: finland, sweden, denmark, latvia, lithuania, poland
+05:12 < mspe> they have numerous of islands also
+05:13 < mspe> ,friends
+05:13 < tildebot> [Ducks] Top duck friends in #team: j‌an6 (89), k‌umquat (80), l‌ickthecheese (61), k‌iedtl (33), b‌en (32), D‌r-WaSabi (21), c‌yberia (17), b‌litzkraft (16), h‌ackintech (10), m‌attx (10)
+05:13 -!- sleeperia is now known as spideria
+05:16 < kumquat> there's also the fact that almost everyone speaks English, and there's a  strong sort of Nordic vibe without the horrensously expensive nordic costs (a lot of people complain when they go to places like Finland and Sweden that everything is expensive af)
+05:18 < Dr-WaSabi> ,w
+05:18 < tildebot> [Weather] (Dr-WaSabi) Onaway, Michigan, United States of America | 5C/42F | Few Clouds | Humidity: 70% | Wind: 8.1km/h/5.0mi/h
+05:19 < login> Things being expensive == incomes being high
+05:20 < login> otherwise, if you earn more and everything is cheap, then something is wrong and prices are due to increase
+05:23 < aravk> mspe: sounds very cool
+05:24 < aravk> the only negative I see after 20 minutes on wikipedia is that they have a large focus on oil shale drilling (or whatever it's called)
+05:24 < aravk> but overall there are a shitton of positives
+05:25 < Dr-WaSabi> sounds very nice... come see the lake country
+05:25 < Dr-WaSabi> view the Moose
+05:26 -!- perrierjouet [~perrierjou@modemcable012.251-130-66.mc.videotron.ca] has joined #team
+05:28 < login> https://www.cnbc.com/2020/09/24/this-28-year-old-lives-on-227000-dollars-a-year-in-london-england.html
+05:28 < login> How do you feel when you read this?
+05:30 < aravk> just looking at the url has me a bit bewildered
+05:30 < aravk> $227,000
+05:30 < aravk> really
+05:33 < login> compare that to https://www.cnbc.com/2020/09/10/budget-breakdown-of-a-23-year-old-uber-driver-earning-25000-dollars-a-year.html
+05:33 < login> it's real, aravk
+05:33 < login> big corporations misallocate capital this way
+05:34 < aravk> communism time
+05:36 < aravk> :com test
+05:36 < sigsegv>  ☭ TEST ☭ 
+05:36 < aravk> :com communism time
+05:36 < sigsegv>  ☭ COMMUNISM TIME ☭ 
+05:37 < login> she spends on mobile games every month lol
+05:38 < login> her father was a banker in chicago
+05:38 < login> something doesn't smell right, you know?
+05:38 < aravk> does anything ever smell right
+05:47 < login> money smells right ;)
+05:48 < login> $227000 per year
+05:48 < login> 10k per month in "investments"
+06:17  * Dr-WaSabi needs more coffee, if for no other reason then to stay warm
+06:22  * cmccabe gives Dr-WaSabi some warm coffee
+06:22 <@cmccabe> morning login. how are you doing today?
+06:28 < login> i'm doing okay-okay, how are you doing?
+06:30 <@cmccabe> can't complain
+06:30 <@cmccabe> do you have anything fun planned for the weekend?
+06:38 < login> no, nothing fun planned
+06:39 < login> i tried to get some people on here to play hanabi with me, but they didn't like the game and it ended in 3 moves
+06:39 <@cmccabe> what is hanabi?
+06:39 < login> Do you have anything fun planned? Can't have fun when people are dying and a pandemic is raging on
+06:39 < login> cmccabe: it is a cooperatively-played board game
+06:41 <@cmccabe> i would offer to play, but my online time is too unpredictable and i would probably end up disappearing in the middle of the game
+06:41 <@cmccabe> no big plans for me this weekend.  maybe i'll do something fun like clean the basement
+07:58 -!- anton [anton@amcclure.org] has quit [Client exited]
+07:58 -!- anton [anton@am32.org] has joined #team
+08:29 <~benharri> ,w
+08:29 < tildebot> [Weather] (benharri) Traverse City, Michigan, United States of America | 5C/41F | Overcast Clouds | Humidity: 81% | Wind: 6.9km/h/4.3mi/h
+08:30 <~benharri> ,w Marquette
+08:30 < tildebot> [Weather] Michigan, United States of America | 2C/35F | Overcast Clouds | Humidity: 91% | Wind: 4.8km/h/3.0mi/h
+08:30 <~benharri> chillie
+08:35 < jtmlis> good morning everyone
+08:36 < jtmlis> humind benharri going to rain soon
+08:36 <~benharri> gm
+08:36 <~benharri> I hope it doesn't raon
+08:38 < jtmlis> I wonder if the FSF is going to go downhill without RMS or uphill.
+08:38 < jtmlis> just reading there latest newsletter now
+08:38 < hackintech> benharri welcome
+08:38 < hackintech> ,w
+08:38 < tildebot> [Weather] (hackintech) Madison, Wisconsin, United States of America | 0C/33F | Few Clouds | Humidity: 100% | Wind: 7.7km/h/4.8mi/h
+08:38 < hackintech> oh actually chilly
+08:39 <~benharri> ,c u location marquette
+08:39 < tildebot> [Config] Config 'location' set to {'timezone': 'America/Detroit', 'lat': 46.4481521, 'lon': -87.6305899, 'name': 'Michigan, United States of America'}
+08:39 <~benharri> ,w
+08:39 < tildebot> [Weather] (benharri) Michigan, United States of America | 2C/35F | Overcast Clouds | Humidity: 91% | Wind: 4.8km/h/3.0mi/h
+08:39 <~benharri> cold
+08:39 < jtmlis> 100% humidity for sure it is going to rain hackintech 
+08:39 < jtmlis> ,w
+08:39 < tildebot> [Weather] (jtmlis) Ottawa, Ontario, Canada | 9C/49F | Broken Clouds | Humidity: 93% | Wind: 11.2km/h/6.9mi/h
+08:40 < hackintech> jtmlis: no
+08:40 < hackintech> it probably won't
+08:40 < hackintech> the air is just water again
+08:41 < jtmlis> lol 
+08:41 < jtmlis> other than xkcd is there an irc comic strip?
+08:52 < kumquat> ,w
+08:52 < tildebot> [Weather] (kumquat) Bordeaux, New Aquitaine, France | 14C/58F | Overcast Clouds | Humidity: 62% | Wind: 22.3km/h/13.9mi/h
+08:54 < hackintech> COLD
+09:00 < kumquat> nice for walking
+09:00 < kumquat> went out for a walk during lunch and randomly discovered a small park next to a convent
+09:01 < kumquat> which I had no idea existed, lol
+09:17 -!- ged [ged@tilde.team] has quit [quit: WeeChat 2.9]
+09:17 -!- ged [ged@tilde.team] has joined #team
+09:24 <~ben> wtf it's snowing
+09:27 < kumquat> whaaaaaat
+09:27 < kumquat> ,w ben
+09:27 < tildebot> [Weather] (ben) Michigan, United States of America | 2C/35F | Overcast Clouds | Humidity: 100% | Wind: 7.6km/h/4.7mi/h
+09:27 < kumquat> 2C
+09:27 < kumquat> ouch
+09:27 <~ben> ,c u location
+09:27 < tildebot> [Config] location: {'timezone': 'America/Detroit', 'lat': 46.4481521, 'lon': -87.6305899, 'name': 'Michigan, United States of America'}
+09:28 < ged> I envy you
+09:28 <~ben> i don't lol
+09:28 < ged> Sorry, this might not be what I meant to say
+09:28 < kumquat> 100% humidity
+09:28 < ged> I'm jealous
+09:28 < kumquat> FUN
+09:28 <~ben> i would like to be not in the snow
+09:28 < ged> COLD
+09:28 <~ben> no
+09:28 <~ben> bad
+09:28 < kumquat> lol
+09:29 < hackintech> SNOW
+09:29 < kumquat> snow isn't bad so long as you don't have to go anywhere
+09:29 < ged> Ooooh yeah I see, the humidity going in your clothes
+09:29 <~ben> but you still have to go places
+09:29 < kumquat> ,w ged
+09:29 < tildebot> [Weather] Louisiana, United States of America | 14C/57F | Clear Sky | Humidity: 82% | Wind: 5.4km/h/3.4mi/h
+09:29 <~ben> i hate doing snow relocation
+09:29 < ged> I love when it's cold _and_ dry
+09:29 <~ben> it's miserable
+09:30 < ged> And btw I haven't set my location
+09:30 < kumquat> I kinda miss snow
+09:30 <~ben> take mine i don't want it
+09:30 < kumquat> though I'm sure the next time I have any, I'll take that back, lol
+09:30 < ged> Can you send us a postal package with snow?
+09:30 < kumquat> the worst is driving in places where people aren't accustomed to snow
+09:30 <~ben> but as you said it's find if you don't have to go anywhere or don't have to do the snow relocation
+09:31 < kumquat> there's always a gajillion accidents
+09:31 <~ben> fine*
+09:31 <~ben> people are mostly ok at driving in snow up here
+09:31 < hackintech> lol
+09:31 <~ben> but it's sketchy the first couple weeks of snow on the ground
+09:31 < ged> I'm tired and I'd kill for a coffee
+09:31 < kumquat> whenever there was the tiniest amount of snow in ATL it was basically a total disaster
+09:31 < ged> Not anyone, though
+09:31  * ben sips c[~]
+09:32 < kumquat> which made no sense to me because there are so many midwest transplants
+09:32 <~ben> https://gallery.bhh.sh/index.php?/category/6
+09:32 < tildebot> [Title] photos / winter
+09:32 < kumquat> it's like moving south they forgot EVERYTHING
+09:32 <~ben> they probably got cars with only 2wd
+09:32 < hackintech> lol 2wd
+09:32 < ged> I ATL?
+09:32 < hackintech> no ty
+09:32 <~ben> 2wd would be rough in the winter
+09:32 <~ben> no thx
+09:32 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+09:32 <~ben> ,bef
+09:32 < tildebot> [Ducks] ben befriended a duck in 1.62 seconds! You've befriended 33 ducks in #team!
+09:32 < kumquat> fair
+09:32 < hackintech> I have AWD with snow rated tires
+09:33 < hackintech> snow stands no chance
+09:33 < kumquat> lol
+09:33  * hackintech evil laughs
+09:33 <~ben> awd + all-seasons
+09:33 < hackintech> awd + snow tires
+09:33 < hackintech> ;)
+09:33 <~ben> i love doing donuts in parking lots after fresh snow
+09:33 < kumquat> well I was going to say I know who I'd want to get snowed in with, but the evil laugh concerns me
+09:33 < kumquat> lol
+09:33 <~ben> also skiing is pretty fun
+09:33 <~ben> https://gallery.bhh.sh/picture.php?/525/category/6
+09:33 < tildebot> [Title] IMG 20200222 122908
+09:33 < kumquat> man I haven't gone skiing in forever
+09:33 < kumquat> now I want to go
+09:34 <~ben> i hope this winter is as easy as last winter
+09:34 < kumquat> should go skiing before we leave france
+09:34 <~ben> do it
+09:34 <~ben> chamonix
+09:34 < kumquat> skiing in the pyrenees is great
+09:34 <~ben> i imagine so
+09:34 <~ben> i've skied in .ch
+09:34 <~ben> when i lived there
+09:34 < hackintech> wat
+09:34 < hackintech> not fairrrrr
+09:34 < kumquat> I've skiied in both, but I really love the pyrenees, it's something I'll miss when we leave france
+09:34 <~ben> it's incredible
+09:35 <~ben> alpine skiing
+09:35 <~ben> the hills are so short here
+09:35 <~ben> takes like 8 minutes to ride the lift and you get to the bottom in like 30 seconds
+09:35 <~ben> that's barely an exaggeration
+09:36 < kumquat> you've got great skiing in canada too though
+09:36 < kumquat> we went to bamff when I was a kid and the skiing there was really great
+09:37 < hackintech> i hope we get lots of snow
+09:40 <~ben> i just don't want to do shit tons of snow relocation
+09:41 <@cmccabe> do you have a snow blower, ben?
+09:41 <~ben> yeah
+09:41 < kumquat> wait, do you mean snow shoveling?
+09:41 < kumquat> lol
+09:41 <~ben> some people call it snow removal
+09:41 < kumquat> I was like wtf is snow relocation, lol
+09:41 <~ben> but it's not getting removed
+09:41 <~ben> it's just getting relocated
+09:41 <@cmccabe> i don't mind snow shoveling, except on stairs.  i hate shoveling stairs
+09:41 < kumquat> fair
+09:41 < hackintech> it is getting relocated, hopefully to france
+09:41 < kumquat> lol
+09:41 <~ben> i hate shoveling
+09:42 < kumquat> hopefully to the pyrenees so I can ski :P
+09:42 < kumquat> I don't want snow in Bordeaux
+09:42 < kumquat> there WILL be accidents
+09:42 < kumquat> people don't know how to drive when there's rain, and we get rain all the time
+09:42 < hackintech> nice, we like accidents
+09:42 < kumquat> I shudder to think of Bordeaux with snow
+09:42 <@cmccabe> are you a good ski'ist, kumquat?
+09:42 < hackintech> how do you know how to drive in the rain
+09:42 < hackintech> how do you not know how to*
+09:43 < kumquat> I don't know if I'm good, but I enjoy it
+09:43 < hackintech> tf
+09:43 < kumquat> I haven't gone in a few years
+09:43 <@cmccabe> i've been trying to learn snowboarding with my 11-year-old and have found the transition from skiing difficult
+09:43 < kumquat> I assume skiing is like riding a bike, in that you don't really lose it
+09:43  * kumquat says tht and imagines herself accidentally plowing down a bunch of people
+09:44 < kumquat> I tried snowboarding once and immediately gave up
+09:44 < kumquat> I fell SO MUCH
+09:50 -!- nue [nue@tilde.team] has quit [quit: WeeChat 2.9]
+09:50 <@cmccabe> my first run down the bunny hill was a catastrophe
+09:51 <@cmccabe> it felt really good for about 10 meters, so i let myself build up speed.  then i lost control in a spectacular flipping, flailing whirlwind that ended skydropping my knee directly onto some super-hardpacked snow.  i thought i broke it at first
+09:52 <@cmccabe> i still remember hearing my daughter. "daddy? daddy? are you ok?"
+09:52 <@cmccabe> "ummm... i don't know yet"
+09:52 < kumquat> lolo
+09:52 < kumquat> OOOOOF
+09:53 < kumquat> glad you survived :P
+09:53 <@cmccabe> we were able to finish off the day, but i had a yellow and purple knee for a while
+09:55 -!- nue [nue@tilde.team] has joined #team
+09:59 < xfnw> hi nue
+10:00 < xfnw> rip cmccabe's knee
+10:05 -!- ged [ged@tilde.team] has quit [quit: WeeChat 2.9]
+10:05 -!- ged [ged@tilde.team] has joined #team
+10:06 -!- ged [ged@tilde.team] has quit [quit: WeeChat 2.9]
+10:10 -!- Alina25 [~Alina@145.red-83-52-160.dynamicip.rima-tde.net] has joined #team
+10:33 <@khuxkm> 
+10:35 < kumquat> work: OVER
+10:35  * kumquat throws confetti
+10:39 < hackintech> i would like the abyss to consume me
+10:40 <@khuxkm> same
+10:40 <@khuxkm> gimme the yeet bois and free my soul, i wanna get tossed in a fuckin hole and drift away
+10:41 < hackintech> same
+10:41 < kumquat> feels
+10:46 < jtmlis> How can I scrape this data https://www.ontario.ca/page/adult-learning-ontario-high-school-diploma#section-4 from google maps
+10:49 < hackintech> maybe IT is a bad idea
+10:49 < hackintech> demon boxes
+10:52 < anton> hello teammates
+10:54 < jtmlis> hey anton 
+10:55 < anton> how do
+11:02 -!- cren [cren@tilde.team] has joined #team
+11:04 < jtmlis> okay trying my hardest to find a central repo of all the schools in my province, there has to be a master file that feeds all the other client interfaces. I just cant find it
+11:04 < jtmlis> anton: and you?
+11:04 < cren> good hello friends
+11:04 < anton> I'm doing okay
+11:05 < kirch> jtmlis: it's it's own page - in an iframe.... https://www.ontario.ca/static/feats-map-en.html
+11:05 < tildebot> [Title] Find employment and training services | Ontario.ca
+11:06 < kirch> jtmlis: looks like they're pulling data from here: https://211ontario.ca/
+11:06 < tildebot> [Title] Ontario 211 | Community and Social Services Help Line
+11:07 < jtmlis> How did you figure that out? 
+11:07 < kirch> with this URL in the iframe's code: https://data.211support.org/api/v1/search?key=bMxgDETNYlOQKJmniRBPuAeUyp5a3f2Vqk1ZcLjF0H4XGr8W76dCo9twzshSIv
+11:07 < jtmlis> ohhh, thank you so much kirch!!!
+11:08 < kirch> SO - the map doesn't let you right-click anywhere - but if you open a point on the map there's a link you can click on, and that will give you a place to do "inspect elemement" - from there I found it was an iframe, so I copied teh src url into a new window, then started looking at the code there...
+11:08 < kirch> datURL:
+11:09 < kirch> https://211ontario.ca/search-services-and-organizations/?internal-search=eyJ0ZXJtIjoiU2Nob29sIiwibG9jYXRpb25UZXh0IjoiT250YXJpbyIsImxvY2F0aW9uUG9pbnQiOnsibGF0aXR1ZGUiOjAsImxvbmdpdHVkZSI6MH0sIm1heERpc3RhbmNlSW5LaWxvbWV0ZXJzIjowLCJ0b3BpY1BhdGgiOiIiLCJ0eXBlT2ZTZXJ2aWNlIjoiIiwicmVxdWlyZVdoZWVsY2hhaXJBY2Nlc3MiOmZhbHNlLCJsYW5ndWFnZXMiOltdLCJjb21tdW5pY2F0aW9ucyI6W10sImFnZUdyb3VwcyI6W3sibG93Z
+11:09 < tildebot> [Title] Search All Services And Navigations | Ontario 211
+11:09 < kirch> XJCb3VuZEFnZSI6MCwidXBwZXJCb3VuZEFnZSI6MTAwfV0sInBhZ2luYXRpb25JbmZvIjp7InNvcnRGaWVsZCI6IiIsInNvcnRPcmRlciI6MCwicGFnZUluZGV4IjowLCJwYWdlU2l6ZSI6MTB9fQ==
+11:09 < kirch> so, they're base64 encoding a bunch of stuff and cramming it in the URL
+11:10 < jtmlis> okay wow thank you. You really helped me out it is a for a good cause. I am scraping the data to create a google custom search engine to search schools exclusively
+11:10  * cren thinks that is probably bad design
+11:10 < kirch> and here's the decoded base64 on the 211 search: https://i.imgur.com/ozLjgwc.png
+11:11 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+11:11 < kirch> SO... 
+11:11 < kirch> ,bef
+11:11 < tildebot> [Ducks] kirch befriended a duck in 4.58 seconds! You've befriended 2 ducks in #team!
+11:12 < kirch> SO... you can create your own searches for that site as a JSON object like that - then do btoa(JSON.stringify(searchjson)) - to get a 211ontario.ca search.... not sure if other provinces are recorded on that site or not though
+11:17 < jtmlis> kirch I am  still trying to find how you go to the 211 link from the map, I am using the developer console, to search. If you have time later, can you show me? As for json a little past my skill level, I was planning on using python, beautifulsoup and selenium to scrape data to a csv. really beginner stuff
+11:18 < jtmlis> kirch never mind I got it, under mapframe--> js --> https://www.ontario.ca/js/featsMap.js?v=2
+11:19 < jtmlis> I am going to try and get access to the api, but no for canada, the most comprehensive directory I found is https://www.cicic.ca/869/resultats.canada?search=
+11:19 < tildebot> [Title] Do an advanced search in the Directory of Educational Institutions in Canada
+11:21 < kirch> jtmlis: oh, all the links on the map go to somewhere like: https://www.ontario.ca/locations/employment-training/details?fid=68951767&lang=en&category=PR003
+11:21 < kirch> jtmlis: yup
+11:23 < kirch> jtmlis: another way you can do this is with DevTools - in Chrome you right-click and inspect an element and it pops up that window? well, hit the network tab then refresh the page - that will show everything the page loads, and you can sort by XHR (stuff loaded with AJAX) or just Javascript files... that's a good way to find everything
+11:25 -!- asternitix [~asternitix@c-73-235-22-251.hsd1.ca.comcast.net] has joined #team
+11:26 -!- asternitix [~asternitix@c-73-235-22-251.hsd1.ca.comcast.net] has quit [quit: Gone]
+11:26 < jtmlis> kirch okay awesome, yeah I have to learn devtools more. keep you posted on the developments ideally I should have everything scraped by Sunday, its my first time so I am expecting a bit of a learning curve.
+11:26 < kirch> good luck - what are you programming in?
+11:27 < Dr-WaSabi> tomasino: how can you not be in #vim??
+11:28 < jtmlis> python since it is my first time trying to keep things simple. 
+11:28 < hackintech> grr no simple
+11:28 < hackintech> more complex, more perl, hail satan
+11:28 < jan6> perl ain't that bad, lol
+11:29 < jan6> shell scripts is where the REAL fun begins
+11:29 < jtmlis> lol
+11:29 < jtmlis> ,grab hackintech 
+11:29 < tildebot> [Quotes] Quote added
+11:31 < tomasino> Do we have a vim?
+11:32  * anton vim
+11:32 < hackintech> no vim
+11:32 < hackintech> doomspacevimmacs
+11:34 < kumquat> I'm cold
+11:34 < kumquat> someone make me tea
+11:36 < cren> kumquat: #tea
+11:37  * kumquat is in negociations to get mspe to make her tea
+11:37 < cren> good luck kumquat
+11:38 < kumquat> I have feline paralysis
+11:39 < aravk> ah yes
+11:39 < aravk> well known condition
+11:39 < hackintech> abyss plz
+11:39  * aravk throws hackintech into the abyss
+11:40 < hackintech> tyvm
+11:40 < aravk> np, anytime
+11:40 < aravk> I don't offer services to bring you back from the abyss though
+11:41  * kumquat puts her cold feet on jan6
+11:41  * kumquat watches hackintech being thrown into the abyss and eats popcorn
+11:41  * aravk steals some popcorn and throws it in with hackintech
+11:41 < aravk> enjoy
+11:41 < kumquat> lol
+11:44 < jtmlis> I wonder what a piece of theatre would look like based on a random irc chatroom with /me tags
+11:44 < aravk> tfw you stop understanding your increasingly-complicated project and have to restart
+11:44 < aravk> jtmlis: it would be absolutely beautiful
+11:45 < aravk> hey
+11:45 < jtmlis> putting it in the idea bin.
+11:45 < aravk> someone should make an irc channel for that
+11:45  * jan6 is actually ACTION message
+11:45 < jan6> lol
+11:45 < aravk> hola jan6
+11:45 < jtmlis> lol on tilde or freenode?
+11:45 < jan6> quakenet!
+11:45 < jan6> lol
+11:45 < hackintech> no jan6
+11:45 < jan6> no hackintech 
+11:45 < jtmlis> lol
+11:45 < tomasino> Pew pew
+11:45 < kumquat> yes kumquat
+11:45 < aravk> I'm mainly on tilde so I would say tilde, but put it wherever
+11:45 < jan6> hackintech's entire schtick is to say "no jan6" to everything
+11:46 < aravk> it's a pretty good schtick
+11:46 < jan6> also available "bad jan6" "no" and "not jan6!"
+11:46 < kumquat> kumquat's whole schtick is being kumquat
+11:46 < aravk> jan6: tell me about estonia
+11:46 < aravk> it seems very interesting
+11:46 < aravk> would like to know more
+11:46 < jan6> it's heaven on earth
+11:46 < aravk> what's the vibe
+11:46 < jan6> cool
+11:47 < jan6> we be chillin'
+11:47 < aravk> nice
+11:47 < aravk> how's covid doing there
+11:47 < kumquat> lol aravk wants to know after mspe ranted positively about it this morning
+11:47 < jan6> nice
+11:47 < aravk> kumquat yes
+11:47 < aravk> jan6: wait
+11:47 < aravk> covid is doing nice over there
+11:47 < aravk> ?
+11:47 < kumquat> jan6, estonian mystery
+11:47 < jan6> like 750 people or so limits on events, but other than that a bit climbing back, but still chill
+11:47 < jan6> ,grab kumquat 
+11:47 < tildebot> [Quotes] Quote added
+11:47 < jan6> ,qadd jan6=<kumquat> jan6, estonian mystery
+11:47 < tildebot> [Quotes] Quote added
+11:48 < aravk> why twice
+11:48 < jan6> or I THINK it was 750, probably lower, idk
+11:48 < kumquat> I require blankets
+11:48 < aravk> 750 seems like a lot
+11:48 < jan6> one adds kumquat quote, one adds jan6 quote
+11:48 < jan6> lol
+11:48  * aravk gives kumquat ducc instead
+11:48 < aravk> I see
+11:48 < jan6> yeah, 750 sounds too big, lol
+11:48  * kumquat puts the ducc on one of her feet
+11:48  * aravk gives kumquat another ducc
+11:48 < jan6> https://animefest.eu/ is how I became aware of any limits, lol
+11:48 < aravk> I see
+11:49 < jan6> so sad j-zone ain't coming as soon...
+11:49 < kumquat> hmm ducks aren't as good at conducting heat like cats
+11:49 < aravk> how expensive is it to live there?
+11:49  * aravk doesn't have any cats
+11:49 < jan6> "Unfortunately, the pandemic situation in Estonia has deteriorated rapidly, and the new rules for the Fall of 2020 restrict an event such as ours to a total of 750 attendants, maximum."
+11:49 < kumquat> but my cats stubbornly refuse to sleep on my feet, instead preferring my lap or boobs
+11:49 < aravk> oof
+11:49  * jan6 has no idea about expensiveness
+11:49 < jan6> but nowhere near as bad as actual metropolises and stuff, lol
+11:50 < aravk> pretty cool
+11:50 < jan6> if you go a little away from cities/towns you should be able to get pretty cheap
+11:50 < jan6> just means a little commute
+11:50  * kumquat wants to live in the forest
+11:50 < aravk> there have to be pictures of people covered from head to toe in different cute animals, right?
+11:50 < jan6> but that's just normal logic
+11:50 < jan6> good for you kumquat, you can, lol
+11:51 < aravk> I'm taking an economics class in high school and from the looks of it the entire thing is broken from day 1
+11:51 < jan6> lol how so?
+11:52 < aravk> it basically reflects all the big issues with capitalism
+11:52 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+11:52 < aravk> because all basic economics assumes money as the source of power
+11:52 < jan6> ,bef
+11:52 < tildebot> [Ducks] jan6 befriended a duck in 2.21 seconds! You've befriended 90 ducks in #team!
+11:52 < hackintech> ,bef
+11:52 < tildebot> [Ducks] hackintech: There was no duck! missed by 0.29 seconds
+11:52 < aravk> ,bef
+11:52 < tildebot> [Ducks] aravk: There was no duck! missed by 0.37 seconds
+11:52 < hackintech> woow
+11:52 < jan6> maybe that's the secret lesson there ;P
+11:52 < jan6> lol
+11:52 < cren> just opened the terminal window
+11:52 < jan6> all hail jan6 btw
+11:52 < aravk> welp
+11:52 < kirch> That's Orthodox Economics for ya - all the stuff that recognized "humans are not rational actors" is called "Heterodox Economics"
+11:52 < jan6> humans are semi-rational actors
+11:52 < aravk> I should look into that
+11:52 < aravk> thanks kirch
+11:53 < aravk> but the issue I think is a bit deeper than that
+11:53 < aravk> money seems to increase exponentially
+11:53 < aravk> so if someone starts off with say $200 compared to someone who starts of with $100
+11:53 < kirch> I just read this thing, and rage-quit like 3 paragraphs in... https://www.fnbsf.com/why-are-interest-rates-so-low/
+11:53 < tildebot> [Title] Why Are Interest Rates So Low? - The First National Bank in Sioux Falls
+11:53 < aravk> the first person will over time be able to grow their money much faster than the second person
+11:54 < aravk> so basically all the people who gained money first will always have the upper hand over all the others
+11:55 < kirch> people who print/distribute the currency have no incentive to not take a cut off the top
+11:55 < aravk> there's also this whole concept of unequal information
+11:57 < jan6> lol of course
+11:57 < aravk> the issue is that the current system is the 'easy' way
+11:58 < aravk> i.e. simplest
+11:58 < aravk> at least at the core
+11:58 < aravk> so trying to stick the concept of equality/equity in there is difficult
+11:58 < jan6> the problem with "first to money" is that if you start with more, unless the other party innovates noticeably to get past you, you can always just match whatever they're doing, better and more
+11:58 < jan6> but that's nothing hard to figure out
+11:59 < jan6> problem is that it's near impossible to top the high ups after a while
+11:59 < kirch> Well, the current system is "The Way It's Always Been" - the people who were wealthy fuedal lords have descendants who are now wealthy businessmen
+11:59 < Dr-WaSabi> ,w
+11:59 < tildebot> [Weather] (Dr-WaSabi) Onaway, Michigan, United States of America | 6C/43F | Clear Sky | Humidity: 70% | Wind: 6.4km/h/4.0mi/h
+11:59 < jan6> not really
+11:59 < jan6> the people are different
+11:59 < jan6> the story's the same tho
+11:59 < kirch> not direct bloodlines - not always
+11:59 < kirch> Ideological descendants 
+11:59 < aravk> ^
+12:00 < aravk> you could always go back and think about what the point of money is
+12:00 < kirch> David Graeber's Debt: the first 5000 years is a really good book
+12:01 < aravk> money is from one point of view a translation system telling you how valued things are relative to each other
+12:03 < aravk> from another point of view it's a promise from the government that they owe you a certain value of stuff (e.g. gold)
+12:03 < aravk> but whatever
+12:03 < aravk> not in the mood to do thinking
+12:04 < jan6> lets just go back to natural trading, plz
+12:04 < jan6> let everyone say how much THEY think something is worth
+12:06 < kirch> https://archive.org/details/DebtTheFirst5000Years/
+12:06 < tildebot> [Title] Debt: The First 5000 Years : David Graeber : Free Download, Borrow, and Streaming : Internet Archive
+12:07 < kirch> ^^ this takes a more anthropological tact than economists do - no thought experiment about barter->markets
+12:10 < jan6> ,yt shoot all your problems away
+12:10 < tildebot> [Youtube] SHOOT ALL YOUR PROBLEMS AWAY (2m 51s) uploaded by TomSka on 2015-11-06, 8,544,444 views (211,893↑↓6,231) https://youtu.be/HAtkMuyVPS0
+12:10 < jan6> s/gun/money/
+12:10 < jan6> P;
+12:10 < jan6> ;P
+12:12 < jtmlis> kirch funny you reference that book, I just listened to his google talk, about it. Fasinating I want to read the book.
+12:12 < kumquat> perfect fall-time
+12:12 < kumquat> I'm under a giant blanket with a huge mug of tea
+12:12 < jtmlis> sounds commfy
+12:12 < xfnw> is it a weighted blanket?
+12:13 < aravk> kumquat: don't drop the tea
+12:13 < kumquat> no, just a regular fluffy blanket
+12:13 < aravk> s/drop/drop\/spill/g
+12:13 < sedbot> <aravk> kumquat: don't drop/spill the tea
+12:14  * kumquat "spills" a small amount of tea on aravk
+12:14 < aravk> aaah
+12:14  * aravk dies
+12:16 < jan6> kumquat: s/tea/hot chocolate/cocoa, mmmmmmm/
+12:16 < kumquat> hmmm hot chocolate does sound good
+12:19 < jan6> all hail jan6
+12:19 < jan6> innit
+12:19 < kumquat> or a nice warming golden milk would be good too
+12:20 < jan6> silver milk instead
+12:20 < kumquat> lol
+12:20 < jan6> I'd take silver over gold any day, btw
+12:21 < kumquat> in terms of jewelry yes, in terms of milk, no :P
+12:21 < jan6> ,ud silver milk
+12:21 < tildebot> [UrbanDictionary] No results found
+12:21 < jan6> ,ud golden milk
+12:21 < tildebot> [UrbanDictionary] Golden milk: [The mix] of semen and urine when [you first] pee [after sex]
+12:21 < jan6> you sure?
+12:21 < jan6> lol
+12:22 < kumquat> ,wi golden milk
+12:22 < tildebot> [Wikipedia] Turmeric: Turmeric (pronounced , also or ) is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae, the roots of which are used in cooking. The plant is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia, that requires temperatures between 20 and 30 °C (68 and 86 °F) and a considerable amount of annual rainfall to thrive. Plants are gathered each year for their rhizomes, some (more...)
+12:22 < jan6> ,wi silver milk
+12:22 < tildebot> [Wikipedia] No results found
+12:23 < kumquat> golden milk is milk with turmeric, ginger, cardamom, etc
+12:23 < kumquat> it's warming and absolutely delicious
+12:23  * jan6 gets tirggered by cardaMOM
+12:23  * jan6 insists it MUST be ending with oN
+12:24 < kumquat> ,wi cardamom
+12:24 < tildebot> [Wikipedia] Cardamom: Cardamom (), sometimes cardamon or cardamum, is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae. Both genera are native to the Indian subcontinent and Indonesia. They are recognized by their small seed pods: triangular in cross-section and spindle-shaped, with a thin, papery outer shell and small, black seeds; Elettaria pods are light green and smaller, while Amomum pods (more...)
+12:24 < kumquat> so it can be spelled with on, but om is more common, lol
+12:25 < jan6> your MOM is more common
+12:26 < kumquat>  my mom is anything but common, lol
+12:30 < hackintech> oof
+12:30  * kumquat gives hackintech 1 cat
+12:31 < hackintech> same
+12:31 < blitzkraft> I raise. two cats.
+12:32  * kumquat rains cats on #team
+12:32 < jan6> I see your two cats and I raise..NEGATIVE CATS!
+12:32  * hackintech gives jan6 perl
+12:33 < blitzkraft> jan6: THAT'S. NOT. A. RAISE.
+12:33 < kirch> I don't like ginger... tastes like solvent... ginger ale is OK
+12:33 < kirch> ginger beer is noy
+12:33 < kirch> *not
+12:33 < blitzkraft> what do you think of coriander/cilantro?
+12:33 < kumquat> I LOVE ginger
+12:34 < hackintech> coriander is ILLEGAL
+12:34 < kirch> Cilantro is fine
+12:34 < kumquat> ginger and cilantro are life
+12:34 < aravk> quite opinionated, aren't we
+12:34 < kirch> The whole Horseradish family tastes of solvent to me... but things others say taste like soap tastes fine
+12:34  * kumquat feels sad for kirch
+12:35 < kirch> ginger snaps can go either way, but are mostly ok........ it's quantity, I think
+12:35 < kumquat> ginger is delicious
+12:35  * Dr-WaSabi loves ginger, as long as the temper isn't to bad
+12:35 < kirch> I trace this hatred back to my mom making ginger/tofu stir fry when I was about 15...
+12:35 < kumquat> YUM
+12:36 < kumquat> that sounds good
+12:36 < aravk> opinions on garlic?
+12:36 < kumquat> good
+12:36 < kirch> Roast it and eat it as a snack
+12:36 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+12:36 < kumquat> ,hug
+12:36 < tildebot> [Ducks] kumquat befriended a duck in 3.35 seconds! You've befriended 81 ducks in #team!
+12:36 < blitzkraft> ,bef
+12:36 < tildebot> [Ducks] blitzkraft: There was no duck! missed by 0.26 seconds
+12:37 < blitzkraft> NO!!
+12:37 < kumquat> yes
+12:37 < blitzkraft> what about duccs?
+12:37 < kumquat> I need to catch up to jan6
+12:37 < blitzkraft> roasted? or stew?
+12:37 < kumquat> ,friends
+12:37 < tildebot> [Ducks] Top duck friends in #team: j‌an6 (90), k‌umquat (81), l‌ickthecheese (61), b‌en (33), k‌iedtl (33), D‌r-WaSabi (21), c‌yberia (17), b‌litzkraft (16), h‌ackintech (10), m‌attx (10)
+12:37 < jan6> you're not far off
+12:37 < kumquat> in a lake, where they belong
+12:37 < jan6> let's just keep up the double team
+12:37 < kumquat> not on a plate
+12:37 < kumquat> no eating ducks
+12:37 < blitzkraft> kumquat: I'll give you three duccs
+12:37 < jan6> our ducks are in a filthy pond
+12:37 < jtmlis> any ideas how I can render my smart tv useless? My roommates are just drinking and watching it all day, day after day. It is in front of my room
+12:38 < jan6> jtmlis: cut the cable ;P
+12:38 < jtmlis> lol cant be obvious
+12:38 < blitzkraft> how much effort are you willing to put in? 
+12:38 < jan6> cut the cable and tape it back!
+12:38 < jtmlis> 3-6 hours
+12:38 < kumquat> don't buy a smart tv to begin with? :P
+12:38 < jan6> you can unscrew the back, cut the cable connection inside, and screw back together
+12:38 < jan6> lol
+12:38 < blitzkraft> open up the back, and disconnect power on the inside.
+12:38 < jan6> exactly
+12:38 < jtmlis> oh great idea , thank you
+12:38 < jan6> what I just said, lol
+12:39 < blitzkraft> it can be still fixed if you ever want to. 
+12:39 < jtmlis> lol All hail jan6
+12:39 < blitzkraft> lol hail jtmlis 
+12:39 < jan6> all hail jan6
+12:39 < blitzkraft> *lol hail jan6 
+12:39 < aravk> all hail blitzkraft
+12:39 < jtmlis> ALL HAIL blitzkraft 
+12:39 < jan6> öpö hail jan6
+12:39  * kumquat and mspe have a 40 inch computer screen instead of a tv  to watch movies and such
+12:39 < hackintech> ALL HAIL SATAN
+12:39 < blitzkraft> no
+12:39 < aravk> ALL HAIL KUMQUAT
+12:39  * kumquat hails jan6
+12:39 < blitzkraft> ALL HAIL SANTA
+12:39 < kumquat> ty
+12:39 < jan6> tbh I never understood the difference in "this is a tv screen" and "this is a computer screen"
+12:40  * kumquat gives aravk kumquats
+12:40 < aravk> jan6: I don't think there is a difference
+12:40 < aravk> thanks kumquat
+12:40 < blitzkraft> usually, computer screens have a higher dpi.
+12:40  * aravk eats the kumquats
+12:40 < kumquat> well in our case it's to avoid paying a TV tax, lol
+12:40 < blitzkraft> wait, wat?
+12:40 < blitzkraft> wtf is a tv tax?
+12:40 < kumquat> in France you pay 100+ euros because you own a TV
+12:40 < blitzkraft> and why tf is that a thing?
+12:40 < jtmlis> holy moly really !!
+12:40 < mspe> you pay every year to finance the bullshit you get on public tv
+12:41 < kumquat> every year on your income taxes
+12:41 < mspe> (if you own a tv)
+12:41 < jan6> so, if you use computer monitors to hook up to a TV, is that tv or no?
+12:41 < jan6> lol
+12:41 < hackintech> why do you need a tv license
+12:41 < kumquat> but French tv is TERRRIBLE to begin with
+12:41 < kumquat> so fuck that
+12:41 < blitzkraft> didn't anyone think it is irrelevant at the present day?
+12:41 < jan6> probably still better than chinese/japanese tv
+12:41 < mspe> (if you own smething with a tuner: tv, vcr, internet box, etc.)
+12:41 < jan6> ,yt japan tv is
+12:41 < tildebot> [Youtube] JapaNews24 ～日本のニュースを24時間配信 (0s) uploaded by ANNnewsCH on 2019-01-22, 71,596,167 views https://youtu.be/coYw-eVU0Ks
+12:41 < jan6> hmm
+12:41 < jtmlis> considering the state of public television what a waste. I miss the educational content they had on before. Now at least the CBC is like government fox or something with 2 and half men or something
+12:41 < jan6> not that video
+12:42 < hackintech> hmm
+12:42 < mspe> it's something like 140€/year
+12:42 < jan6> but like, ALLL the shows are the same, a formula that old people like, different topics, different hosts, pretty much same content
+12:43 < hackintech> do people come to your house and verify it
+12:43 < jtmlis> I wish they gave that money to youtubers, would be interesting just imagine
+12:43 < hackintech> and if you don't have one then what are you arrested or what
+12:43 < kumquat> hackintech: yes
+12:44 < jtmlis> not the popular youtubers either, really fringe ones
+12:44 < hackintech> go to jail for not having tv license
+12:44 < kumquat> and they don't arrest you, but you pay a fine and you'll have to pay the tax from now on
+12:44 < mspe> plus extra big fine
+12:44 < mspe> they already sent a letter to me
+12:44 < mspe> asking to testify that we didn't own a tv
+12:45 < hackintech> jail, go to jail
+12:45 < jtmlis> LOL
+12:45 < mspe> they didn't come to check but I responded that yes they could come verify if they want
+12:46 < blitzkraft> what is the legal language for defining a tv and not a computer screen? just the tuner/vcr stuff?
+12:46 < kumquat> I'll sic a cat on them if they do
+12:46 -!- Alina25 [~Alina@145.red-83-52-160.dynamicip.rima-tde.net] has quit [Ping timeout: 120 seconds]
+12:46 < mspe> the tuner, yes
+12:46 < blitzkraft> so, if you're watching tv through internet, that wouldn't be taxed?
+12:46 < mspe> usb tuner, vcr, tv, pci tuner, internet box
+12:46 < blitzkraft> oh, internet box - so the modem/router from ISP?
+12:46 < mspe> no, physical tuner, but we don't even watch tv through internet streaming
+12:47 < mspe> yeah because the “boxes” in france mix router, phone and tv tuner
+12:47 < mspe> but we have no box, we use 4G usb modems
+12:47 < mspe> internet only
+12:47 < blitzkraft> I see. it just seems like an arbitrary distinction, in the present day. it was perhaps logical about 20 years ago
+12:48 < mspe> they keep debating about it but didn't change it
+12:48 < mspe> I'm fine with it cause we never watch tv anyway
+12:48 < mspe> even through the internet, cause there's even more ads than if you did watch tnt tv
+12:48 < mspe> (and the programs are horrible)
+12:49  * Dr-WaSabi hasn't watched tv in over a year
+12:49 < mspe> trash tv, tons of ads, stupid games, false debates, stupid shit, reruns
+12:49 < blitzkraft> yup
+12:49 < mspe> I stopped watching tv in 2009
+12:49 < tomasino> i can't remember when we cut the cord
+12:50 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+12:50 < kumquat> *//
+12:50 < jan6> https://www.youtube.com/watch?v=Kfhdp5U_J-E
+12:50 < jan6> ,bef
+12:50 < tildebot> [Youtube] What is the best asdfmovie joke? (24m 8s) uploaded by TomSka on 2020-09-28, 650,722 views (83,447↑↓793)
+12:50 < tildebot> [Ducks] jan6 befriended a duck in 7.96 seconds! You've befriended 91 ducks in #team!
+12:50 < kumquat> ,hug
+12:50 < tildebot> [Ducks] kumquat: There was no duck! missed by 1.05 seconds
+12:50 < jan6> lol
+12:50 < kumquat> noooo
+12:50 < jan6> thanks kumquat 
+12:50 < xfnw> noooooo
+12:50 < kumquat> I knocked my empty mug on my keyboard D:
+12:50 < jan6> t'was empty
+12:50 < jan6> bless the forgivng jan6
+12:50 < kumquat> yeah thank goodness, lol
+12:50 < tomasino> boo empty mugs
+12:50 < tomasino> best fill that up with some tea
+12:50  * kumquat thanks goodness, not jan6
+12:50 < jan6> *thank god(ess) jan6, you meant
+12:51  * xfnw submerges jan6 into a large mug of boiling tea
+12:51 < kumquat> hmmm jan6 tea
+12:51  * jan6 submerges xfnw in a large mug of lava
+12:51 < jan6> jokes on you it's just really low pressure tea
+12:51 < jan6> lol
+12:51  * kumquat drinks jan6 tea
+12:51  * xfnw drinks jan6
+12:51 < jan6> oh noes
+12:51 < jan6> kumquat is now jan6, and explodes
+12:51 < tomasino> is it hot water with jan6 dipped in it?
+12:52 < jan6> there can only be 1.5 of me
+12:54  * kumquat haunts jan6 post-explosion
+12:54 < jan6> jokes on you, I already haunt myself
+12:54 < kumquat> where's the only 1/2 of jan6?
+12:55 -!- Alina25 [~Alina@145.red-83-52-160.dynamicip.rima-tde.net] has joined #team
+12:55 < kumquat> other, not only*
+12:56 <@khuxkm> there's only one half of jan6
+12:56 <@khuxkm> >:P
+12:56 < xfnw> ,botsnack
+12:56  * tildebot munch
+12:56  * kumquat pokes xfnw in the lava
+12:56  * kumquat watches her poking stick melt
+12:57  * xfnw turns into xfnw soup and then dries into catfood
+12:57 < jan6> you're the jan6*-1, ae_dela_wens and kneez_du_beez are 0.5-1 each
+12:58 < kumquat> doesn't that make at least 2? lol
+12:59 < jan6> remember the -1
+12:59 < jan6> lol
+13:00 < kumquat> oh I didn't read that as a negative, just as a dash, lol
+13:07 < anton> all hail jan6
+13:07 < hackintech> no
+13:07  * Dr-WaSabi opens a new tab, and again can't remember why he opened a new tab
+13:07 < hackintech> same Dr-WaSabi 
+13:09 < kumquat> happens to me allll the time
+13:10 < Dr-WaSabi> at my age, I walk into the bathroom and have to think why
+13:10 < jan6> ,grab Dr-WaSabi 
+13:10 < tildebot> [Quotes] Quote added
+13:13 < kumquat> I would think at your age it would always be.... lol nevermind
+13:17 < Dr-WaSabi> kumquat: I find that if I just sit down I'll remember
+13:17 < kumquat> on the throne? lol
+13:18  * Dr-WaSabi makes note to self
+13:19 < kumquat> lol
+13:22 < jan6> lmao, very theoretical, psychology, but fun, kinda reminds of logino's rants, but making more sense quicker: https://www.youtube.com/watch?v=Tim4HrObyeA
+13:22 < tildebot> [Youtube] Does Vanilla Minecraft Actually Exist? (11m 1s) uploaded by SimplySarc on 2020-10-01, 28,552 views (4,328↑↓129)
+13:22 < kumquat> what about chocolate minecraft?
+13:22 < jan6> hey vsauce, this is vanilla game...but what IS...vanilla?
+13:23 < mspe> I'm rather strawberry minecraft
+13:24  * Dr-WaSabi looks at the news
+13:24  * kumquat throws frozen strawberries at mspe and jan6
+13:24  * xfnw jumps into the air and noms them
+13:25 < kumquat> I thought you were catfood now?
+13:25  * kumquat feeds xfnw to her cats
+13:25 -!- kirch is now known as irc
+13:26  * xfnw has been pooped out by mspe, and is now whole again
+13:26 -!- irc is now known as kirch
+13:26 < kumquat> ewwwwwww
+13:26  * kumquat pours febreze on xfnw
+13:31  * Dr-WaSabi is really starting to worry about some people in this channel
+13:31 < xfnw> what else would you do if you had turned into catfood and had been eaten by kumquat's cats
+13:32 < kumquat> ,grab xfnw
+13:32 < tildebot> [Quotes] Quote added
+13:32 < Dr-WaSabi> and I'll start that with "I don't think I would eve want to be a member of anything, that would allow me to be a member"
+13:32 < kumquat> ,grab Dr-WaSabi 
+13:32 < tildebot> [Quotes] Quote added
+13:33 < kumquat> jan6: are Estonians terrible at speaking/writeing Estonian?
+13:33 < jan6> no u
+13:34 <@khuxkm|bsd> no u
+13:34 < jan6> "writeing"
+13:34 < kumquat> because if I hear one more French person making serious grammatical errors in French, I'm going to scream
+13:34 < kumquat> lol oops
+13:34 < kumquat> writing*
+13:34 < kumquat> lmao
+13:34 < kumquat> burn on me
+13:35 < jan6> https://www.youtube.com/watch?v=hxDDIGJCCsk
+13:35 < kumquat> that's what I get for typing while laying down covered in blankets
+13:35 < tildebot> [Youtube] ZooPhobia - "Bad Luck Jack" (Short) (11m 39s) uploaded by Vivziepop on 2020-09-30, 2,392,632 views (336,395↑↓6,917)
+13:35 < kumquat> I can't see the scren as well
+13:35 < kumquat> screen*
+13:40 < jan6> Vivziepop: New Cartoon but Family Friendly 
+13:40 < jan6> Everyone: what the-
+13:40 < jan6> lol
+13:41 < jan6> (if you might have watched hazbin hotel, or the following same-theme shorts, that's the same channel, except this vid is all wholesome, lol)
+13:55 < jtmlis> this looks pretty neat https://opensource.com/article/20/10/shell-history-loki-fzf
+13:55 < tildebot> [Title] Level up your shell history with Loki and fzf | Opensource.com
+13:55 < jan6> https://www.youtube.com/watch?v=YOM0odPJmdA
+13:55 < tildebot> [Youtube] It was all a lie. (12m) uploaded by Neytirix on 2020-10-01, 154,445 views (35,500↑↓60)
+13:56 < jan6> I like how it starts off COMPLETELY different to the rest
+13:56 < jan6> lol
+13:58 < kumquat> class 5 oopsy whoopsy?
+14:03 < kumquat> yeah I have to admit, the beginning... confused me, lol
+14:04 < tomasino> beep boop
+14:04 < kumquat> boop beep
+14:05 < kumquat> the end is very impressive
+14:06 < jan6> replicate it, kumquat!
+14:06 < jan6> lol
+14:06 < kumquat> lol
+14:07 < kumquat> I don't have the space, materials, patience, or time, lol
+14:07 < kumquat> not to mention my cats would probably ruin it and then I'd cry, lol
+14:07 < kumquat> mspe is listening to tomasino, lol
+14:07 < tomasino> :D!
+14:07 < tomasino> we should all listen to tomasino
+14:08 < kumquat> you have a VERY soothing voice, tomasino
+14:08 < kumquat> I feel like you have NPR voice, lol
+14:08 < tomasino> awww
+14:09 < tomasino> that's sweet
+14:09 < kumquat> mspe laughed and agreed with me that you have NPR voice, as I subject him to hours od listening to NPR, lol
+14:09 < kumquat> of*
+14:10 < tomasino> haha
+14:11 < jan6> https://www.youtube.com/watch?v=8GVSuKkuLzY
+14:11 < tildebot> [Youtube] I still can't believe that Epsom Salt is mostly water (27m 1s) uploaded by NileRed on 2020-09-26, 721,510 views (54,950↑↓625)
+14:13 < tomasino> huh
+14:27 < jtmlis> South park released a pandemmic special, going to watch it.
+14:40 < aewens> Anyone here doing Hacktoberfest this year?
+14:48 <@khuxkm> i am
+14:50 < aewens> How's it coming along so far?
+14:51 <@khuxkm> just signed up lol
+14:52 < aewens> Definitely a good place to start!
+14:52 < aewens> I have 3/4 done. Technically I have all 4 done, but I am waiting on the last one to pass its review from the project owner.
+15:00 -!- benharri [biboumi@harris.team] has left #team []
+15:01 < blitzkraft> hacktoberfest hack: you can do PRs on your own repos
+15:01 < blitzkraft> and they count towards that.
+15:01 < tomasino> really?
+15:02 < tomasino> that's kinda silly
+15:02 < tomasino> if you want a super easy hacktoberfest PR place, you can add color schemes to my Stutter plugin
+15:02 < tomasino> https://github.com/jamestomasino/stutter/wiki/Themes
+15:03 < blitzkraft> there is some drama around it. project maintainers getting flooded with documentation PRs, typos and adding a comma and such.
+15:03 < blitzkraft> and some particular users abusing it, and intentionally making multiple PRs for each edit.
+15:06 < aewens> Starting last year, they also are reviewing PRs to see if they are in the "spirit" of the dev holiday, so no more "Add your name to a registry" repos for free PRs.
+15:07 < blitzkraft> ah. neat. I tried getting a few PRs in last year. they didn't get merged in time. 
+15:08 <@khuxkm> tomasino: I'm really triggered that the Gameboy theme isn't using a pixel font >:(
+15:08 <@khuxkm> like, just call it what it is, a gray theme
+15:08 <@khuxkm> that being said I will start with a stutter theme
+15:08 <@khuxkm> simple enough
+15:15 -!- kernel_pancake [uid231002@id-231002.brockwell.irccloud.com] has joined #team
+15:16 -!- kernel_pancake is now known as kernel_pumpkin
+15:16 < Dr-WaSabi> looks interesting
+15:17 < cren> evening
+15:17 -!- benharri [biboumi@harris.team] has joined #team
+15:17 -!- mode/#team [+qo benharri benharri] by ChanServ
+15:18 < hackintech> benharri hi
+15:20 < tomasino> Hi
+15:20 < kumquat> omfg
+15:21 < kumquat> my mom is a piece of WORK
+15:21 < tomasino> I have a number of things I want to tackle on stutter's enhancement list
+15:21 < kumquat> after a 40 minute conversation
+15:21 < tomasino> Getting PRs may help motivate me
+15:22 < hackintech> oh man
+15:22 < kumquat> my mom complained my sister's kids aren't as smart as she feels they should be
+15:22 < kumquat> like.... wtaf
+15:22 < hackintech> gosh darn
+15:23 < kumquat> and she thinks it's because my sister works full-time and she isn't dedicating enough of her personal time to making them smarter
+15:24 < kumquat> "you were reading and knew your multiplication tables by the time you were 4"
+15:24 < kumquat> so obviously if her kids aren't doing the same they're dummies
+15:24 < kumquat> lol
+15:26 < tomasino> hah
+15:26 < tomasino> your mom is a trip
+15:27 < blitzkraft> isn't it way to early to determine if a kid is "smart"? I mean, they need nurturing, not criticism, at that age.
+15:27 -!- benharri [biboumi@harris.team] has left #team []
+15:27 < kumquat> she also ranted about one of my cousins giving himself airs about claiming he has a PhD when she's convinced he doesn't "because he only did 4 years of school after high school"
+15:28 < kirch> I always figure it's "Tiger Mom" sorta stuff
+15:28 < kumquat> and then spent 10 minutes explaining my sister's higher education and my other cousin's
+15:28 < kirch> I knew a girl who was like a violin virtuoso - amazing at like 9yo, but completely burnt out by 14yo, like, she just quit ¯\_(ツ)_/¯ 
+15:29 < kumquat> well so on top of that my mom is also convinced that women are superior and she thinks they may not be as smart because they're boys, lolol
+15:29 < kumquat> like... I don't even know what to say to this stuff
+15:30 < kumquat> if I remember correctly, my sister's boys are maybe 5 and 7 or 8
+15:31  * kirch listens to his kids shouting like monkeys at each other and laughing like goons
+15:31 < kumquat> but also my mom is a total snob and extremely classist so who the fuck knows where she even gets her ideas
+15:32 < kumquat> lol kirch :D
+15:32 <@khuxkm> tomasino: https://github.com/jamestomasino/stutter/pull/65
+15:32 < tildebot> [Title] Add Solarized theme by MineRobber9000 · Pull Request #65 · jamestomasino/stutter · GitHub
+15:33 <@khuxkm> please excuse my terrible programmer art, but I can't install stutter from source on my domain chromebook, so I had to make do to test the colors
+15:33 < kirch> my sister-in-law is gonna be THAT MOM ...
+15:33 < Dr-WaSabi> wow... only 1 go project under hacktoberfest? 
+15:33 < login> who is "That Mom"?
+15:34 <@khuxkm> hound is complaining about my color literals but none of the other themes use variables?
+15:34  * Dr-WaSabi goes for more coffee and smoke
+15:36 < kirch> login: the high-pressure learning mom
+15:37 < login> learning what?
+15:37 < tomasino> looks good khuxkm!
+15:37 < tomasino> hound is annoying. i just uninstalled it
+15:37 < login> she can learn from xfnw's mother
+15:37 < xfnw> what
+15:37 < kumquat> lol
+15:37 < kirch> anything
+15:37 < kumquat> my mom's kids are all adults
+15:38 < tomasino> i'm specifically choosing weird-ass naming conventions and using IDs to avoid conflicting CSS with the pages this script gets injected into. Hound is trying to suggest best practice stuff that's all wrong
+15:38 < kumquat> she doesn't need parenting lessons
+15:38 < kirch> my mom's kids are all potheads :3
+15:38 < kumquat> she needs lessons in not being so judgmental and harsh on people she supposedly loves
+15:39 < kumquat> on the one hand calling me her most brilliant child while also not-so subtly making it known once again that it's a disappointment I don't have a PhD
+15:40 < tomasino> the firefox webextension node module has vulnerablilities in its chain of dependencies which they need to fix upstream. my repo keeps yelling at me about it. They also broke the ability to preview in firefox locally with the most recent version. Mozilla is a mess
+15:40 < kumquat> she's obsessed with status and education and what she considers intelligence
+15:40 < tomasino> i'd report these issues to them, but they closed their IRC server and moved to matrix
+15:41 < tomasino> tell her you got a PhD two years ago but just didn't tell her because she cares too much about it
+15:41 < kumquat> lmao
+15:41 < kumquat> that is actually.... not a bad idea
+15:41 < tomasino> if she asks you from where, just say, "see? you care about it too much"
+15:42 < kumquat> or asks me to see my degree
+15:42 < tomasino> exactly!
+15:42 < kumquat> that's actually fucking brilliant because it's a tactic she used on us as kids
+15:42 < login> she has succeeded in turning you into her
+15:42 < login> you cant give in this way
+15:43 < kumquat> when we were kids, we were never allowed to ask for ice cream. If we did, my mom would say, "well, I was going to take you out as a surprise, but now it's ruined, so I guess we can't,"
+15:43 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+15:43 < tomasino> haha
+15:43 < kumquat> ,hug
+15:43 < tildebot> [Ducks] kumquat befriended a duck in 2.44 seconds! You've befriended 82 ducks in #team!
+15:43 < tomasino> that's so dumb
+15:43 < xfnw> ,huy
+15:43 < login> she needs to read "the dog whisperer"
+15:44 < kumquat> oh no, is login calling me a bitch?
+15:44 < login> no
+15:44 < xfnw> lol
+15:44 < kumquat> lol
+15:44 < login> but the phd thing is more like her
+15:44 < hackintech> wo
+15:44 < hackintech> wow*
+15:45 < login> she needs to smoke some pot
+15:45 < kumquat> lmao
+15:45 < login> and hang out with xfnw's mother
+15:45 < kumquat> what she needs is some girl friends
+15:45 < kumquat> so you might not be wrong, there
+15:45 < login> lonely at the top
+15:46 < kumquat> because the stuff she said to me is not stuff you should share with your kid
+15:46 < kirch> my mom was weird on boundaries like that sometimes ¯\_(ツ)_/¯ 
+15:46 < kumquat> it's judgmental stuff you say to your friends without worrying they're judging you too much
+15:47 -!- benharri [biboumi@harris.team] has joined #team
+15:47 -!- mode/#team [+qo benharri benharri] by ChanServ
+15:47 < login> she tried to give you good taste
+15:47 < xfnw> hi ben's phone
+15:47 < kirch> like... the concept of "Adults" is a myth - like, a mathematical trick that results in every parent "screwing up" their kids - and their kids "screwing up" their kids - and by the time anyone figures out how to get un-"screwed up" it's too late ¯\_(ツ)_/¯ 
+15:47 < login> /good judgement
+15:48 < kumquat> kirch: my mom's own best friend used to call her hitler mommy (ahhh back in the days where actual neo-nazis weren't in the white house)
+15:48 < login> xfnw: how do you know that?
+15:48 < kirch> Yeah - I firmly believe in calling people out like that
+15:48 < login> kumquat: your mum can register with foster care
+15:49 < login> it can be a challenge
+15:49 < login> (in empathy?)
+15:49 < kumquat> unfortunately, when she died, she was basically the only person telling my mom how unreasonable she was being, and she's never found anyone else to kind of not-so gently put her back in line
+15:49 < login> maybe in parenting too
+15:50 < kumquat> login: my parents are in poor health and I doubt they have the energy to take on more kids
+15:50 < login> mum too?
+15:50 < kumquat> she has severe back problems, I doubt she could spend the necessary time running after kids.
+15:53 < login> got it! she can fire up irc and a terminal and join this place
+15:53 < login> you wont know her username, she wont know yours
+15:53 < kirch> I think this is all like, a shortcoming of the nuclear family... like, socialize some more, be around more different types of people... we're social creatures... and it's easier as a team effort
+15:54 < login> the role of family is diminishing over time
+15:54 < kumquat> login: if my mom joined here, I would stop coming here, lol
+15:55 < kirch> same
+15:55 < login> how would you know?
+15:55 < kirch> well... I'd come, but if my mom was talking I'd idle 
+15:55 < kumquat> tilde.chat is my safe space
+15:55 < hackintech> i want big nap
+15:56 < kirch> hackintech: heck yeah! #NapGang!
+15:56  * kumquat sprinkles nap dust on hackintech
+15:56 < hackintech> how is it only 3
+15:56 < login> a sleeping pill
+15:56 < login> in time
+15:56 < kumquat> it's 10pm here :P
+15:56 < login> saves nine
+15:57 < kumquat> omg login is my mom
+15:57 < kumquat> mom stop coming here
+15:57 -!- benharri [biboumi@harris.team] has left #team []
+16:00 < login> bye benharri's phone
+16:00 < hackintech> rip
+16:00 < login> what if your mum finds peace and camaraderie here?
+16:00 < login> there's no place like tilde right?
+16:04 -!- benharri [biboumi@harris.team] has joined #team
+16:04 -!- mode/#team [+qo benharri benharri] by ChanServ
+16:05 < kumquat> notice how login doesn't admit or deny being my mom
+16:05 < kumquat> WARNING WARNING LOGIN IS MY MOM
+16:05 < tildebot> kumquat: STOP YELLING IN MY EARS TILDEBOT OR I WILL CALL DOWN FEARSOME DESTRUCTION ON YOU AND YOUR ANCESTORS
+16:05 < xfnw> ITS CAPPY HOUR AGAIN YAAAAAAAAAAAAAY
+16:05 < tildebot> xfnw: KUMQUAT; WHAT IF THE CERT GETS LOST; IS SHE NOT MARRIED ANYMORE THEN? LOL
+16:06 < kumquat> lol
+16:08 < login> kumquat: is that a yo mama joke?
+16:08 < kumquat> lol no?
+16:14 -!- alhassanaraouf [thelounge@tilde.team] has quit [quit: thelounge on https://tilde.team]
+16:20 <@khuxkm> CAPPY HOUR?
+16:20 -!- siina [~siina@cute.science] has quit [quit: No Ping reply in 180 seconds.]
+16:21 < spideria> ,Q KUMQUAT
+16:21 < tildebot> [Quotes] kumquat: <kumquat> all your kumquat are belong to us
+16:21 < kumquat> HMMST
+16:21 < kumquat> I COULD USE A CAPPY HOUR
+16:21 <@khuxkm> CAPPY HOUR IT IS THEN
+16:22 -!- siina [~siina@cute.science] has joined #team
+16:22 <@khuxkm> ,c c reshout off
+16:22 < tildebot> [Config] Config 'reshout' set to False
+16:22 <@khuxkm> HELLO SIINA IT'S CAPPY HOUR
+16:22 < spideria> OH NO
+16:22 < kumquat> HOORAY THE BEST HOUR IS CAPPY HOUR
+16:22 < spideria> IT'S ONLY 22 PAST
+16:22 <@khuxkm> ,IN 1H REMIND ME TO TURN RESHOUT BACK ON
+16:22 < tildebot> [In] Saved
+16:24 < kumquat> MEH, DEPENDING ON HOW WE'RE FEELING WE CAN STOP AT 40 AFTER
+16:24 < spideria> GREAT
+16:24 < kumquat> BECAUSE DOING CAPPY HOUR FOR 35 MINUTES IS A BIT MUCH
+16:24 < kumquat> I'M DEBATING IF I SHOULD MAKE MYSELF A MUG OF GOLDEN MILK OR NOT
+16:24 < spideria> GUESS I'LL JUST PRETEND WE'RE WRITING ON A TELEGRAM OR SOMETHING
+16:24 < kumquat> OR MAYBE ANOTHER MUG OF TEA
+16:24 -!- spideria is now known as SPIDERIA
+16:24 < SPIDERIA> WHAT GOLDEN MILK
+16:24 -!- blitzkraft is now known as BLITZKRAFT
+16:25 < SPIDERIA> :b 23
+16:25 < BLITZKRAFT> MISS
+16:25 < SPIDERIA> SHIT
+16:25 < kumquat> IT'S MILK WITH TURMERIC, CARDAMOM, GINGER, ETC
+16:25 <@khuxkm> I'M NOT CHANGING MY NICK BUT GO OFF Y'ALL
+16:25 < SPIDERIA> WEIRD
+16:25 < BLITZKRAFT> B3
+16:25 < SPIDERIA> DONK
+16:25 < BLITZKRAFT> YESS!!!
+16:26 < kumquat> THIS RECIPE IS GOOD: https://minimalistbaker.com/5-minute-vegan-golden-milk/
+16:26 < tildebot> [Title] Easy Vegan Golden Milk | Minimalist Baker Recipes
+16:26 < BLITZKRAFT> DAFUQ
+16:26 < kumquat> MEH YOU DON'T NEED TO, EVEN IF WE WRITE KHUXKM YOU STILL GET PINGED
+16:26 < BLITZKRAFT> WHY CALL IT GOLDEN
+16:26 <@khuxkm> TRUE
+16:26 < kumquat> PERSONALLY I'M TOO LAZY TO CHANGE MY NICK TO CAPS
+16:26 < SPIDERIA> IT YELLOW
+16:26 < kumquat> YES
+16:26 < BLITZKRAFT> LIKE A GOLDEN SHOWERS
+16:26 < BLITZKRAFT> I HATE IT
+16:26 < kumquat> IT IS VERY YELLOW FROM THE TURMERIC
+16:27 < kumquat> I HATE BLITZKRAFT NOW
+16:27 < SPIDERIA> BUT WHY DRINK IT IN THE FIRST PLACE
+16:27 <@khuxkm> I'M READING THESE IN A WILL FROM AFAR VOICE, IS ANYONE ELSE
+16:27 < kirch> my brain was like "what makes it vegan" and I scrolled all the way to the ingredients before I realized it's not using dairy, duh
+16:27 < BLITZKRAFT> CAN'T NOT THINK OF THAT
+16:27 <@khuxkm> KIRCH IT'S CAPPY HOUR
+16:27 < kumquat> BECAUSE IT TASTES GOOD
+16:27 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+16:27 < SPIDERIA> I'M READING IT LIKE DEATH FROM TERRY PRATCHETT
+16:27 <@khuxkm> ,bef
+16:27 < tildebot> [Ducks] khuxkm befriended a duck in 2.05 seconds! You've befriended 10 ducks in #team!
+16:27 < kumquat> ,HUG
+16:27 < tildebot> [Ducks] kumquat: There was no duck! missed by 0.67 seconds
+16:27 < SPIDERIA> ,BEF
+16:27 < tildebot> [Ducks] SPIDERIA: There was no duck! missed by 1.42 seconds
+16:27 < SPIDERIA> PISS MILK
+16:27 < kumquat> LOL KIRCH
+16:27 < BLITZKRAFT> EXACTLY
+16:27 < kumquat> I'M VEGAN BTW
+16:27 <@khuxkm> PFFFFFFFFFFFFFFFFFF
+16:28 <@khuxkm> P I S S   M I L K
+16:28 < BLITZKRAFT> NOTHING AGAINST VEGANS. I
+16:28 < SPIDERIA> LOL
+16:28 < BLITZKRAFT> AM JUST AGAINST GOLDEN MILK
+16:28 < kumquat> ALSO EFF YOU ALL, GOLDEN MILK IS CREAMY AND WARMING AND VERY SOOTHING
+16:28 < SPIDERIA> GOLDEN PISS
+16:28 < kumquat> I USUALLY DRINK IT WHEN I HAVE TERRIBLE INSOMNIA, IT WORKS WONDERS
+16:29 < BLITZKRAFT> kumquat: RE-READ WHAT YOU WROTE
+16:29 < SPIDERIA> ,QADD SPIDERIA=<SPIDERIA> GOLDEN PISS
+16:29 < tildebot> [Quotes] Quote added
+16:29 < kumquat> NO U
+16:29 <@khuxkm> DRINK THE P I S S   M I L K
+16:29 < xfnw> YUMMY
+16:29 < kumquat> YOU ARE ALL TERRIBLE PEOPLE
+16:29 < BLITZKRAFT> khuxkm: CREAMY PISS MILK
+16:29 < kirch> Nothing wrong with nutmilks and oatmilk and coconut milk... all delicious
+16:29 < SPIDERIA> GOLDEN MILK IS STORED IN THE GOLDEN BALLS
+16:29 < BLITZKRAFT> WARM CREAMY PISS MILK
+16:29 < kumquat> DO YOU NOT READ FOOD BLOGS OR SOMETHING
+16:30 <@khuxkm> WARM CREAMY GOLDEN PISS MILK
+16:30 < kumquat> AM I THE ONLY ONE WHO READS LIKE 50 FOOD BLOGS A DAY
+16:30 < SPIDERIA> YES
+16:30 <@khuxkm> SOMEHOW CAPPY HOUR MAKES THIS EVEN BETTER
+16:30 < BLITZKRAFT> I HEAR THEY TALK ABOUT GOLDEN STUFF. NOT EXACTLY APPETIZING
+16:30 < BLITZKRAFT> I KEEP MYSELF AWAY FROM THOSE BECAUSE OF THAT
+16:30 <@khuxkm> I'M GOING TO HAVE TO SAVE THIS LOG FOR THE QDB
+16:30 < kirch> I tried to go vegan & my mother kept tricking me into eating non-vegan.... my brother successfully went vegan while living with her.... ANYHOW... when my brother was vegan...
+16:30 < kirch> he used to talk about all the pus in milk.
+16:30 < hackintech> oh my god
+16:30 < hackintech> i missed something
+16:30 < SPIDERIA> YEAH
+16:31 < SPIDERIA> IT'S CAPPY HOUR
+16:31 < BLITZKRAFT> WARM CREAMY PISS MILK
+16:31 < hackintech> I WAS GONE FOR 10 MINUTES
+16:31 < kirch> so now milk and puss are always associated in my mind
+16:31 < SPIDERIA> PUT YOUR CRUISE CONTROL ON KIRCH AND HACKINTECH
+16:31 <@khuxkm> IT'S CAPPY HOUR BITCHES
+16:31 < kirch> I DONT HAVE CAPSLOCK, I HAVE TO HOLD SHIFT
+16:31 < BLITZKRAFT> JUST PUT SOME WEIGHTS ON SHIFT
+16:31 < kumquat> KIRCH: YES
+16:31 < BLITZKRAFT> OR USE A LOCKING SWITCH
+16:31 < kirch> I AM SHIFTY
+16:31 <@khuxkm> ALT-SEARCH FOR ANYONE ON A CHROMEBOOK
+16:31 < kumquat> ABOUT PUS IN MILK
+16:32 < kumquat> IT'S VERY GROSS
+16:32 < kumquat> NOT APPARENTLY AS GROSS AS GOLDEN MILK TO YOU FREAKS
+16:32 < kumquat> BUT WHATEVER
+16:32 < hackintech> HAW OF YEE
+16:32 < kumquat> I LOVE YOU ALL EVEN IF YOU'RE ALL TERRIBLE
+16:32 < mspe> COME ON: COW MILK + PUS + ANTIBIOTICS + BLOOD IS THE BEST COCKTAIL!
+16:32 < kirch> YEAH _ THE MILKING MACHIENS AREN"T COMFORTABLE< SO THE COWS GET RUBBED RAW AND HAVE LIKE CALLUSES AND STUFF ON THEIR UDDERS
+16:32 <@khuxkm> STAY AWAY FROM ME WITH YOUR WARM CREAMY GOLDEN PISS MILK >:P
+16:32  * kumquat POURS CREAMY GOLDEN MILK OF QUESTIONABLE ORIGIN ON KHUXKM
+16:33 <@khuxkm> EWW WTF NO
+16:33 < BLITZKRAFT> GOLDEN SHOWERS!!!!
+16:33 <@khuxkm> /KICK KUMQUAT
+16:33 <@khuxkm> NOOOOOOOOOO
+16:33 < SPIDERIA> ,grab BLITZKRAFT 
+16:33 < tildebot> [Quotes] Quote added
+16:33 < kirch> MADE OF TICKY-TACKY
+16:33 < kumquat> LOL
+16:33 <@khuxkm> /KICK BLITZKRAFT
+16:33 < BLITZKRAFT> NO
+16:33 < kumquat> SORRY YOU MADE IT TOO TEMPTING, KHUXKM
+16:34 < SPIDERIA> WHEN I ROAST POTATOES I LIKE TO MAKE SURE THEY ARE PISS BROWN BEFORE I TAKE THEM OUT OF THE OVEN
+16:34 < BLITZKRAFT> WARM CREAMY GOLDEN SHOWERS!!
+16:34 < kumquat> PISS... BROWN?
+16:34 < BLITZKRAFT> SPIDERIA: IF YOUR PISS IS BROWN YOU NEED TO SEE A DOCTOR
+16:34 < kumquat> DO YOU NEED TO SEE SOMEONE, SPIDERIA?
+16:34 < kumquat> LOL SAME THOUGHTS BLITZKRAFT
+16:35 < BLITZKRAFT> OR YOU HAVE DIARRHOEA AND NEED AND ANATOMY LESSON
+16:35 < mspe> LIKE, SEVERE DEHYDRATION LEVEL, NEED TO SEE A DOCTOR
+16:35 < BLITZKRAFT> *NEED AN
+16:35 < SPIDERIA> NUT BROWN PISS
+16:35 < kumquat> THIS HAS TAKEN A TURN I REALLY HAD NOT ANTICIPATED
+16:35 < SPIDERIA> CAPPY HOUR IS UNPREDICTABLE
+16:35 < kirch> I AM ALWAYS DEHYDRATED A LITTLE
+16:35 < SPIDERIA> CAPPY HOUR DOES AS CAPPY HOUR WILLS
+16:36 < kirch> FEELS BAD MAN
+16:36 < kumquat> THAT'S FOR SURE
+16:36 < kumquat> DRINK MORE WATER?
+16:36 < SPIDERIA> JUST A LITTLE DEHYDRATED
+16:36 < SPIDERIA> AS A TREAT
+16:36 -!- dax [~dax@otter.cat] has joined #team
+16:36 < kumquat> LOL
+16:36 < dax> YES HELLO
+16:36 < kumquat> HELLO DAX
+16:36 < BLITZKRAFT> SPIDERIA: MUSCLE DEATH CAUSES BROWN PISS
+16:36 < dax> HI KUMQUAT
+16:36 < SPIDERIA> ,GRAB BLITZKRAFT 
+16:36 < tildebot> [Quotes] Quote added
+16:36 -!- el [~el@chihuahua.corgi] has joined #team
+16:36 < el> LMAO
+16:36 < kumquat> GOD AREN'T WE LEARNING THINGS TONIGHT THAT I NEVER EVER WANTD TO KNOW
+16:37 < kumquat> WANTED*
+16:37 < el> DO I GET BANNED IF I DON'T TALK IN CAPS?
+16:37 < kumquat> YES
+16:37 < el> test
+16:37 < kumquat> /KICK EL
+16:37 < dax> SMH ALWAYS THE REBEL
+16:37 < el> AWW IT'S NOT AUTOMATED
+16:37 <@khuxkm> /BAN EL
+16:37 < SPIDERIA> KHUXKM ^
+16:37 < dax> REB-EL
+16:37 < kumquat> LOL
+16:37 < BLITZKRAFT> EL REBG
+16:37 < BLITZKRAFT> *EL REB
+16:37 <@khuxkm> I'D BAN YOU FOR REALS BUT I CAN'T BE BOTHERED
+16:37 <@khuxkm> SO ENJOY THE FAKE BAN
+16:37 < kirch> YAY
+16:38 < dax> MORE IRC CHANNELS SHOULD HAVE FAKE BANS
+16:38 < dax> INSTITUTE ANARCHY THROUGH FAKE OPERATING
+16:38 <@khuxkm> FUCK NOW I WANT TO MAKE A #CAPS WHERE YOU GET BANNED IF YOU DON'T SPEAK IN CAPS
+16:38 < xfnw> HELLO DAX
+16:38 < el> DOOOO EEEEEEITTT
+16:38 < dax> HI FOX
+16:38 < kumquat> DO IT KHUXKM
+16:39 < kumquat> CAPPY HOUR.... FOREEEEEVEEEEER
+16:39 < SPIDERIA> I PREFER CAPPY HOUR SPAWNING RANDOMLY IN LARGE CHANNELS
+16:39 < hackintech> NO
+16:39 < kumquat> IT IS FUN
+16:39 < BLITZKRAFT> YES
+16:39 < hackintech> THIS IS BAD
+16:39 < kumquat> IT'S LIKE AN EXTRA DASH OF SRIRACHA
+16:39 < BLITZKRAFT> NO
+16:39 -!- alhassanaraouf [alhassanara@tilde.team] has joined #team
+16:40 < kumquat> HOW DARE YOU, HACKINTECH
+16:40 < dax> IT REMINDS ME OF BACK WHEN COMPUTERS COULDN'T DO LOWERCASE
+16:40 < SPIDERIA> AKA THE GOOD OL DAYS
+16:40 < SPIDERIA> LOWECASE CHARACTERS ARE BLOAT
+16:40 < BLITZKRAFT> NO UPPERCASE ARE BLOAT
+16:41 < dax> IS THAT WHY ANTI-SYSTEMD PEOPLE CONSTANTLY CALL IT SYSTEM_D_
+16:41 < SPIDERIA> SURE
+16:41 < dax> BECAUSE LOWER-CASE D WOULD BE BLOAT
+16:41 < kumquat> LOL
+16:41 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+16:41 < BLITZKRAFT> ,BEF
+16:41 < tildebot> [Ducks] BLITZKRAFT befriended a duck in 2.15 seconds! You've befriended 17 ducks in #team!
+16:41 < SPIDERIA> IK,BERSF#
+16:41 < kumquat> LOL WHAT WAS THAT
+16:41 < BLITZKRAFT> YESS!!!
+16:42 < SPIDERIA> SHUT UP
+16:42 < kumquat> DID YOU HAVE A HAND SPASM, SPIDERIA?
+16:42 < BLITZKRAFT> GERMAN?
+16:42 < dax> <BEF
+16:42 < BLITZKRAFT> SPIDERIA: YOUR MUSCLES MIGHT BE DYING
+16:42 < SPIDERIA> BRB CHECKING MY PISS
+16:42 < BLITZKRAFT> BROWN PISS, SPASMS...
+16:42 < kumquat> THAT WOULD EXPLAIN THE BROWN PISS
+16:42 < kumquat> HAHAHAHA
+16:42 < kumquat> EXACTLY
+16:42 <@khuxkm> STILL WORKING ON #CAPS
+16:43 < BLITZKRAFT> IT'S PSYCHOSOMATIC. YOU NEED A LOBOTOMY. LET ME GET MY SAW
+16:44 < kumquat> USE YOUR MANY LEGS TO RUN QUICKLY AWAY, SPIDERIA!!!!
+16:44 < BLITZKRAFT> WON'T HELP. 
+16:44 < kumquat> BLEAK
+16:44 < BLITZKRAFT> YES
+16:47 -!- SPIDERIA is now known as cyberia
+16:47 < cyberia> I declare cappy hour over
+16:47 < cyberia> ,q kumquat 
+16:47 < tildebot> [Quotes] kumquat: <kumquat> all your kumquat are belong to us
+16:47 < cyberia> ,q BLITZKRAFT 
+16:47 < tildebot> [Quotes] blitzkraft: <blitzkraft> we can't exactly put that on a treadmill, can we?
+16:47 < cyberia> ,q cyberia 
+16:47 < tildebot> [Quotes] cyberia: <spideria> I was blonde once <spideria> now I am kind of mouse colour
+16:47 < BLITZKRAFT> already!!!
+16:47 < BLITZKRAFT> no.
+16:47 < BLITZKRAFT> it's too soon
+16:47 -!- BLITZKRAFT is now known as blitzkraft
+16:48 < cyberia> we hardly knew ye
+16:48 <@khuxkm> ,c c reshout on
+16:48 < tildebot> [Config] Config 'reshout' set to True
+16:48 <@khuxkm> ,in
+16:48 < tildebot> [In] khuxkm: Not enough arguments, usage: ,in <time> <message>
+16:48 <@khuxkm> mmm
+16:50 < blitzkraft> on a related note, the brown piss thing was from an episode of House MD, "Three stories".
+16:50 < blitzkraft> one of my all time favorite episodes of the series.
+16:51 < cyberia> huh I don't remember that one
+16:51 < cyberia> was it the one where a patient comes in and they misdiagnose them multiple times before house has a brainwave doing an unrelated activity and saves them just in the nick of time?
+16:52 < kumquat> lmao
+16:52 < kumquat> sounds about right
+16:52 < blitzkraft> actually, that is NOT one of those episodes
+16:52 < blitzkraft> hence it stands out.
+16:52 < kumquat> whaaaat
+16:52 < cyberia> fake news
+16:53 < blitzkraft> S01E21
+16:53 -!- nytpu [~nytpu@2601:283:4200:69c0::ca26] has joined #team
+16:53 < blitzkraft> you can check a spoilery synopsis here: https://house.fandom.com/wiki/Three_Stories
+17:17 < Dr-WaSabi> twitter taking a dump for anyone else?
+17:22 < tildebot> [In] khuxkm: this is your reminder: REMIND ME TO TURN RESHOUT BACK ON
+17:24 < xfnw> OK RESHOUT TIME KHUXKM
+17:26 < cyberia> Dr-WaSabi: it was for me yesterday
+17:26 < cyberia> technically I mean
+17:27 < cyberia> the content is usually dump worthy
+17:28 < Dr-WaSabi> cyberia: yeah, bad choice of words on my part
+17:45 -!- siina [~siina@cute.science] has quit [quit: No Ping reply in 180 seconds.]
+17:47 -!- siina [~siina@cute.science] has joined #team
+17:55 -!- jucelo [~jucelo@server.jucelo.net] has quit [Changing host]
+17:55 -!- jucelo [~jucelo@jucelo.net] has joined #team
+17:56 -!- jucelo [~jucelo@jucelo.net] has quit [Changing host]
+17:56 -!- jucelo [~jucelo@server.jucelo.net] has joined #team
+18:04 -!- cren [cren@tilde.team] has quit [quit: goodnight]
+18:08 < kumquat> do I make another tea before going to bed?
+18:08 < kumquat> or just go to bed?
+18:09 -!- dax [~dax@otter.cat] has left #team []
+18:14 < tomasino> tea
+18:14 < tomasino> and party
+18:14 < tomasino> it's friday!
+18:14 < tomasino> wooo
+18:16 < kumquat> lol
+18:16 < kumquat> I can't stop yawning
+18:16 < kumquat> I think it may be a hint to go straight to bed
+19:09 < cyberia> hey that piss convo was good eh
+19:09 < tomasino> peepee
+19:10 < tomasino> i want tea
+19:10 < tomasino> i think i may be thirsty
+19:12 -!- el [~el@chihuahua.corgi] has left #team ["b y e"]
+19:14 -!- kernel_pumpkin [uid231002@id-231002.brockwell.irccloud.com] has quit [quit: Connection closed for inactivity]
+19:18 < xfnw> oeeeeeee
+19:21 < Dr-WaSabi> xfnw: you ok?
+19:21 -!- cyberia is now known as spideria
+19:21 -!- spideria is now known as cyberia
+19:23 < xfnw> ...
+19:23 < hackintech> no u
+19:23 < xfnw> no u
+19:23 <@khuxkm|bsd> no u
+19:23 < hackintech> no u khuxkm|bsd 
+19:24 < xfnw> no u
+19:24 <@khuxkm|bsd> no u
+19:52 < blitzkraft> tomasino: don't you mean thirs-tea
+19:55 < tomasino> YES
+19:55  * tomasino goes to make tea
+19:55 -!- anton [anton@am32.org] has quit [Connection closed]
+19:55 -!- anton [anton@am32.org] has joined #team
+20:05 < Dr-WaSabi> oh boy... those burritos have got some zip... thats gonna come back to haunt me later
+20:13 < tomasino> :D

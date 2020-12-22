@@ -1,0 +1,2363 @@
+00:21 -!- cyrus [~Cyrus@104.156.252.144] has quit [quit: WeeChat 2.3]
+00:26 -!- alex11 [~alex11@bras-base-mtrlpq5302w-grc-06-174-88-247-19.dsl.bell.ca] has quit [Ping timeout: 120 seconds]
+00:28 -!- alex11 [~alex11@bras-base-mtrlpq5302w-grc-27-206-172-182-34.dsl.bell.ca] has joined #team
+01:20 < hyperreal> hi all
+01:24 -!- dgy [~dgy@2800:810:546:8437:9248:9aff:fe2b:bca7] has quit [quit: nyaa~]
+02:30 -!- widecurio64_ [ee87428ca80@tilde.team] has joined #team
+03:13 < kumquat> ew what
+03:14 < kumquat> I'm pretty sure it'd be illegal for me to have kids with xfnw
+03:37 < Kneezle> kumquat - you were always important to the jan6iness of the world. we have just only discovered it now
+03:38 < Kneezle> (i just got my alerts now)
+03:39 < kumquat> lol
+03:40 < kumquat> very sweet of you to say, Kneezle <3 thank you
+03:40 < Kneezle> in fact
+03:40 < Kneezle> i promote you to "kumquat" - you are now your own name, no longer a pale imitation, described by your jan6-iness
+03:41 < Kneezle> you are your own destiny
+03:41 < Kneezle> from this day forth
+03:41 < Kneezle> people will describe themselves by your name
+03:43 < kumquat> niiiice :D
+03:44 < kumquat> so how are you this lovely and not at all gray and gloomy day?
+03:50 < kumquat> ,w
+03:50 < tildebot> [Weather] (kumquat) Bordeaux, New Aquitaine, France | 15C/59F | Scattered Clouds | Humidity: 100% | Wind: 11.2km/h/6.9mi/h
+03:52 < alex11> it's been a pleasant fall here
+03:53 < kumquat> wait, I know you're in CA alex11, but are you in Montreal? I feel like there's a fair number of Quebecois here but may just be confused
+03:54 < alex11> not in montreal but close
+03:54 < kumquat> ah ok
+03:54 < alex11> pas dans montreal, mais proche
+03:54 < alex11> hon hon hon
+03:54 < alex11> ...i'm stupid
+03:54 < kumquat> lol
+03:55 < kumquat> assez proche pour dire aux autres que t'y habites afin de ne pas être obligé d'expliquer où tu es exactement, quoi :P
+03:56 < alex11> yeah like i'm not going to point out where i am on a map
+03:57 < kumquat> so unsporting of you :P
+04:09 < Kneezle> i'm doing good
+04:09 < Kneezle> dying of allergies
+04:09 < Kneezle> but good
+04:10 < Kneezle> i'm about a half-kumquat today
+04:13 < alex11> can i ruin your granola too?
+04:27 < kumquat> oof Kneezle, allergies are the worst
+04:27 < Kneezle> they areeeeeeee
+04:27  * Kneezle sneezes
+04:28 < kumquat> alex11: sorry, don't have any granola to ruin :P
+04:28 < alex11> you will eventually
+04:28 < alex11> AND THEN I'LL BE WAITING
+04:28 < kumquat> perhaps
+04:28 < alex11> wait, no
+04:28 < kumquat> I don't actually make granola that often, lol
+04:28 < alex11> *then* i'll proceed to the ruining
+04:28 < alex11> silly to wait to ruin if there's already granola present
+04:28 < alex11> brain, grammar, pls
+04:28 < kumquat> lmao
+04:29 < kumquat> why am I not a housecat
+04:29 < kumquat> it's so unfair
+04:30  * kumquat is watching her two cats sleep on a blanket, one of whom is loudly snoring
+04:38 < aravk> is cat > ducc?
+04:39 < kumquat> in terms of lifestyle? yes
+07:19 -!- thefunkyspaw [~quassel@161.35.52.39] has joined #team
+07:58 < kiedtl> ducc > cat
+08:26 -!- Alina25 [~Alina@165.red-83-52-161.dynamicip.rima-tde.net] has joined #team
+08:26 < aravk> dog <?> ducc <?> cat
+08:37 < kiedtl> ducc > dog > cat
+08:38 < xfnw> why arent there many alpine-derivitives
+08:44  * hackintech looks around
+08:44 < hackintech> honk
+08:44 < hackintech> where jan6 
+08:47 < hackintech> ,seen jan6 
+08:47 < tildebot> [Seen] jan6 was last seen 17h 49m ago (<jan6> seeya)
+08:47 < hackintech> f
+08:52 < kiedtl> because you can't say you use alpine btw
+08:53 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+08:54 < jayden> Hello people
+08:54 < jayden> btw I use fedora
+08:54 < xfnw> hi jayden 
+08:54 < jayden> Fedora 33 with Gnome 3.38 with the material shell extension
+08:54 < xfnw> btw I use alpine
+08:55 < jayden> ducc > all existant creatures in the universe
+08:55  * kumquat gives hackintech pumpkin coffee
+08:55 < hackintech> hell yeah
+08:57 < jayden> I love running a program from terminal and getting all errors possible
+08:57 < jayden> Bye people I got to go
+08:57 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has left #team ["btw I use fedora 33 with gnome 3.38"]
+08:59 < kumquat> for whenever jan6 rolls in later: https://youtu.be/tv3gjE3zIIs
+08:59 < tildebot> [Youtube] MisterWives - SUPERBLOOM (Official Visualizer) (3m 33s) uploaded by MisterWives on 2020-05-20, 152,921 views (4,497↑↓39)
+09:00 < hackintech> https://www.youtube.com/watch?v=gRr9E9cVqHE
+09:00 < tildebot> [Youtube] [Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release] (3m 36s) uploaded by Monstercat: Uncaged on 2013-12-25, 10,615,042 views (135,210↑↓1,556)
+09:00 -!- anton [anton@antonmcclure.com] has joined #team
+09:00 < xfnw> is that anton from antonmcclure.com?
+09:00 < kumquat> is that xnfw from all the fire starting?
+09:01 < kumquat> xfnw*
+09:01 < hackintech> lol
+09:01 < hackintech> mood
+09:01 < kumquat> this is great, hackintech
+09:02 < anton> it is i, anton mcclure from antonmcclure.com
+09:02 < anton> but is that xfnw from xfnw.com
+09:02 < hackintech> yes kumquat 
+09:02 < xfnw> ,dns xfnw.com
+09:02 < tildebot> [DNS] (xfnw.com) A (TTL 3600): 47.74.19.244
+09:02 < hackintech> it's old
+09:02 < hackintech> I'm old
+09:02 < kumquat> hello anton mcclure from antonmcclure.com
+09:02 < kumquat> think about ME, hackintech
+09:02 < kumquat> ,birthday
+09:02 < tildebot> [Birthday] kumquat is 120 in 8 days
+09:06 < xfnw> ,in 8d HAPPY BIRTHDAY KUMQUAT AAAAAAAAAA
+09:06 < tildebot> [In] Saved
+09:06 < xfnw> ,in 8d kumquat is now 120 years old
+09:06 < tildebot> [In] Saved
+09:08 -!- kawzeg [kawzeg@2a01:7e01::f03c:92ff:fee2:ec34] has quit [Ping timeout: 120 seconds]
+09:09 < anton> I want to start a company that does server hosting and IT services
+09:09  * Dr-WaSabi drinks his coffee
+09:09 < Dr-WaSabi> ,w
+09:09 < tildebot> [Weather] (Dr-WaSabi) Onaway, Michigan, United States of America | 3C/38F | Overcast Clouds | Humidity: 89% | Wind: 5.0km/h/3.1mi/h
+09:10 -!- kawzeg [~finn@li2046-66.members.linode.com] has joined #team
+09:27 < kumquat> ,w
+09:27 < tildebot> [Weather] (kumquat) Bordeaux, New Aquitaine, France | 20C/68F | Broken Clouds | Humidity: 77% | Wind: 9.4km/h/5.8mi/h
+09:27 < xfnw> ,w mspe
+09:27 < tildebot> [Weather] (mspe) Talence, New Aquitaine, France | 20C/68F | Broken Clouds | Humidity: 77% | Wind: 9.4km/h/5.8mi/h
+09:27 < hackintech> ,w
+09:27 < tildebot> [Weather] (hackintech) Madison, Wisconsin, United States of America | 4C/39F | Moderate Rain | Humidity: 100% | Wind: 16.6km/h/10.3mi/h
+09:27 < hackintech> f
+09:27  * kumquat gives hackintech a few degrees
+09:27 < xfnw> hackintech is drowning
+09:28 < hackintech> its chilly
+09:30 < Dr-WaSabi> ummmmm.... chilly sounds yummy
+09:30  * kumquat freezes Dr-WaSabi into a block of ice
+09:31 < kumquat> chilly enough?
+09:31 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+09:31 < mspe> funny that
+09:31 < Dr-WaSabi> ,bef
+09:31 < tildebot> [Ducks] Dr-WaSabi befriended a duck in 16.51 seconds! You've befriended 28 ducks in #team!
+09:31 < mspe> kumquat does ,w in Bordeaux when she's in Talence
+09:31 < mspe> and I do ,w in Talence when I'm in Bordeaux
+09:31 < kumquat> lol
+09:32 < kumquat> hiiiii <3
+09:32 < mspe> o/
+09:32 < mspe> can't wait for this working day to finish
+09:32 < kumquat> I can't wait for you to be home :)
+09:32 < Dr-WaSabi> awww
+09:33 < hackintech> aww
+09:33 < kumquat> I went to the Asian grocery store this morning for stuff for sushi and a few other things
+09:33 < xfnw> asian asian asian
+09:33 < kumquat> the clerk asked me if I knew how to cook with the stuff I bought, lol
+09:34 < mspe> really? ^^
+09:34 < xfnw> lolol
+09:34 < kumquat> lol yes
+09:34 < mspe> I was hesitating to go get some food before coming home, but when I say the look of the dark gray sky…
+09:34 < mspe> s/say/see
+09:34 < kumquat> I think she doesn't get a ton of white people buying rice cakes, tofu, gochujang, sweet potato noodles, etc
+09:34 < sedbot> <mspe> I was hesitating to go get some food before coming home, but when I see the look of the dark gray sky…
+09:35 < Dr-WaSabi> me and my gf took a class years ago, it was a blast.. and very tasty
+09:35 < kumquat> rice cake noodes*
+09:35 < kumquat> noodLES*
+09:36 < kumquat> we have a bunch of food at home to eat, anyway
+09:36 < hackintech> nice
+09:37 < kumquat> I also bought a bunch of frozen kimchi dumplings, so despite all the food we have, that's all I want to eat, now
+09:37 < xfnw> oooo (kimchi)++
+09:37 < tildebot> [Karma] kimchi now has 1 karma (1 from xfnw)
+09:38  * Dr-WaSabi is gonna make hash and eggs for breakfast he thinkgs
+09:38 < xfnw> kumquat i cant find new aquitaine lol https://ttm.sh/hNv.png
+09:38 < kumquat> I'm going to make myself a big salad here in a minute
+09:38 < kumquat> lol xfnw, it's on the other side of France
+09:39 < xfnw> oh lol
+09:39 < kumquat> https://en.wikipedia.org/wiki/Nouvelle-Aquitaine
+09:40 < kumquat> if you want to be more precise, this is the department where we live: https://en.wikipedia.org/wiki/Gironde
+09:41 < xfnw> https://ttm.sh/hNN.png it was hiding!
+09:41 < kumquat> lol sure
+09:43 < Dr-WaSabi> cool... so is a "department" like a county?
+09:44 < xfnw> why does openstreetmap make a strip when you zoom out too far https://ttm.sh/hNH.png
+09:44 < mspe> yeah, our régions would be your states, and départements would be counties
+09:45  * Dr-WaSabi learns something new for the day
+09:45 < Dr-WaSabi> mspe: cool. thanks
+09:45 < mspe> because it's in Mercator projection
+09:47 < mspe> this projection distorts exponentially towards the poles
+09:48 < mspe> and the more you zoom out, the wronger the map gets
+09:48 < mspe> cause it gets more different levels of distortion
+09:48 < xfnw> why dont they use a sphere like google maps does
+09:49 < mspe> google also uses the mercator projection for the thumbnails
+09:49 < mspe> they just reproject the distorted thumbnails back on a 3D sphere
+09:49 <~ben> gm
+09:49 <~ben> ,w
+09:49 < tildebot> [Weather] (ben) Traverse City, Michigan, United States of America | 5C/42F | Overcast Clouds | Humidity: 81% | Wind: 6.6km/h/4.1mi/h
+09:49 < xfnw> henlo benlo
+09:50 < Dr-WaSabi> xfnw: can't use a sphere cause the earth is flat ;)
+09:50 < xfnw> lololol
+09:50 < ace> hola, fellow humans
+09:51 < mspe> oh no, I spent years at work calculating 3D→2D projections for nothing
+09:51 < mspe> what a dumbass, I've been
+09:51 < Dr-WaSabi> ha
+09:51 < mspe> thanks for your enlightenment, flat earthers
+09:51 < Dr-WaSabi> we are gaining members all over the globe daily
+09:52 < mspe> you mean all over the disc?
+09:52  * xfnw throws a CD at mspe
+09:52 < Dr-WaSabi> I thought it was like the back of a gaint turtle or something like that
+09:52 < xfnw> the earth is a dounut!
+09:53 < Dr-WaSabi> with a cream filled center?
+09:53 < xfnw> yea, those are the poles!
+09:53 < Dr-WaSabi> great... now I want a dounut
+09:53 < xfnw> lol
+09:54 < xfnw> !!jones
+09:54 < kumquat> a doughnut does sound really good
+09:54 < mspe> nope
+09:54  * kumquat is eating salad instead
+09:54 < tracer> They're putting water in the chemicals to turn the water into frogs!
+09:54 < mspe> the disc lies on elephants
+09:54 < mspe> and the elephants on the giant turtle
+09:54 <~ben> i want a donut now
+09:54 < Dr-WaSabi> ben: I know. right.
+09:55 < kumquat> the only doughnuts I can find here are only available on sunday, expensive, and meh
+09:55 < xfnw> ,g vegan dounut recipe
+09:55 < tildebot> [Google] xfnw: Transfer the doughnuts onto some tissue paper to soak up any excess oil. Roll  the doughnut into a bowl of the remaining half of sugar. Enjoy! Related Recipes. - https://tasty.co/recipe/vegan-doughnuts
+09:55 <~ben> wth only available on sunday?
+09:56 < kumquat> yeah I dunno, welcome to France
+09:56 < Dr-WaSabi> when my kids where little I used to make dounuts when we would go camping
+09:56 < kumquat> it's two people and they just go to this one market that's open all week long, but only on Sundays
+09:56 < xfnw> :( i tried using a cd as a brake disk, but then it snapped
+09:56 <~ben> i should walk over to potters
+09:56 < Dr-WaSabi> potters
+09:57 < kumquat> I could make donuts myself but I hate deep frying stuff
+09:57 <~ben> potters has some dang good donuts
+09:58 < kumquat> the smell takes forever to leave and then you have like 2 liters of oil that you end up putting in a jar and forgetting about
+09:58 < Dr-WaSabi> potters rocks
+09:58 <~ben> yeah i wouldn't want to deep fry at home
+09:59 < Dr-WaSabi> yeah, thats why we only did it when camping.. a dutch oven, bunch of oil, and grands biskit dough.  and a pop bottle cap to make the hole in the center
+10:00 < kumquat> makes sense
+10:01 < thefunkyspaw> I'm using quassel, with quassel-client on my devices and quassel-core on my server. Unfortunately, the quassel-client is built in qt and for some reason qt doesn't want to respect my font-prefers settings. This means that emoji like 😄 come from my base font package and not emoji one font package.
+10:01 < tildebot> [Demojize] <thefunkyspaw> I'm using quassel, with quassel-client on my devices and quassel-core on my server. Unfortunately, the quassel-client is built in qt and for some reason qt doesn't want to respect my font-prefers settings. This means that emoji like :grinning_face_with_smiling_eyes: come from my base font package and not emoji one font package.
+10:01 < thefunkyspaw> I'm actually thinking of switching to ZNC over this. I miss hexchat, lol
+10:06 <~benharri> thefunkyspaw: have you tried weechat?
+10:07 <~benharri> or have you tried xmpp?
+10:07 <~benharri> I think those would be my two irc client recommendations
+10:07 < thefunkyspaw> I haven't tried weechat. I did try IRSSI which made me decide that terminal based clients weren't for me. I'm usually connected to 150+ channels.
+10:07 <~ben> yeah i've got 153 buffers in my weechat
+10:07 < thefunkyspaw> XMPP is my favorite, but it seems like the good communities are all on IRC 
+10:07 <~ben> https://tilde.team/wiki/irc#weechat-relays
+10:07 < tildebot> [Title] irc | tilde.team~wiki
+10:07 <~ben> thefunkyspaw: !!
+10:08 <~ben> https://tilde.team/wiki/xmpp#biboumi
+10:08 < tildebot> [Title] xmpp | tilde.team~wiki
+10:08 < Dr-WaSabi> oh cewl... quassel runs on OS/2 Warp
+10:08 <~ben> that works for all channels here
+10:08 <~ben> #channel@biboumi.tilde.team
+10:08 < thefunkyspaw> That's pretty neat
+10:08 <~ben> if you want it for multiple networks, i have an open biboumi on my personal xmpp server
+10:08 <~ben> https://hmm.st
+10:08 < tildebot> [Title] hmm.st jabber
+10:09 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+10:09 < thefunkyspaw> ,beff
+10:09 < thefunkyspaw> ,bef
+10:09 < tildebot> [Ducks] thefunkyspaw befriended a duck in 5.85 seconds! You've befriended 3 ducks in #team!
+10:09 <~ben> #channel%irc.freenode.net@biboumi.hmm.st etc
+10:09 <~ben> it's super nice
+10:09 <~ben> if you like xmpp, that's the way to go
+10:09 < thefunkyspaw> I'll have to try it out!
+10:09 <~ben> i think you can actually join any irc channel without having an account on hmm.st
+10:09 < xfnw> ben can you enable the identd hashing thing on hmm.st's biboumi?
+10:09 <~ben> it should be on
+10:10 <~ben> #team%tilde.chat@biboumi.hmm.st
+10:10 <~ben> etc ^
+10:10 <~ben> lemme see
+10:10 <~ben> thefunkyspaw: you can log in to xmpp @tilde.team with your shell/email password
+10:10 -!- xfnw-hmmm [~xfnw-hmmm@harris.team] has joined #team
+10:10 < thefunkyspaw> Based on what I've read about ZNC so far... that's not the direction I want to go
+10:10 < xfnw-hmmm> bonk
+10:10 <~ben> znc is pretty terrible
+10:11 <~ben> on huh ok that's not working
+10:11 <~ben> harris.team is the rdns for the box that runs on lol
+10:11 < thefunkyspaw> Maybe I should reach out to quassel and see if they'll add internal emoji font support?
+10:11 <~ben> worth a try
+10:11 <~ben> janne is usually quick
+10:12 < thefunkyspaw> OK. I'll need to gather my documentation on the whole qt / xfce issue. I have to make the case that, even though XFCE and QT should work together to fix this, they won't.
+10:12 <~ben> i'd still recommend trying biboumi :)
+10:12 < thefunkyspaw> I will :)
+10:13 < thefunkyspaw> I could get back into old-school ascii faces. I'm using em-py to pick emoji, so I can add anything I want by just modifying a json file.
+10:14 <~ben> i usually just use :) :D :P and :s sometimes
+10:14 < xfnw> :I
+10:15 < xfnw> :3
+10:15 < thefunkyspaw> I use the synapse launcher (which is written in vala), and I wish I could use it as an emoji picker
+10:15 <~benharri> i've not heard of synapse launcher
+10:15 < thefunkyspaw> Its pretty neat
+10:16 <~benharri> the only synapse thing i know is the primary matrix homeserver software
+10:16 < thefunkyspaw> Its a desktop linux launcher. I've set it up so I can press control+space, then type some search stuff, then enter
+10:16 < xfnw> matrix--
+10:16 < tildebot> [Karma] matrix now has -1 karma (-1 from xfnw)
+10:16 < thefunkyspaw> I don't know why matrix provokes such strong reactions, lol
+10:16 <~benharri> i'm not a fan
+10:16 < thefunkyspaw> I'm not on team matrix for a bunch of reasons
+10:17 < thefunkyspaw> and the matrix users are a bit... evangelical? pushy? Some of them anyway.
+10:17 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+10:17 < jayden> Despite using Gnome
+10:17  * xfnw bonk jayden
+10:17 < jayden> I can still have tiling functionality
+10:18 <~ben> thefunkyspaw: yeah they're really pushy ime as well
+10:18 < xfnw> lol i think you can have tiling in windows too, its nothing special
+10:18 < thefunkyspaw> jayden; starter of holy wars
+10:18 < jayden> how
+10:19 < jayden> Im annoyed on how flameshot wont start in fedora
+10:19 < jayden> thats the screenshot tool I use
+10:19 -!- bentest [69ab9548a27@harris.team] has joined #team
+10:19 < xfnw> hi bentest 
+10:19 < bentest> xfnw: hi
+10:20 < bentest> there
+10:20 < bentest> ident fixt
+10:20 < jayden> QSocketNotifier: Can only be used with threads started with QThread
+10:20 < jayden> TF does that mean
+10:20 < bentest> should be good to go
+10:20 < xfnw> ben++
+10:20 < tildebot> [Karma] ben now has 64 karma (7 from xfnw)
+10:20 < jayden> fedora++
+10:20 < tildebot> [Karma] fedora now has 5 karma (1 from jayden)
+10:20 < jayden> Fedora 33 with Gnome 3.38
+10:21 <~ben> 33 isn't out yet
+10:21 <~ben> are you using the beta
+10:21 < jayden> its in beta
+10:21 < jayden> yeah im using da beta
+10:21 <~ben> nice
+10:21 < jayden> Super stable yet being a beta
+10:21 <~ben> i was thinking about updating to the beta but i'll just wait til it's released officially
+10:21 < jayden> something Microsoft could never achieve
+10:21 < jayden> ben: do you use fedora?
+10:21 <~ben> yes
+10:22 <~ben> on my laptop
+10:22 < jayden> What desktop environment
+10:22 <~ben> gnome
+10:22 < jayden> I have the material shell extension for gnome installed
+10:22 <~ben> ok
+10:22 < jayden> It gives gnome a great UI and tiling functionality
+10:22 <~benharri> https://xmpp-up.tilde.team/ben/8ZIsKR4IZxrr/rndu9-k9T-yq4s3d1aSS4g.jpg
+10:22 < jayden> it automatically makes windows tile
+10:23 <~benharri> I tried it once but it didn't seem that useful for me
+10:23 < jayden> Basically i3wm tiling for gnome
+10:23 < jayden> and you know I love tiles
+10:23 <~benharri> look at my dog though
+10:23 < jayden> ik
+10:24 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: Lost terminal]
+10:24 <~benharri> tbh i think the media upload thing is the nicest part of using biboumi
+10:24 <~benharri> makes it so easy to send photos
+10:25 < kumquat> mspe: did you or anyone you know order me something from ubaldi?!
+10:25 < thefunkyspaw> I use a fork of the conversations app on android, and its probably the best chat app on android period
+10:25 <~benharri> why a fork?
+10:25 -!- Jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+10:25 < Jayden> OOf
+10:25 < thefunkyspaw> The fork is pre-configured to work with sum7 servers
+10:25 -!- Jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: Lost terminal]
+10:25 <~benharri> what's that lol
+10:25 < thefunkyspaw> Its a company in Germany that is providing free servers
+10:25 <~benharri> the normal one works with any server
+10:26 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+10:26 < jayden> Gnome crashed
+10:26 <~benharri> there are lots of free xmpp providers out there
+10:26 < thefunkyspaw> When I originally wanted to try out XMPP, I wanted to use something that was as easy as possible to get going
+10:26 <~benharri> fair
+10:26 < thefunkyspaw> So I tried out sum7, never saw a reason to change
+10:26  * xfnw crashes jayden
+10:26 < thefunkyspaw> though they borked their SSL config for 24 hours a few weeks ago, lol
+10:26 <~benharri> I really only got back into xmpp recently
+10:26 < jayden> Who threw my garden gnome
+10:26 <~benharri> I had an account on a friend's server 
+10:26 <~benharri> then ended up running my own
+10:27 < mspe> kumquat: nope
+10:27 < thefunkyspaw> prosody?
+10:27 <~benharri> I use ejabberd
+10:27 < kumquat> mspe: I think it's from your mom
+10:27 <~benharri> but my friend was running prosody
+10:27 < thefunkyspaw> does it support omemo?
+10:27 < mspe> never heard of ubaldi
+10:27 <~benharri> thefunkyspaw: yes
+10:27 < jayden> Fedora doesn't have benefits over other operating system
+10:27 < thefunkyspaw> ~benharri | nice
+10:27 < jayden> other linux distributions
+10:27 < kumquat> I just looked it up, ubaldi is apparently small appliances and high tech
+10:27 < hackintech> why tf is today
+10:27 <~benharri> https://compliance.conversations.im/server/tilde.team/
+10:27 < tildebot> [Title] tilde.team's compliance result | XMPP Compliance Tester
+10:27 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+10:27 < jayden> ,bef
+10:27 < tildebot> [Ducks] jayden befriended a duck in 2.15 seconds! You've befriended 20 ducks in #team!
+10:27 < kumquat> ,hug
+10:27 < tildebot> [Ducks] kumquat: There was no duck! missed by 0.66 seconds
+10:27 < jayden> i wasnt signed in wdym i have 29 ducks
+10:28 < mspe> oh, I see
+10:28 < xfnw> lol
+10:28 <~benharri> ejabberd is the server that conversations recommends
+10:28 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing ident]
+10:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+10:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing host]
+10:28 -!- jayden [jayden@jmw2020.TILDE] has joined #team
+10:28 < jayden> :D
+10:28 < jayden> ,ducks
+10:28 < jayden> ,duccs
+10:28 < xfnw> ,friends
+10:28 < tildebot> [Ducks] Top duck friends in #team: j‌an6 (125), k‌umquat (115), l‌ickthecheese (84), k‌iedtl (36), b‌en (35), D‌r-WaSabi (28), b‌litzkraft (25), j‌ayden (20), c‌yberia (17), c‌ren (16)
+10:28  * kumquat gives hackintech people need to go away juice
+10:28 < thefunkyspaw> ~benharri  | interesting
+10:28 < jayden> ,friends
+10:28 < tildebot> [Ducks] Top duck friends in #team: j‌an6 (125), k‌umquat (115), l‌ickthecheese (84), k‌iedtl (36), b‌en (35), D‌r-WaSabi (28), b‌litzkraft (25), j‌ayden (20), c‌yberia (17), c‌ren (16)
+10:28 < jayden> when did  I have 20 ducks
+10:29 < jayden> xfnw__
+10:29 < jayden> xfnw++
+10:29 < tildebot> [Karma] lickthecheese now has 47 karma (3 from jayden)
+10:29 < thefunkyspaw> ~benharri | I've been thinking of setting up my own server. Just a matter of whether it's worth the time or not.
+10:29 <~benharri> it's not that bad
+10:29 < jayden> thefunkyspaw: make sure you get quad core intel core i7s in your serve
+10:29 < jayden> server
+10:29 <~benharri> why would you put consumer hardware in a server?
+10:29 < jayden> its not why its why not
+10:29 < xfnw> lol
+10:29 <~benharri> because i'd rather have a server cpu
+10:30 < thefunkyspaw> sum7 seems to be pretty reliable, but if I make a lot of friends I'll have to worry about account longevity
+10:30  * xfnw takes ben's six tilde.team cores away
+10:30 <~benharri> ya that's why i moved to my own
+10:30 <~benharri> took me a couple hours to set it up the first time
+10:30 <~benharri> once i learned all the srv records etc
+10:30 <~benharri> holler if you have questions
+10:30 < jayden> Guys
+10:30 < jayden> how do I get my private key to work with ssh
+10:30 < thefunkyspaw> ~benharri | will do!
+10:31 < thefunkyspaw> jayden | do you have a private key yet?
+10:31 <~benharri> now i'm trying to remember what cpu my dedi has
+10:31 < jayden> apparently when I transferend my private key to a new install of fedora the modes on my private key reset
+10:31 <~benharri> fix the permissions then
+10:31 < jayden> what perms to add
+10:31 <~benharri> 600
+10:31 < thefunkyspaw> sudo chmod 600 for the file with no extension
+10:31 < jayden> k thx
+10:31 <~benharri> no need for sudo
+10:31 <~benharri> it's meant to be owned by the same user
+10:31 < thefunkyspaw> right
+10:32 < jayden> there we go im in
+10:32 < xfnw> jmw\0: hi
+10:32 <~benharri> it's some kind of xeon e5 i think
+10:32 <~benharri> 8core 16thread
+10:32 < jayden> wait jmw\0 is still here
+10:32 < jayden> wow
+10:32 < thefunkyspaw> I'm jealous, ~benharri
+10:33 < jmw\0> omg of course im here lmao
+10:33 <~benharri> Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz
+10:33 < thefunkyspaw> My personal server is an MSI-Wind PC (the original, I think) and it has a celeron processor
+10:33 < jayden> jmw\0: lmao
+10:33 <~benharri> i have two machines that i'm using as servers at home
+10:33 < thefunkyspaw> I got it for $25, so there's tat
+10:33 < jayden> Well guys I gotta go bye
+10:33 <~benharri> an old random acer pc that i got for free
+10:33 -!- jayden [jayden@jmw2020.TILDE] has quit [quit: Lost terminal]
+10:33 <~benharri> and an old x230
+10:33  * hackintech claps loudly
+10:33 < thefunkyspaw> For a home user, a laptop is basically the perfect server
+10:34 <~benharri> ya i put proxmox on there
+10:34 < thefunkyspaw> lower power usage, minimal space, integrated screen and keyboard
+10:34 < thefunkyspaw> the only downside is a shortage of sata ports
+10:34 <~benharri> i added ram and swapped in an ssd
+10:34 <~benharri> 16gb ram and a 1tb ssd
+10:34 < xfnw> thefunkyspaw: and in integrated UPS too lol
+10:34 <~benharri> lmao
+10:34 < thefunkyspaw> xfnw | true!
+10:34 <~benharri> my media pc has 41tb raw storage :D
+10:34 < thefunkyspaw> nice
+10:34 < xfnw> my pc has 16gb of storage
+10:35 <~benharri> wat
+10:35 < xfnw> lol
+10:35 <~benharri> tank/data        36T   11T   25T  30% /data
+10:35 < thefunkyspaw> My home-server has 2x3TB storage. I keep the data redundant with rsync
+10:35 <~benharri> four 10tb hdds and a 1tb ssd in there
+10:35 <~benharri> why rsync instead of raid?
+10:35 < thefunkyspaw> I knew rsync, and I don't know raid :-)
+10:36 < jan6> lol
+10:37 < thefunkyspaw> I have to pick and choose what I learn, not enough time for everything :-)
+10:37 < jan6> y'all with money to buy space
+10:37 < jan6> lol
+10:37 < microwave> Hello
+10:37 < jan6> olleh
+10:37 < thefunkyspaw> hi microwave!
+10:38 < thefunkyspaw> we were just sharing our home-server setups. Do you have one?
+10:38 < microwave> Ye
+10:38 < jan6> for once a word that is NOT xfnw's nick
+10:38 < jan6> lol
+10:38 < microwave> I am currently working on my own pubnix
+10:38 <~ben> nice
+10:38 < anton> nice
+10:38 < microwave> and I have a personal server, that's it
+10:38 < jan6> great
+10:39 <~ben> i bought all external drives and shucked them
+10:39 <~ben> cheaper for some reason
+10:39 < thefunkyspaw> Its cheaper because they buy bulk lots of white-label drives
+10:39 < jan6> btw did you know there's a way to have ssh keys basically signed by a CA, and as such you don't need to individually add keys, only make sure they're signed with a CA the server trusts?
+10:39 < thefunkyspaw> I did not, that sounds useful
+10:39 < xfnw> lolol shucked them
+10:39 < jan6> yeah
+10:39 < thefunkyspaw> What happens if the CA unsigns your key?
+10:39 <~ben> then it's no longer valid?
+10:39 < jan6> it's untrusted, duh
+10:40 <~ben> ahh yeah 
+10:40 < thefunkyspaw> It sounds like that gives an awful lot of power to the CA
+10:40 < jan6> I think you CAN still add keys manually too
+10:40 < thefunkyspaw> Does the CA have the ability to track your authentications? For example, would your CA have a list of every server you authed with and when?
+10:41 < jan6> why would they?
+10:41 < thefunkyspaw> I'm convinced big tech companies are using CA activity to predict the growth of other tech companies and play the market, or predict their moves and out maneuver them.
+10:42 < jan6> lol
+10:42 < jan6> you'd need to somehow get that data
+10:42 <~ben> wouldn't be surprised tbh
+10:42 < thefunkyspaw> At scale, a company could use CA data to predict competitive growth. For example, if Lowes gets more auths than Home Depot, then Lowes is growing relative to home depot
+10:42 < jan6> and I don't see how the CA could track anything, anyway
+10:43 < thefunkyspaw> I work in the satellite field, and a company called "black sky" took pictures of Lowes and Home Depot parking lots, used AI to count the cars, and they sold that data to a third party. Real thing that happened.
+10:43 < jan6> lol
+10:43 < thefunkyspaw> If private investors will go to *that* length for that kind of data, using CA authorities to track user movement is well within the realm of the reasonable
+10:44 < jan6> that kind of stuff is kinda obviously gonna happen till the laws reach the space stuff
+10:44 < jan6> but you won't get the images of that specific car part that often unless you specifically set a flight path to do so
+10:44 < hackintech> jan6!
+10:44 < hackintech> wanna fight
+10:44 < jan6> hackintech!
+10:44 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+10:44 < jan6> ,be
+10:44 < jan6> ,ebf
+10:45 < hackintech> ,bef
+10:45 < jan6> ,bfe
+10:45 < tildebot> [Ducks] hackintech befriended a duck in 3.19 seconds! You've befriended 16 ducks in #team!
+10:45 < thefunkyspaw> ,bef
+10:45 < tildebot> [Ducks] thefunkyspaw: There was no duck! missed by 0.85 seconds
+10:45 < hackintech> ebf
+10:45 < xfnw> honkintech
+10:45  * jan6 feb's hackintech
+10:45 < thefunkyspaw> we all just had dyslexia, lol
+10:45 < jan6> bonk in hecc
+10:45 < hackintech> f i g h t
+10:45 < jan6> also I don't have much time rn, lol
+10:45 < hackintech> sad
+10:45  * jan6 slaps hackintech around a bit with a large trout
+10:45 < hackintech> throw hands
+10:46 < ace> i would like to test out the nextcloud instance (https://cloud.tilde.team/), but im not getting a password reset email, perhaps someone needs to enable it for me?
+10:46 < tildebot> [Title] tildecloud
+10:46 < kumquat> lol, wow
+10:46 < jan6> the password is your shell password I think
+10:46 < xfnw> ace: i think it uses your shell password
+10:47 < jan6> if it's not, THEN ask for reset, probably in #helpdesk, or by pinging an admin directly
+10:47 < ace> ok, thanks, ill try that
+10:47 < jan6> also check your tilde mail for the reset code, too
+10:47 < jan6> just in case
+10:47 < jan6> https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
+10:47 < tildebot> [Title] Managing servers with OpenSSH Certificate Authority - iBug
+10:48 < jan6> basically what I talked about before
+10:48 -!- bentest [69ab9548a27@harris.team] has quit [Killed (ben (close bibomi))]
+10:48 -!- ben_ [69ab9548a27@harris.team] has joined #team
+10:48 < jan6> client can trust servers, and servers can trust clients, by CA signing
+10:48 < xfnw> :O ben kill ben?
+10:48 < jan6> and you can obviously be your own CA too
+10:48 -!- ben_ [69ab9548a27@harris.team] has quit [Client exited]
+10:48 -!- ben_ [69ab9548a27@harris.team] has joined #team
+10:49 -!- ben_ [69ab9548a27@harris.team] has left #team []
+10:49 < jan6> apparently you MUST be your own CA
+10:49 < jan6> lol
+10:49 < jan6> To generate a key pair for a CA, you’d do it the usual way you generate a regular SSH key pair:
+10:49 < jan6> ssh-keygen -f my_ca
+10:49 <~benharri> i had an extra biboumi connection
+10:49 < thefunkyspaw> Is it possible to use letsencrypt as a CA for your ssh key?
+10:49 < ace> ok, thanks jan6 and axfnw, my issue was that i was using the wrong username (ace@tilde.team, instead of just "ace"), its working now!
+10:49 <~benharri> unlikely
+10:50 < jan6> as they say, the CA is just another ssh keypair
+10:50 < thefunkyspaw> I should read up on CAs again
+10:50 <~benharri> ace: ah yeah it's just username with no domain
+10:50 < jan6> you can probably import a normal RSA key into a RSA ssh key, with some trickery tho
+10:50 < jan6> just like you can sign data with ssh keys
+10:50 < jan6> but only a little bit of data, and only with rsa keys, afaik
+10:51 < xfnw> signify can sign data with ed25519 keys
+10:51 < jan6> (but that's a legit strat that's shown online, you use symmetric encryption, and encrypt that key with ssh key, and boom)
+10:51 < jan6> xfnw: that's besides the point, lol
+10:51 < thefunkyspaw> here I was using GPG like an old-timer
+10:51 < jan6> minisign can too
+10:51 < thefunkyspaw> (anything that replaces gpg is worth considering)
+10:51 < xfnw> jan6: > and only with rsa keys
+10:51 < jan6> ssh signing is useful if you have the person's ssh key, and wanna send secrets, but don't wanna have to ask for gpg key or some other info
+10:52 < thefunkyspaw> yes, also its probably less convoluted from a user perspective, lol
+10:52 < jan6> the trick I saw used openssl rsautil, and I looked, there doesn't seem to be an equivalent to rsautil for ec or stuff ;P
+10:52 < jan6> most useful way I see the ssh signing is like with tildes ;P
+10:53 < jan6> you can automatically sign data sent to each user, because you already know their keys
+10:53 < jan6> or I think envs had public ssh pubkeys for each user too with an APi
+10:53 < thefunkyspaw> that's a good point
+10:53 < jan6> in which case you can use that too
+10:53 < thefunkyspaw> and having a single pubkey for all users is really convenient
+10:54 < jan6> it's secure, but annoying to use as a normal encryption way, but it's great if you already have the person's key and don't wanna bother them more, especially if they don't yet use gpg or stuff
+10:54 < ace> https://github.com/torvalds.keys <- you can find keys on github
+10:54 < jan6> too bad it works only on rsa, lol
+10:55 < jan6> well, the openssl rsautil way is the only way I know of using the ssh keys to encrypt stuff, buuut you can turn a ed25519 key into a x25519 key, iirc, for what it's worth...
+10:55 < jan6> so that one might work for those keys
+10:55 < jan6> idk
+10:56 < jan6> I just found it today, and found it cool and interesting
+10:56 < jan6> lol
+10:56 < thefunkyspaw> it is really cool
+10:56 < jan6> also I found a gpg vanity key generator
+10:56 < jan6> that is also really cool
+10:56 < ace> ed25519 is for signing, and x25519 for asymetric encryption?
+10:56 < jan6> I got an ultra cool key with that
+10:56 < thefunkyspaw> if this were XMPP, you could show us ;-)
+10:56 < thefunkyspaw> 🔥
+10:56 < tildebot> [Demojize] <thefunkyspaw> :fire:
+10:57 < ace> you can create "two" x25519 keypairs from one ed25519 keypair, right?
+10:57 < jan6> other way around, iirc
+10:57 < jan6> one ed25519 is one of the two possible ones for an x25519, I think
+10:58 < jan6> idk
+10:58 < jan6> but cool stuff
+10:58 < ace> yeah, something about a single bit flip for the "twin-pair" of keys
+10:59 < jan6> yes, creme's users_info.json allows uploading several ssh pubkeys to the API, that's nice
+10:59 < jan6> yeah, positive and negative variants of a single key
+10:59  * jan6 off, btw
+10:59 < jan6> for some time at least
+11:02 < xfnw> ,seen tomasino 
+11:02 < tildebot> [Seen] tomasino was last seen 4h 39m ago (<tomasino> Lawn gnomes)
+11:04 < Dr-WaSabi> xfnw: maybe that earthquake yesterday in iceland knocked him off line?
+11:04 < xfnw> :o
+11:32 -!- alex_ [~alex11@bras-base-mtrlpq5302w-grc-32-76-71-172-84.dsl.bell.ca] has joined #team
+11:34 -!- alex11 [~alex11@bras-base-mtrlpq5302w-grc-27-206-172-182-34.dsl.bell.ca] has quit [Ping timeout: 120 seconds]
+11:41 -!- alex_ is now known as alex11
+11:41  * Dr-WaSabi learns about A/UX
+11:46 -!- kernel_pancake [uid231002@brockwell.irccloud.com] has joined #team
+11:48 < kernel_pancake> that feeling when apparently a missing pair of quotes in a HTTP POST keeps crashing your server
+11:52 -!- dgy [~dgy@2800:810:546:8437:9248:9aff:fe2b:bca7] has joined #team
+11:53 < ace> kernel_pancake, which server?
+11:53 < kernel_pancake> redfish
+11:53 < jan6> I was about to ask that
+11:53 < jan6> lol
+11:53 < jan6> sounds like a terrible server
+11:54 < jan6> because in any case, a server should never crash, only error
+11:54 < ace> ^^
+11:54  * kernel_pancake bangs head on table
+11:54 < kernel_pancake> how do you people not get braindead after 8 hour of WFH working lol
+11:54 < ace> https://en.wikipedia.org/wiki/Redfish_(specification) <-- this?
+11:54 < kernel_pancake> that's the specification, but ye
+11:54 <~ben> kernel_pancake: i certainly do get braindead
+11:55 < ace> im braindead already, i have "senioritis", basically ive given my resignation notice and i have little will to work
+11:55 < kernel_pancake> ben: how to unzombiefy
+11:55 <~ben> i started learning bass guitar recently
+11:55 <~ben> and also alcohol
+11:55 < kernel_pancake> hahaha
+11:55 < hackintech> im big tired
+11:55 <~ben> i also just don't care about work
+11:55 < hackintech> just want napppp
+11:56 <~ben> and spend most of the work day here on irc
+11:56 < kernel_pancake> ace: senioritis... does that mean your are retiring?
+11:56 < kernel_pancake> I would be afraid that my employer would be spying on me or something
+11:56 < kernel_pancake> I don't dare do something else while working
+11:57 < ace> senioritis; ive given notice, and im waiting for them to hire someone for me to train, i have given them until the end of december
+11:58 < jan6> lol imagine being zombie
+11:58  * jan6 is way post-zombie
+11:59 < kernel_pancake> ben: playing an instrument is a good idea though
+11:59 <~ben> it's been really fun
+12:00 < kernel_pancake> how did you end up deciding with bass guitar
+12:00 < kernel_pancake> instead of all the countless other options
+12:00 < jan6> easy to get hands on
+12:00 < ace> i can "kinda" play guitar, but i would love to be better at it
+12:00 < kirch> my music journey was drums -> bass -> guitar -> mandolin -> everything under the sun
+12:00  * kumquat blasts the cranberries
+12:00 < jan6> guitars are REALLY common, and not that hard to learn, and ubuquitous access to materials
+12:01  * jan6 blasts cranberries, LOUDER
+12:01 < jan6> ,yt time is ticking out
+12:01 < jan6> woooo
+12:01 < tildebot> [Youtube] The Cranberries - Time Is Ticking Out (3m 4s) uploaded by TheCranberriesVEVO on 2010-12-20, 4,062,507 views (12,483↑↓462) https://youtu.be/_AJsLkRbQ74
+12:01 < jan6> time is ticking out
+12:01 < kirch> guitars are generally more readily available - for any given quality of guitar
+12:01  * kumquat blasts the cranberries LOUDESTG
+12:01 < kumquat> LOUDEST
+12:01 < kumquat> lol
+12:01 <~ben> idk i just really like bass
+12:01 < kirch> BUT - people want to be in a band, and bands need drums & bass
+12:01 < kernel_pancake> kirch: I've never seen a mandolin in real life
+12:01 <~ben> it's so fun
+12:01 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+12:01 < kirch> ,bef
+12:01 < tildebot> [Ducks] kirch befriended a duck in 2.03 seconds! You've befriended 4 ducks in #team!
+12:01 < kernel_pancake> ,bef
+12:01 < tildebot> [Ducks] kernel_pancake: There was no duck! missed by 0.53 seconds
+12:01  * jan6 blasts cranberries LOUDESTER
+12:01 < kumquat> ,hu
+12:01 < kirch> I am #4
+12:01 < kumquat> ,hug
+12:01 < tildebot> [Ducks] kumquat: There was no duck! missed by 5.87 seconds
+12:01 < jan6> lol
+12:01 < kumquat> lmao
+12:02 < kumquat> I'm having typing fails today, apparently
+12:02 < hackintech> bus reacts
+12:02 < kernel_pancake> I'm trying to learn keyboard actually, bought a cheap MIDI one a month ago
+12:02 < hackintech> BUS REACTS
+12:02  * kumquat blasts jan6 blasting cranberries
+12:02 < kernel_pancake> -s
+12:02  * jan6 always gets real sad remembering cranberries is over... and it's literally the only thing that can consistently do that... or even inconsistently, for more than twice...
+12:03 < kirch> I'm trying to learn piano, too... like, I can do melodies, but I don't really know what chords are what without counting intervals
+12:03 < kumquat> but the music will always live on
+12:03 < dgy> i play the kazoo. and the mouth harp, but that's one hard
+12:03 < kirch> jan6: did you see Miley Cirus singing Zombie?
+12:03 < jan6> who tf cares about music theory, just play what feels nice!
+12:03 < jan6> zombie is so overplayed I can't stand it, lol
+12:03 < kirch> dgy: like the Snoopy jaw harp?
+12:03 < kumquat> lol jan6
+12:03 < kirch> I have a snoopy jaw harp... it's fun
+12:03 < jan6> as in, it's like literally the ONLY song of cranberries people seem to EVER cover
+12:03 < dgy> kirch: yes. actually it even has snoopy on the box
+12:04 < kumquat> music theory is interesting, though
+12:04 < jan6> theory is interesting
+12:04 < jan6> rules are not
+12:04 < jan6> applies to most things, not only music
+12:04 < kumquat> baby kumquat wanted to get a phd in music theory
+12:04 < kumquat> then life happened
+12:04 < jan6> baby jan6 wanted to be an inventor, then existance happened
+12:04 < kirch> jan6: it's either that or Linger.... but Zombie's more political ¯\_(ツ)_/¯ 
+12:04 < jan6> time is ticking out
+12:04 < dgy> https://musicspot.com.au/pub/media/catalog/product/cache/49de87bde78cbe0bed71f6d4b009fc1e/s/n/snoopy-jaw-harp-ed349.jpg
+12:04 < dgy> ,shorten
+12:04 < tildebot> [Shorturl] Shortened URL: https://ttm.sh/dAA
+12:05 < jan6> ,yt cranberries chocolate brown
+12:05 < tildebot> [Youtube] Chocolate Brown (3m 33s) uploaded by The Cranberries - Topic on 2018-07-31, 7,396 views (130↑↓40) https://youtu.be/jeVeehfAjmE
+12:05 < kirch> I should've bit the bullet and joined all the HS bands to get into that music theory class.... but like, you couldn't be in one band in HS, you had to be in all of them - and I played bass back then and couldn't conceive of playing bass in a marching band.
+12:05 < jan6> why couldn't you be in just one, lol
+12:05 < dgy> you kinda need some music theory if you wanna use stuff like trackers and all. hard to just "play what you like" on those
+12:05 < kirch> jan6: school rules ¯\_(ツ)_/¯ 
+12:05 < kernel_pancake> kirch: do you self-teach the piano?
+12:05 < jan6> stupid school
+12:06 < jan6> (kirch's high school)--
+12:06 < tildebot> [Karma] kirch's high school now has -1 karma (-1 from jan6)
+12:06 < kumquat> kirch: really?
+12:06 < kirch> kernel_pancake: yeah, I'm completely self-taught... which is weird coz my dad & step-mom are BOTH professional musicians...
+12:06 < ace> or a harmonica, those arent too hard play a tune on
+12:06 < kumquat> that's too bad, I loved my music theory class in HS
+12:06 < jan6> ,yt torogatunes metamorphosis
+12:06 < tildebot> [Youtube] "Metamorphosis" - original piano composition (4m 19s) uploaded by torogatunes on 2018-03-30, 1,464 views (89↑↓2) https://youtu.be/dFbm25VJwGQ
+12:06 < kirch> Well... I taught myself all the stuff, but they'd show me tricks or neat things every now and hten
+12:06 < kernel_pancake> kirch: sounds like you got music talent from your parents
+12:06 < kirch> my birth mother can't carry a tune in a bucket
+12:07 < kernel_pancake> I'm watching some of this guy's videos: https://www.youtube.com/watch?v=MogKBCR8_Gs
+12:07 < jan6> torogatunes is all self learnt awesomeness
+12:07 < tildebot> [Youtube] #40 How to Teach yourself piano online (39m 11s) uploaded by Andrew Furmanczyk on 2009-03-10, 267,233 views (1,822↑↓59)
+12:07 < dgy> my birth mother thinks supporting my endeavours is only a good idea if they get me a paycheck
+12:07 -!- wingy [wingy@tilde.town] has quit [Connection closed]
+12:08 < kirch> when I worked at Radio Shack I played with one of those Casio keyboards where the notes would light up for you to play
+12:08 < kernel_pancake> cool
+12:08 < kirch> it helped a little, but I never had enough time to truly study what I was doing
+12:08 -!- wingy [wingy@tilde.town] has joined #team
+12:08 < kernel_pancake> I'm using Synthesia at the moment but should just learn to read notes
+12:09 < jan6> https://www.dropbox.com/sh/deo0gfyurbgbi1s/AABpBgNVZtUcIySGdVSZ_KPOa
+12:09 < jan6> also this
+12:09 < tildebot> [Title] Dropbox - Fear less! music - Simplify your life
+12:09 < kirch> I remember I had a cakewalk midi keyboard and this kids game where a note would fall from the top and you'd have to play it before it went off the bottom.... really dumb game... I still can't read sheet music
+12:09 < jan6> the dude was "too lazy" to do standard music notation
+12:09 < jan6> lol
+12:09 < jan6> I love the music and the lil ol flash game
+12:09 < jmw\0> How come everyone else's first i3wm setup is sooo cool and transparent while  mine has default i3blocks  and i3bar and a cool background
+12:09 < kernel_pancake> maybe sheet music is overrated
+12:09 < kirch> you only really need to know music notation to share music on paper
+12:09 < jan6> https://www.kongregate.com/games/innomin/fear-less is one place to play the flash game, if you care
+12:09 < tildebot> [Title] Play Fear Less!, a free online game on Kongregate
+12:10 < jan6> sheet music in standard notation IS overrated
+12:10 < jan6> but it's useful universal medium
+12:10 < jan6> your sheet music will always "just work" as long as it's not black midi or some other insanity
+12:10 < jan6> lol
+12:10 < dgy> study modern composers, they used their own notations. 9 times out of 10 they were up to interpreter
+12:11 < jan6> !shortenimg https://i.pinimg.com/originals/f8/89/cd/f889cd096986b00ecdc2e3ff1e90744a.jpg
+12:11 < minerbot2> jan6: Shortened URL: https://ttm.sh/hHP.jpg
+12:11 < jan6> imagine playing that
+12:11 < jmw\0> How the heck did a linux community start talking about music lmao
+12:11 < dgy> also black midi is great
+12:11 < jan6> it's not a linux community, that's the secret, jmw\0 
+12:11 < kernel_pancake> jmw\0: I think you have to blame ben
+12:11 < kirch> like, with folk music you'd teach other people and learn from one another instead of having sheet music - so your lyrics might be a little off from theirs, but it was still the same song
+12:11 < jan6> it's an everything community
+12:11 < jmw\0> Fresh baked corn kernels
+12:11 < dgy> you keep changing nicks, my ignore list hungers
+12:11 < jmw\0> these corn kernels are fresh and version 5.8.10
+12:12 < jan6> get a better ignore function
+12:12 < jan6> lol
+12:12 < jan6> or better yet, just filter
+12:12 < kirch> in Celtic music they have this tradition of "Kitchen Parties" - where like, you just sit around with a musician or two and dance and whatnot
+12:12 < dgy> or just start ignoring masks instead of nicks haha. but i'm lazy
+12:12 < jmw\0> I just like having funny nicks ok
+12:12 < jan6> get one that blocks based on the username, not nickname, or at least that tracks the nick changes ;P
+12:12 < jan6> ,grab kirch 
+12:12 < tildebot> [Quotes] Quote added
+12:12 < kirch> some Irish pubs do like a night every month or so where anyone can bring an instrument and join in
+12:12 < jan6> sounds amazing
+12:12 < jmw\0> I have a clarinet :P
+12:13 < jmw\0> Im squidward
+12:13 < ace> :joy:
+12:13 < jan6> I love the tune of Greensleeves but do not like the lyrics people put on top of it
+12:13 < jan6> such a shame
+12:13 < jmw\0> Is the latest version of the linux kernel 5.8.10?
+12:13 < kirch> made a new friend who has apparently dropped an album every month of 2020 (or close to it) and he just taught himself clarinet...
+12:13 < jan6> ,yt dj fibuko greensleeves
+12:13 < tildebot> [Youtube] DJ Fibuko - Greensleeves (remix) (6m 22s) uploaded by DJ Fibuko on 2016-12-01, 69,325 views (971↑↓30) https://youtu.be/FggTXKTJAvM
+12:13 < jan6> is the best
+12:13 < jmw\0> ,yt flying toasters
+12:13 < tildebot> [Youtube] Flying Toasters - After Dark 3.2 (1m 33s) uploaded by Tali on 2009-06-17, 125,030 views (952↑↓15) https://youtu.be/mjlusi_h_XA
+12:14 < kirch> I have no idea how to make noise with wind instruments smaller than a didgeridoo and more complicated than a recorder/tin-whistle
+12:14 < jan6> huh I'd always love more music to find out
+12:14 < jmw\0> FLYING TOASTER :D
+12:14 < kernel_pancake> how does one drop an album every month lol
+12:14 < kirch> he's a professional musician ¯\_(ツ)_/¯ 
+12:14 < jan6> probably similarly to how antoń does stuff, except better in every way ;P
+12:14 < kernel_pancake> still impressive
+12:14 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+12:14 < jan6> especially then, kirch, I wanna find out where I can hear the stuff
+12:14 < jan6> ,bef
+12:14 < tildebot> [Ducks] jan6 befriended a duck in 2.07 seconds! You've befriended 126 ducks in #team!
+12:14 < kernel_pancake> ,bef
+12:14 < tildebot> [Ducks] kernel_pancake: There was no duck! missed by 0.16 seconds
+12:14 < jan6> lol
+12:14  * kernel_pancake screams inside
+12:14 < jan6> also that was a clutch duck
+12:14 -!- jmw\0 is now known as tild3b0t
+12:15 < tild3b0t> ・゜゜・。。・゜゜\_o< QUACK!
+12:15 < kernel_pancake> ,ducks
+12:15  * jan6 kicks tild3b0t
+12:15 < kernel_pancake> ,bef
+12:15 < tildebot> [Ducks] kernel_pancake: There was no duck! missed by 21.54 seconds
+12:15 -!- tild3b0t is now known as jmw\0
+12:15  * kernel_pancake screams louder
+12:15 < jmw\0> kernel_pancake: you fell for my prank
+12:15 < jmw\0> LMAO
+12:15 < kirch> BTW - free music notation software that's full-featured: musescore
+12:15 < ace> i wanna try
+12:15  * jan6 puts a megaphone next to jmw\0's ear and detaches the microphone next to kernel_pancake
+12:15 < ace> ・゜゜・。。・゜゜\_o< QUACK!
+12:15 < xfnw> ,huff ace 
+12:15 < tildebot> [Ducks] xfnw: There was no duck! missed by 58.66 seconds
+12:15 < kernel_pancake> ,NO
+12:16 < jmw\0> ,bef
+12:16 < tildebot> [Ducks] jmw\0: There was no duck! missed by 74.21 seconds
+12:16 < jan6> fun fact, the duck pattern is set up as a highlight in my client
+12:16 < jmw\0> I knew there was no duck i was joking
+12:16 < ace> :P
+12:16 < jan6> some cheatsky tips for you ;P
+12:16 < jmw\0> ・゜゜・。。・゜゜\_o< QUACK!
+12:16 < kirch> although... musescore makes PNGs with transparent backgrounds... https://stash.jkirchartz.com/tagged/Mandolin
+12:16 < tildebot> [Title] J's 'stash
+12:16 < kernel_pancake> you sneaky bastards
+12:16 < jmw\0> ,grab jmw\0
+12:16 < tildebot> [Quotes] Quote added
+12:16 < jan6> transparent backgrounds are the best!
+12:16 < jan6> they really are!
+12:16 < jmw\0> jan6: thats why my terminal is transparent
+12:16 < dgy> musescore also supports musicXML which is great
+12:16  * kumquat turns jan6 transparent
+12:17 < jan6> also it's pretty darn easy to use something like imagemagic or python to replace transparency, lol
+12:17 < jan6> what about MML ;P
+12:17 < jan6> lol
+12:17 < jmw\0> imagemagick is bloat 
+12:17 < jan6> you sure
+12:17 < jan6> it's definitely not bloat
+12:17 < jmw\0> its UI looks as outdated as possible
+12:17 < xfnw> lol
+12:17 < kumquat> sigh
+12:17 < xfnw> LOL what ui
+12:17 < blitzkraft_> It does not have a ui
+12:17 < jmw\0> image magick is a GUI
+12:17 < kirch> LOL look at that fuggin retard Kirch who can't even be arsed to use one of the multitude of image editing software he has on his machine or has access too online 
+12:17 < jan6> jmw\0: that's why you're wrong, the UI is an afterthought and doesn't let you do 99% of the stuff you can do if you use it properly
+12:18 < jan6> ,grab kirch 
+12:18 < tildebot> [Quotes] Quote added
+12:18 < jmw\0> I once found a imagemagick icon in gnome and i clicked it and found a GUI
+12:18 < jan6> it is not, jmw\0 
+12:18 < jan6> you doof
+12:18 < kirch> so.... how do you ungrab a quote again?
+12:18 < jan6> ,qdel category=quote
+12:18 < tildebot> [Quotes] Quote category 'category' not found
+12:18 < kirch> does it involve taking a hammer to jan6's figners?
+12:18 < xfnw> kirch: nevar
+12:18 < jan6> where quote is a lazy match
+12:18 < kumquat> kirch: yes
+12:18 < jan6> so you don't need to paste the entire quote, only a mostly unique part of it
+12:18 < kirch> ,qdel fuggin
+12:18 < tildebot> [Quotes] Quote category 'fuggin' not found
+12:18 < jan6> category is kirch ;
+12:18 < jan6> ;P
+12:19 < kirch> ,qdel category=kirch
+12:19 < tildebot> [Quotes] Quote category 'category' not found
+12:19 < jan6> lol no
+12:19 < kirch> ,qdel kirch=fuggin
+12:19 < tildebot> [Quotes] Removed quote from 'kirch' (<kirch> LOL look at that fuggin retard Kirch who can't even be arsed to use one of the multitude of image editing software he has on his machine or has access too online )
+12:19 < jan6> there you go
+12:19 < jmw\0> ,qdel my life
+12:19 < tildebot> [Quotes] Quote category 'my life' not found
+12:19 < jan6> new skill learn!
+12:19 < kirch> jan6: why not go fuck yourself?
+12:19 < jmw\0> My  life was not found
+12:19 < jmw\0> nice
+12:19 < jan6> kirch: I already did that earlier 
+12:19 < jmw\0> ・゜゜・。。・゜゜\_o< QUACK!
+12:19 < jan6> boring as always
+12:19 < kirch> jan6: do you really need to be an asshole all the time, or are you allowed to take a break and not do that?
+12:19 < jan6> I'm not
+12:20 < kirch> it's truly amazing how you systematically piss everyone off - glad it's my turn again - it's so fun
+12:20 < jan6> not everyone, and not systematically
+12:20 < jan6> but sad it was your turn
+12:20 < jmw\0> echo i > i.txt && echo ate > ate.txt && echo your feet > yf.txt && cat i.txt && cat ate.txt && cat  yf.txt && echo :D
+12:20 < jmw\0> You cant  shorten that command
+12:20 < jmw\0> i know you cant
+12:20 < jan6> jmw\0: don't play more stupid than you are
+12:21 <@khuxkm> echo i ate your feet
+12:21 <@khuxkm> there
+12:21 <@khuxkm> shortened
+12:21 < jmw\0> thats not multiline
+12:21 < jmw\0> like my command makes it
+12:21 <@khuxkm> fine
+12:21 <@khuxkm> printf 'i\nate\nyourfeet\n\n'
+12:21 < jan6> just press enter withing the quotes
+12:21 < jan6> lol
+12:21 <@khuxkm> printf 'i\nate\nyour feet\n\n'
+12:21 < kirch> what khuxkm said
+12:21  * kirch was typing that out when they posted
+12:22 < jan6> echo "a
+12:22 < jan6> b"
+12:22 < jan6> ez
+12:22 < jan6> much shorter
+12:22 < xfnw> jan6: uea
+12:22  * jmw\0 accidentily tried to press mod + enter to get a terminal and forgets I am in the gnome desktop environment
+12:22 < jan6> but you gotta be big brain to use tricks like that
+12:22 < jan6> gnome has customizeable keyboard shortcuts
+12:22 < jmw\0> ik
+12:23 < jmw\0> i wanna edit a config file instead :P
+12:23 < jmw\0> but gnome has no config files
+12:23 < xfnw> what?
+12:23 < xfnw> theres no ~/.config/gnome or something?
+12:24 < jan6> jmw: I don't wanna edit config files *also jmw a few days later*: i wanna edit a config file instead
+12:24  * xfnw edits jan6
+12:25 < jmw\0> darn it i cant use the super key in keybindings on gnome
+12:25 < ace> what about gnome-tweaks
+12:25 < xfnw> you can lol jmw\0 
+12:25 < ace> that edits something, i'd imagine a file
+12:25 < jmw\0> im using the settings applet
+12:25 < jmw\0> i did it wrong :P
+12:26 < jan6> now I have jmw ANd xfnw on dim
+12:26 < jmw\0> whats dim
+12:26 < jan6> the worst punishment I've dished out so far, on purpose, for a long time
+12:26 < jan6> you're not worthy of learning of the almighty dim
+12:26 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+12:26  * balun smacks jmw
+12:26 < jmw\0> ,bef
+12:26 < tildebot> [Ducks] jmw\0 befriended a duck in 3.38 seconds! You've befriended 21 ducks in #team!
+12:27 < jmw\0> Since when have i had 21 ducks
+12:27 < ace> today
+12:27 < jmw\0> wait a sec
+12:27 < jmw\0> ・゜゜・。。・゜゜\_o< QUACK!
+12:27 < jmw\0> ,bef
+12:27 < tildebot> [Ducks] jmw\0: There was no duck! missed by 35.22 seconds
+12:27 < jmw\0> ,friends
+12:27 < tildebot> [Ducks] Top duck friends in #team: j‌an6 (126), k‌umquat (115), l‌ickthecheese (84), k‌iedtl (36), b‌en (35), D‌r-WaSabi (28), b‌litzkraft (25), j‌ayden (21), c‌yberia (17), c‌ren (16)
+12:27 < jmw\0> nnope
+12:27 < jmw\0> ・゜゜・。。・゜゜\_o< QUACK!
+12:27 < xfnw> ???
+12:28 < jmw\0> how do I get tildebot in my channel :P
+12:28 < jmw\0> I know hwo to get him in
+12:28 < jan6> ssssh
+12:28 < jan6> no
+12:28 < jan6> you don't
+12:28 < jmw\0> How do I get the ducks module in my channel
+12:28 < jan6> nobody tell it
+12:28 < jmw\0> its /invite tildebot
+12:28 < kumquat> lol
+12:28 < jmw\0> I already knew it
+12:28 < jmw\0> but how do I get ducks in my channel
+12:28 < xfnw> just quack a bunch
+12:29 < jan6> you just throw breadcrumbs everywhere
+12:29 < jmw\0> QUACK!!!!!!!!!!!!!!!!!
+12:29  * balun smacks jmw
+12:29 < jmw\0> ・゜゜・。。・゜゜\_o< QUACK!
+12:29 < jmw\0> .echo
+12:29 < balun> [channels] 
+12:29 < kumquat> god, can any one person be any more annoying
+12:29 < jmw\0> .echo I am the stupidest bot in the world
+12:29 < balun> [channels] I am the stupidest bot in the world
+12:29 < jmw\0> ,echo I am just as dumb duhh :P
+12:29 < tildebot> [Echo] I am just as dumb duhh :P
+12:29 < jan6> ,grab kumquat 
+12:29 < tildebot> [Quotes] Quote added
+12:29 < jmw\0> ,grab balun
+12:29 < tildebot> [Quotes] Quote added
+12:29 < jan6> nobody can be more annoying than god, that is true
+12:29 < xfnw> ,seen god
+12:29 < tildebot> [Seen] god was last seen 2w 1d ago
+12:30 < xfnw> god died
+12:30 < jmw\0> ,echo xfnw: your duhhmby
+12:30 < tildebot> [Echo] xfnw: your duhhmby
+12:30 < mspe> you have a living proof that it's not the case
+12:30 < jmw\0> b4lls
+12:31 < jan6> mspe: not sure they're living, seems more like some rotten liquid to me
+12:32 < mspe> or a malfunctiong artificial idiocy bot
+12:32  * jan6 cues airhorns and MLG doritos and whatnot
+12:32 < jan6> a non-malfunctioning one is a 5-letter person, too
+12:33  * jan6 does a very forced wink at the camera
+12:34 < kumquat> mspe's mom sent me a stick blender as a birthday present since mine broke, and it came in a box that was easily 3x its size
+12:34  * xfnw blames jan6
+12:34 < jan6> oooh, so you're talking with xfnw's mom? have you told her to tell him to dial stuff down a bit? ;P
+12:51 < kumquat> lol what?
+12:51 < ace> where is everyone from?
+12:51 < kumquat> mspe died watching this: https://youtu.be/K9KYdSMfF64
+12:51 < tildebot> [Youtube] A little bottle of water (Murloc meme) (7s) uploaded by VictitoMomos on 2020-09-22, 274,909 views (3,706↑↓91)
+12:51 < xfnw> ,w ace
+12:51 < tildebot> [Weather] Aceh, Indonesia | 18C/64F | Overcast Clouds | Humidity: 87% | Wind: 5.0km/h/3.1mi/h
+12:51 < kumquat> ,w xfnw
+12:51 < tildebot> [Weather] (xfnw) Gaithersburg, Maryland, United States of America | 22C/71F | Few Clouds | Humidity: 83% | Wind: 7.1km/h/4.4mi/h
+12:51 < Dr-WaSabi> ,w 
+12:51 < tildebot> [Weather] (Dr-WaSabi) Onaway, Michigan, United States of America | 7C/45F | Overcast Clouds | Humidity: 66% | Wind: 11.3km/h/7.0mi/h
+12:52 < xfnw> ,w mspe
+12:52 < tildebot> [Weather] (mspe) Talence, New Aquitaine, France | 18C/64F | Overcast Clouds | Humidity: 93% | Wind: 3.6km/h/2.2mi/h
+12:52 < ace> ,w
+12:52 < tildebot> [Weather] ace: Please set location, e.g.: ,config ace location London, GB
+12:53 < ace> ,config ace location Amsterdam, NL
+12:53 < tildebot> [Config] Config 'location' set to {'timezone': 'Europe/Amsterdam', 'lat': 52.3727598, 'lon': 4.8936041, 'name': 'Amsterdam, North Holland, The Netherlands'}
+12:53 < ace> ,w
+12:53 < tildebot> [Weather] (ace) Amsterdam, North Holland, The Netherlands | 14C/57F | Few Clouds | Humidity: 82% | Wind: 18.4km/h/11.4mi/h
+12:53 < ace> cool
+12:53  * xfnw bikes into kumquat's terrace
+12:54 < Dr-WaSabi> amsterdam... such a pretty place
+12:54 < kumquat> nice
+12:54 < kumquat> mspe and I love amsterdam
+12:54 < ace> its nice, and really rainy
+12:57 < kumquat> lol wtf is this: https://youtu.be/bVVWgduUTmk
+12:57 < tildebot> [Youtube] Dictator Sisi's Egypt Police: Is it Pride Parade? (2m 19s) uploaded by Kerim UYKUN on 2020-10-16, 38,443 views (83↑↓34)
+12:57  * kumquat puts a bike ramp on terrace
+13:01 < ace> why are they all orange?
+13:01 < kumquat> lol
+13:01 < kumquat> who knows
+13:01 < mspe> trump is their skin tone adviser
+13:01 < kumquat> lol
+13:01 < ace> painted from the same bucket of skin oil
+13:02  * ace skin oil
+13:03 < dgy> put it in the basket
+13:04 <@khuxkm> it rubs the lotion on its skin or else it gets the hose again
+13:06 < mspe> kumquat: https://www.youtube.com/watch?v=VxKAFYo7I4o
+13:06 < tildebot> [Youtube] Shirtless Egyptian Police Academy graduates (37s) uploaded by VIRAL ZONE on 2020-10-19, 367 views (3↑↓0)
+13:07 < kumquat> lol wow
+13:07  * ace puts a block of stone on himself and tries to smash the block witha hammer
+13:07 < kumquat> how many women pass out in the stands
+13:11 < jan6> ace: estonia's the best
+13:12 < ace> jan6, why?
+13:12 < dgy> cheap booze, funny language
+13:12 < ace> just curious, im sure i'd like to visit.... after the corona
+13:13 < Dr-WaSabi> works for me
+13:13 < jan6> ask kumquat, she knows more than me
+13:13 < jan6> lol
+13:13 < jan6> but if you live in capital, free public transport there
+13:13 < jan6> and electronic ID is dope
+13:13 < ace> ok, that sounds rad
+13:13 < jan6> sign stuff digitally with the power of physical signature
+13:13 < kumquat> ,qadd jan6= <jan6> ask kumquat, she knows more than me
+13:13 < tildebot> [Quotes] Quote added
+13:14 < jan6> nothing dangerous in the wild, pretty much, except for the rare viper you might find in the sun
+13:14 < kumquat> lol
+13:14 < jan6> or like a couple plants
+13:14 < jan6> lol
+13:14 < jan6> not too insane government
+13:14 < jan6> as in, they're not GOOD by any means, but they're not idiots
+13:14 < jan6> which is still very good in today's world
+13:14 < jan6> lol
+13:14 < Dr-WaSabi> and I hear the moose are pretty nice
+13:15 < jan6> lol good luck finding one, Dr-WaSabi 
+13:15 < jan6> no moose breeders here
+13:15 < ace> ,qadd kumquat= <kumquat> ,qadd jan6= <jan6> ask kumquat, she knows more than me
+13:15 < tildebot> [Quotes] Quote added
+13:15 < jan6> ,qadd ace=<ace> ,qadd kumquat= <kumquat> ,qadd jan6= <jan6> ask kumquat, she knows more than me
+13:15 < tildebot> [Quotes] Quote added
+13:15 < jan6> if we're doing that already
+13:15 < kumquat> lol wow
+13:15 < Dr-WaSabi> moose breeders
+13:15 < jan6> lol
+13:16 < jan6> meese vs moose, FIGHT
+13:16 < Dr-WaSabi> that needs to be a t-shirt
+13:16 < ace> i havent used an irc bot in like 20 years
+13:16 < hackintech> i want a moose to run me over
+13:16 < jan6> ,grab hackintech 
+13:16 < tildebot> [Quotes] Quote added
+13:16 < hackintech> yes
+13:16 < ace> or an eggdrop, or whatever
+13:16 < Dr-WaSabi> my sisters was NOT bitten by a moose once
+13:16 < jan6> eggdrops are just lazy person's less than ideal irc bots
+13:16 < jan6> lol
+13:16 < hackintech> ^
+13:17 < Dr-WaSabi> but lamas are mean
+13:17 < jan6> I WAS bitten (not stung, at that time) by a wasp, and a snail, at different times
+13:17 < jan6> it was real weird to be scraped by a wasp, lol
+13:17 < Dr-WaSabi> snails bite?
+13:17 < jan6> no, they scrape
+13:17 < ace> the snail didnt hurt, though
+13:17 < jan6> neither did
+13:17 < jan6> both just scraped a bit, lol
+13:17 < kumquat> snails can hurt you?!
+13:17 < dgy> isn't that bit about the moose from Holy Grail?
+13:18 < jan6> not the ones I've ment, kumquat, I no do poison snails
+13:18 < ace> ive been bitten by a snail, they dont hurt, its weird
+13:18 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+13:18 < jan6> it's nice
+13:18 < jan6> ,bef
+13:18 < tildebot> [Ducks] jan6 befriended a duck in 1.92 seconds! You've befriended 127 ducks in #team!
+13:18 < Dr-WaSabi> kumquat: I heard they are getting their own union soon
+13:18 < jan6> bef be bye
+13:18 < kumquat> whaaat
+13:18 < hackintech> BEEF
+13:18 < kumquat> did you all take drugs or something
+13:18 < hackintech> i wish i was on drugs
+13:18 < kumquat> why was I left out
+13:18 < hackintech> would make a work a nicer experience
+13:19 < jan6> snails lick you and their tongue is like a...grate? but obviously soft, lol
+13:19 < kumquat> like a cat
+13:19 < jan6> probably
+13:19 < hackintech> give me drugs
+13:19 < jan6> I've not been licked by a cat yet
+13:19 < jan6> but there's time
+13:19  * jan6 off for some time
+13:19 < ace> isnt coffee a drug?
+13:19 < jan6> it is
+13:19 < kumquat> yes
+13:19 < jan6> tea's much better tho
+13:19 < hackintech> it is
+13:19 < Dr-WaSabi> speaking of coffee
+13:20  * Dr-WaSabi goes for some coffee.
+13:20 <~ben> cofe
+13:21 < ace> ,yt koffee burning
+13:21 < tildebot> [Youtube] Koffee - Burning [Official Video 2017] (3m 22s) uploaded by Reggaeville on 2017-10-13, 4,206,906 views (41,773↑↓749) https://youtu.be/LmUDJs9wO0k
+13:21 < ace> good tune
+13:21 < hackintech> man i want a nap
+13:21 < hackintech> its rainy therefor
+13:21 < hackintech> nap
+13:22  * kumquat gives hackintech nap
+13:22 < dgy> since we're on the subject https://www.youtube.com/watch?v=AqSVxpAzl1I proving jan6's earlier point about not needing music theory and stuff like that
+13:22 < tildebot> [Youtube] Caffeine + LYRICS [Official] by PSYCHOSTICK (2m 40s) uploaded by Psychostick on 2013-06-20, 401,467 views (3,954↑↓64)
+13:26 < ace> https://i.imgur.com/Wef6dvc.png
+13:26 < ace> ^^ my current cup
+13:26 < ace> (of coffee)
+13:30 <~ben> nice
+13:30 <~ben> i think i will make another pot
+13:30 < hackintech> i have tea
+13:31 < kumquat> tea++
+13:31 < tildebot> [Karma] tea now has 20 karma (1 from kumquat)
+13:31 <~ben> nice
+13:38  * Dr-WaSabi makes a sandwich
+13:41 < jan6> and bak 4 a bit
+13:42  * kumquat gives jan6 a cat
+13:42 < jan6> I have generated a great vanity gpg key, but sadly I don't know how to import and use it, lol
+13:42 < kumquat> ,grab jan6
+13:42 < tildebot> [Quotes] Quote added
+13:43 < kumquat> how jan6 of you, jan6, lolol
+13:43 < jan6> BAA11133721EF2FB9C9999B93DEBA341926772F0, it's 1337, bit ot's also BAA and 11133 and 9999 and DEBA and more, lol
+13:44 < kumquat> you truly are a total dorkus
+13:44 < kumquat> lol
+13:44 < jan6> also like 2 others, one of which is D99945D17A978CD9F5493F26FEED9D3ABCEF2666 which is also starting with 999 and ends with 666
+13:44 < jan6> lol
+13:44 < jan6> buuut since they don't have any user info or anything like that, gpg doesn't want to import them by default lol
+13:45 < hackintech> ,quote
+13:45 < tildebot> [Quotes] hackintech: Not enough arguments, usage: ,quote <category> [= <search>]
+13:45 < hackintech> ,quote hackintech 
+13:45 < tildebot> [Quotes] hackintech: <hackintech> why is France trying to copy america <hackintech> bad france!
+13:45 < hackintech> ,quote hackintech 
+13:45 < tildebot> [Quotes] hackintech: <hackintech> ,fight jan6 
+13:45 < hackintech> lol
+13:45 < kumquat> lol
+13:45 < jan6> lol
+13:45 < kumquat> ,q kumquat
+13:45 < tildebot> [Quotes] kumquat: <kumquat> night coffee, you are brave
+13:45 < jan6> ,q jan6
+13:45 < tildebot> [Quotes] jan6: <jan6> login can water his own seed all he wants, I'm not gonna ;P
+13:45 < jan6> ,q jan6
+13:45 < tildebot> [Quotes] jan6: <jan6> given that most people don't think, period, that's not much <jan6> lol
+13:45 < jan6> night tea's braver than night coffee!
+13:46 < kumquat> ,q kumquat
+13:46 < tildebot> [Quotes] kumquat: <kumquat> because I love killing people with arrows
+13:46 < kumquat> lol what
+13:47 < kumquat> ,q kumquat
+13:47 < tildebot> [Quotes] kumquat: <kumquat> YAY I HAVE SURPASSED xfnw <tildebot> kumquat: FFFFFFFFFFFFFFFFFFFFF******************
+13:48 < jan6> lol
+13:48 < hackintech> can we add the ,fight function
+13:48 < hackintech> ,quote hackintech 
+13:48 < tildebot> [Quotes] hackintech: <hackintech> if you just starve and never buy anything nice, you too can afford a house
+13:49 < hackintech> hmm
+13:49 < hackintech> sounds right
+13:49 < kumquat> that would easily get out of control, hackintech
+13:49 < jan6> ,calias add fight=/me slaps $1 with a pool noodle and shouts "FIGHT, FIGHT"
+13:49 < tildebot> [Aliases] jan6: You do not have permission to do this
+13:49 < jan6> lol
+13:49 < kumquat> I would just constantly want to fight they who shall not be named
+13:49 < xfnw> jan6: s/=\/me/ action
+13:49 < dgy> i used to be in a channel with a "fight" command
+13:50 < jan6> xfnw: s/action/^AACTION/
+13:50 < sedbot> <xfnw> jan6: s/=\/me/ ^AACTION
+13:50 < jan6> lol
+13:50 < kumquat> how did that go, dgy? lol
+13:50 < xfnw> jan6: that is not a command for BitBot lol
+13:50 < jan6> more like \x01ACTION tbh
+13:50 < dgy> it would go "$1 and $2 go at it like hammer and tongs" and then "$bot pulls $2 off $1"
+13:50 < jan6> *thongs
+13:50 < jan6> *hummer
+13:51 < jan6> *summer
+13:51 < jan6> *bongs
+13:51 < kumquat> *bummer
+13:51 < xfnw> .adm addalias smack .action smacks {} with a large trout
+13:51 < balun> [admin] added "smack" alias for ".action smacks {} with a large trout"
+13:51 < xfnw> .smack jan6
+13:51  * balun smacks jan6 with a large trout
+13:52 < hackintech> we need to get jan6 some high heel crocs
+13:52 < xfnw> yesss
+13:52 <@khuxkm> no u
+13:52 < jan6> no u
+13:52 < login> ..
+13:52 < balun> [rpn] nan
+13:52 < jan6> only steel crocs for me
+13:52 < jan6> ,yt steel crocs
+13:52 < tildebot> [Youtube] How I made steel toe crocs with wood (24m 15s) uploaded by Stuff Made Here on 2020-04-27, 2,931,814 views (68,393↑↓1,414) https://youtu.be/IcjgrB9vTec
+13:52 < kumquat> lol
+13:52 < kumquat> those all sound terrible
+13:52 < jan6> don't ask why I know this video ;p
+13:52 < jan6> lol
+13:52 < dgy> how about actual crocs. like you know, from the nile or something
+13:52 < dgy> or a florida swamp
+13:52 < jan6> ,yt steel crocodile
+13:52 < tildebot> [Youtube] The Lost Knife Of Crocodile Dundee!? Z-wear, A Godly Steel? (8m 26s) uploaded by Dutch Bushcraft Knives on 2018-11-01, 45,769 views (2,185↑↓51) https://youtu.be/NeXVF_EWl-Q
+13:52 < jan6> hmmmmmm
+13:53 < dgy> and then jan6 has to stand on them and not lose balance
+13:53 < kumquat> the three times I wore high heels, I looked like a baby rhino charging someone
+13:53 < kumquat> I don't get heels
+13:53 < jan6> ,grab kumquat 2
+13:53 < tildebot> [Quotes] Quote added
+13:53 < jan6> me neither
+13:53 < jan6> both literally and figuratively
+13:53 < dgy> i do but i can't discuss it here
+13:53 < kumquat> they're uncomfortable af
+13:53 < jan6> why not? NDA?
+13:53 < jan6> lol
+13:53 < kumquat> dgy: #nsfw
+13:54 < dgy> kumquat++
+13:54 < tildebot> [Karma] kumquat now has 25 karma (1 from dgy)
+13:54 < xfnw> im definitelyyyyyy 18 kumquat, let me in #nsfw!
+13:54 < xfnw> ,birthday
+13:54 < tildebot> [Birthday] xfnw is 16 in 132 days
+13:54 < jan6> kumquat: depends on specifics, I bet'cha they CAN be made comfortable, but status quo is massproducing a specific mold and not caring for people's differences
+13:54 < dgy> oh wait, we actually have a channel for that? nice
+13:54 < kumquat> xfnw: no
+13:54 -!- kiwi-n51 [kiwi-n51@198.108.76.81] has joined #team
+13:55 < jan6> #nsfl is there too, off-brand #nsfw, lol, for when the stuff's not safe for not only work, but also life in general
+13:55 < dgy> heh
+13:56 < jan6> btw if anyone's up for some among-sus terminal gaming I'm game
+13:56 < login> even ith me?
+13:56 -!- kiwi-n51 [kiwi-n51@198.108.76.81] has quit [Connection closed]
+13:56 < jan6> duh
+13:56 < jan6> I don't hate you, login
+13:57 < jan6> I just hate you asking me to play like, every other day, lol
+13:57 < jan6> or you just happen to ask when I'm not that free
+13:59  * Dr-WaSabi wonders why his wiify just took a dump
+13:59 < dgy> it had a big lunch
+13:59 < kumquat> I read that as wifey....
+14:00 < Dr-WaSabi> wifi
+14:00 < hackintech> wifey
+14:00 < Dr-WaSabi> kumquat: but that is kind of funny
+14:00 < xfnw> lmao nice
+14:05  * kumquat bows
+14:06 < dgy> worky stuff was going nowhere. it's doom time. i just wish i knew why my streaming script has been crashing so badly
+14:09 < hackintech> ok im going to go take a nap
+14:09 < hackintech> maybe
+14:10  * Dr-WaSabi has fun with https://vim-bootstrap.com/
+14:14 < dgy> oh, i saw this recently. it's pretty terrible. i mean it claims to support neovim but that just means it will call the file init.vim instead of .vimrc
+14:16 < Dr-WaSabi> yeah I saw that.  still worked pretty nice for me.
+14:16 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+14:16 < Dr-WaSabi> ,bef
+14:16 < tildebot> [Ducks] Dr-WaSabi befriended a duck in 2.65 seconds! You've befriended 29 ducks in #team!
+14:17 < Dr-WaSabi> oof... my tummy didn't like something about that sandwich
+14:17 < dgy> also super opinionated in some regards where it really shouldn't be? anyway, vim configs are like underpants
+14:24 < Dr-WaSabi> dgy: ha... I thought I was only one said that... I call it UT or Underpants Theory
+14:25 < Dr-WaSabi> and yes.  vim configs can be for some people
+14:26 < dgy> thing is, if vim configs are underpants, emacs configs must be like those onesies with the buttons in the back that expose your butt. only made of chainmail or something like that
+14:26 < Dr-WaSabi> ha
+14:27 < Dr-WaSabi> I wouldn't know... never played with emacs.. but it's on my bucket list
+14:27 < dgy> nice operating system, crap text editor
+14:56  * jan6 slep
+14:56 < hackintech> nooo
+14:56 < kumquat> hmm
+14:56 < kumquat> tea
+14:56 < kumquat> nini jan6
+15:23 -!- xfnw-hmmm [~xfnw-hmmm@harris.team] has left #team []
+16:18  * ace is looking for some shows/series suggestions to watch
+16:20 <~ben> watch (rewatch?) avatar the last airbender
+16:23 < thefunkyspaw> continuum is a dystopian sci-fi cop show about time travelers from a corporate controlled future messing up the present
+16:24 < thefunkyspaw> Its good, but not as good as travelers
+16:25 < kirch> Danger 5...
+16:25 < kirch> Serial Expiriment Lain...
+16:26 < kirch> The Rockford Files...
+16:26 < Dr-WaSabi> and now I've got Mike Posts Rockford files theme playing in my heads
+16:27 < kirch> Gravity Falls...
+16:27 < kirch> Sailor Moon...
+16:28 < michel> I miss Serial Experiment Lain, I wish it's available for streaming (can't locate my DVDs)
+16:28 < Dr-WaSabi> TeraNova I liked
+16:29 < Dr-WaSabi> and then there is just Firefly. I can always rewatch that
+16:30 <~ben> firefly is wonderful
+16:31 < thefunkyspaw> 🏴‍☠️michel🏴‍☠️
+16:31 < tildebot> [Demojize] <thefunkyspaw> :pirate_flag:michel:pirate_flag:
+16:31 < kirch> I haven't seen Firefly/Serenity yet.... I want to - but I found out it was on netflix when they accounced they removed it from netflix
+16:32 <~ben> i have it downlaoded
+16:32 < kumquat> the movie is kinda meh, as all movies tend to be
+16:33 <~ben> ya
+16:34 < kirch> Well... I figure it's like Farscape - where it got canned and they made a movie to tie up loose ends and only managed half of them
+16:36 <~ben> pretty juch
+16:36 < Dr-WaSabi> I got to see serenity 3 times in the theater... I'm a bit of browncoat
+16:36 < thefunkyspaw> I love farscape, but the last two seasons went off the rails
+16:36 <~ben> lol nice
+16:36 < thefunkyspaw> Dr-Wasabi very cool
+16:37 < Dr-WaSabi> farscape got weird there for a while.  but it was very cool to see the cast transition over SG1 so well
+16:37 < thefunkyspaw> I never watched through star-gate
+16:37 < thefunkyspaw> I probably should, I think I'd like it
+16:38 < thefunkyspaw> Have ya'll seen Andromeda? 
+16:39 < Dr-WaSabi> I saw the movie with Kirt Russell in the theaters back in the late 80s I think it was.  I have most of SG1, SGA, and SGU on dvd, and BR
+16:39 < thefunkyspaw> nice
+16:40 < ace> thefunkyspaw, Continuum looks cool
+16:40 < Dr-WaSabi> also have most of the remake of Battle Star.. but then in the last few seasons I lost interest, or thought it got weird
+16:40 < ace> ben, firely is awesome
+16:40 <~ben> sure is
+16:40 < thefunkyspaw> Continuum is pretty good. Not amazing, but good. I watched it because I wasn't ready for travelers to be over, lol
+16:41 < Dr-WaSabi> 'I can kill you with my mind'
+16:41 < thefunkyspaw> The remake of battlestar was great until the writer's strike
+16:41 < xfnw> i can kill you with `murder crewmate`
+16:42 < Dr-WaSabi> oh I forgot about that
+16:42 < Dr-WaSabi> yeah that sounds about right
+16:42 < thefunkyspaw> Oh, I forgot to share the pitch for andromeda. Its like star trek (it even has gene roddenbury), but the captain is kevin sorbo and its all about federalism
+16:42 < Dr-WaSabi> Oh I had forgot about that one
+16:43 < kirch> I started watching Lexx - and decided to leave it in my nostalgia intact because it wasn't as neat as I rememeber
+16:43 < ace> im currently watching original Dragon Ball: https://nyaa.si/view/1259391
+16:43 < tildebot> [Title] Dragon Ball Recut (Complete) WITH BROADCAST AUDIO (ドラゴンボール 再編集) :: Nyaa
+16:44 < Dr-WaSabi> thefunkyspaw: andromeda I liked, I just felt bad for how long it must of taken some of the cast to get into makeup each morning, and still get paid way less then Kenvin Sorbo
+16:44 < thefunkyspaw> haha, true
+16:45 < Dr-WaSabi> I really liked the idea of living space craft
+16:45 < thefunkyspaw> It also suffered from the same "fizzle and die" that the other scifi shows of that era suffered from
+16:45 < thefunkyspaw> Both Farscape and Andromeda did
+16:45 < Dr-WaSabi> yup
+16:45 < thefunkyspaw> And babylon 5
+16:45 < Dr-WaSabi> never could get into that show
+16:46 < thefunkyspaw> It... had a bad rhythm
+16:46 < thefunkyspaw> The first season was basically a different show. They literally swapped the cast out.
+16:47 < thefunkyspaw> Seasons 2-X were a geopolitical power struggle with terrorists and a monster-of-the-week
+16:47 < Dr-WaSabi> I also could never get into ST Deepspace 9
+16:47 < Dr-WaSabi> loved TNG, Voyager, and Enterprise.. just didn't like DS9
+16:49 < thefunkyspaw> Kind of a change of pace: how do people feel about Buffy the Vampire Slayer
+16:51 < thefunkyspaw> 🧛🔪🏋️‍♀️⚰️
+16:51 < tildebot> [Demojize] <thefunkyspaw> :vampire::kitchen_knife::woman_lifting_weights::coffin:
+16:52 < Dr-WaSabi> love it
+16:53 < Dr-WaSabi> again.  bit of a Joss Wedon fan
+16:53 < thefunkyspaw> I discovered it in college, streamed it. Later I got married and bought the collectors edition so my wife would have to watch it too, lol
+16:54 < Dr-WaSabi> also used to like Charmed, at first.. but then go weird later on
+16:57 < thefunkyspaw> I tried to re-watch charmed, but didn't get very far
+16:57 < thefunkyspaw> I heard they did a remake
+16:57 < thefunkyspaw> wonder if its better
+17:02 < Dr-WaSabi> no clue
+17:08 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+17:08 < jayden> omg
+17:08 < jayden> whenever I start  up fedora I get nothing but a black screen and a blinking cursor
+17:09 < jayden> someone please help me
+17:09 < kirch> like, a shell?
+17:09 < jayden> no
+17:09 < jayden> just a blinking thing
+17:09 < Dr-WaSabi> do you see all the start up messages before that?
+17:09 < jayden> yeah
+17:10 < jayden> Dr-WaSabi: yes
+17:10 < jayden> kirch: its not a shell
+17:10 -!- anelki [anelki@tilde.team] has joined #team
+17:10 < jayden> anelki: hi im just having severe linux issues
+17:11 < jayden> until i get this fixed all i'll get access to is the 4 ttys
+17:11 < Dr-WaSabi> wonder which console you are connected to?
+17:12 < jayden> Dr-WaSabi: im on a laptop
+17:12 < thefunkyspaw> what hapoens when you type "startx"
+17:12 < jayden> Some errors thrown at me
+17:12 < jayden> i tried the startx command it didnt work out
+17:12 < kirch> jayden: did it work before?
+17:12 < jayden> kirch: yeah
+17:12 < thefunkyspaw> The errors are probably the key to figuring out what went wrong
+17:12 < jayden> kirch: 30 minutes ago
+17:13 < jayden> since i cant get into gnome-shell I cant copy and paste
+17:13 < jayden> uGh
+17:13 < jayden> maybe i can write the logs to a file and upload it to ttm.sh
+17:15 < xfnw> hi jayden 
+17:16 < jayden> https://ttm.sh/hHc.txt are the logs
+17:16 < jayden> xfnw: Hi 
+17:16 < jayden> xfnw: im having linux issues rn
+17:17 < jayden> thefunkyspaw: https://ttm.sh/hHc.txt
+17:18 < thefunkyspaw> sorry, no idea
+17:19 < jayden> whelp i gotta reinstall fedora now
+17:20 < jayden> : (
+17:20 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [A TLS packet with unexpected length was received.]
+17:24 < blitzkraft_> Possibly xorg issue?
+17:33 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+17:33 < jayden> blitzkraft_: if nobody knows how to fix this issue i'll have to reinstall fedora
+17:34 < blitzkraft_> Does the screen say "log in"
+17:34 < jayden> no
+17:34 < jayden> its just a black screen with a blinking light
+17:34 < xfnw> blink blink
+17:34 < blitzkraft_> Did you try hitting ctrl-alt-f7
+17:34 < jayden> tf?
+17:34 < blitzkraft_> Or alt-f7
+17:35 < jayden> how would that help
+17:35 < thefunkyspaw> it switches to tty7
+17:35 < thefunkyspaw> thats where x should have started
+17:35 < jayden> i have plenty of ttys already
+17:35 < blitzkraft_> Yes, and that's where default x sessions start
+17:35 < jayden> ik
+17:35 < jayden> but
+17:35 < jayden> i dont have a tty7
+17:36 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+17:36 < jayden> ,bef
+17:36 < tildebot> [Ducks] jayden befriended a duck in 2.33 seconds! You've befriended 22 ducks in #team!
+17:36 < thefunkyspaw> ,bef
+17:36 < tildebot> [Ducks] thefunkyspaw: There was no duck! missed by 0.64 seconds
+17:36 < thefunkyspaw> honestly, when you're learning linux you are likely to have to reinstall a bunch of times
+17:36 < thefunkyspaw> just goes with the territory
+17:36 < jayden> ctrl + alt + FN + f7 doesnt go to tty7
+17:36 < jayden> i have to press the FN key btw
+17:36 < jayden> But there is no luck tty7 isnt a thing in fedora
+17:36 < jayden> thefunkyspaw: i literally didnt do anything  to any files
+17:36 < blitzkraft_> lol. You're wrong
+17:37 < blitzkraft_> There is a tty7.
+17:37 < jayden> ctrl alt f7 doesn't bring up a tty
+17:37 < blitzkraft_> what happens when you hit that?
+17:38 < jayden> nothing
+17:38 < jayden> im mistaken
+17:38 < jayden> it brings me to a blinking light
+17:38 < xfnw> what about ctrl alt f3
+17:38 < blitzkraft_> Ok. Re install. 
+17:39 < jayden> NOOO :(
+17:39 < jayden> i refuse
+17:39 < xfnw> jayden: boop
+17:39 < jayden> it takes ages to install an operating system on a 5200 hard disk
+17:40 < xfnw> jayden: can you get into a tty?
+17:40 < blitzkraft_> Check the xorg conf files. 
+17:40 < jayden> delete them and have them regenerate?
+17:41 < jayden> .serverauth#### doesn't exist
+17:41 < jayden> #s meaning random numbers
+17:42 < blitzkraft_> Nope. Don't delete.
+17:42 < jayden> if it cant find .serverauth#### what do I o
+17:42 < jayden> do
+17:42 < jayden> xf86fullscreen cant be initilized
+17:43 < jayden> xf86fullscreen could not resolve keysum i mean
+17:43 < jayden> cant find some shared libraries
+17:43 < jayden> file too short
+17:43 < jayden> xf86enableIOports  failed to set something operation not permitted
+17:44 < jayden> "operation not permitted" i'll try running startx as root
+17:44 -!- widecurio64_ [ee87428ca80@tilde.team] has left #team []
+17:45 < jayden> ok less problems when running startx as root
+17:45 < xfnw> jayden: can you do `startx >log.txt 2>log.txt` then do `curl -F'file=@log.txt' https://ttm.sh`
+17:46 < jayden> i cant copy and paste that cuz im not in a shell
+17:46 < jayden> not in gnome-shell
+17:46 < kiedtl> type it out, then
+17:47 < kiedtl> it would help us figure out what's wrong with your display
+17:47 < jayden> https://www.ttm.shhHz
+17:47 < jayden> https://www.ttm.sh/hHz
+17:48 < jayden> Wait no
+17:48 < jayden> https://www.ttm.sh/hHZ
+17:48 < jayden> xfnw: https://www.ttm.sh/hHZ
+17:49 < jayden> wow you can output command output wow
+17:49 < jayden> i never knew
+17:49 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [The TLS connection was non-properly terminated.]
+17:51 < xfnw> wat that redirects to an article about encryption
+17:52 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+17:52 < jayden> xfnw: https://ttm.sh/hHZ
+17:52 < tildebot> [Title] Encryption Utility Firm Accused of Bundling Malware Functions in Product | Threatpost
+17:52 < xfnw> ?????
+17:52 < jayden> WHAT!!!!!
+17:52 < xfnw> lmao what is that
+17:52 < jayden> thats my logs tho
+17:53 < xfnw> thats an article about malware lol
+17:53 < jayden> thats my logs tho
+17:53 < jayden> thats my logs tho
+17:53 < jayden> thats my logs tho
+17:53 < jayden> MY LOGSS
+17:53 < jayden> THOSE ARE My 
+17:53 < jayden> LOGS
+17:53 < jayden> THOSE ARE LITERALLY MY LOGS XD
+17:53 < tildebot> jayden: THE PI4 COMPUTE MODULE IO BOARD HAS PCIE 1x!
+17:53 < jayden> tildebot: idc
+17:54 < jayden> ,grab jayden 256
+17:54 < tildebot> [Quotes] Please provide a number between 1 and 3
+17:54 < jayden> ,grab jayden 3
+17:54 < tildebot> [Quotes] Quote added
+17:54 < jayden> xfnw: https://ttm.sh/hH5
+17:55 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [The TLS connection was non-properly terminated.]
+17:55 < xfnw> wtf that one goes to a porn site
+17:56 < xfnw> oh you forgot the .txt
+17:56 < xfnw> https://ttm.sh/hH5.txt
+17:56 < cdmnky> oh my god
+17:56 < dgy> report it
+17:57 < xfnw> report it to whom?
+17:57 < dgy> to ben?
+17:57 < cdmnky> that seems like an extreme edge case for the URL shortlinker, leave off the file extension and it points to something completely different rather than the file
+17:58 < cdmnky> and in this case it happened to be something... uh....
+18:01 < blitzkraft_> Wtf
+18:02  * cdmnky wonders if there should be some further differentiation between shortlinks and files to make sure something like this can't happen
+18:04 < dgy> i imagine that it points to some porn because someone made it to. shortened links don't just happen
+18:04 < dgy> also that kid needs to be out of here, but that's just an opinion
+18:05 < cdmnky> well yeah, i'm saying that it was probably done by someone else and it was just miscopying the link
+18:05 < cdmnky> it seems like a really easy thing to do on accident, just this time it happened to go to someone else's shortlink
+18:06 < dgy> i don't believe in coincidences, tbh. but still, the link should be reported
+18:06 < xfnw> dgy: ttmsh does not allow vanity links, it would be pretty hard to do that on purpose
+18:07 < dgy> yeah, i figured. it's just the paranoia in me
+18:07 < blitzkraft_> I think the file share links and url links are in a separate sequenc.
+18:10 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+18:11 < kiedtl> omg
+18:11 < jayden> omg i forgot the .txt
+18:11 < xfnw> hi jayden, your link was.... interesting....
+18:11 < jayden> xfnw: it was meant to be a log
+18:11 < kiedtl> nice logs
+18:11 < jayden> i forgot the .txt
+18:11 < jayden> thats the one stupidest mistake i have made since i was born
+18:11 < jayden> my birth was a mistake
+18:12 < jayden> my existance is a mistake
+18:12 < xfnw> .
+18:12 < jayden> Someone please find out whats wrong with linux
+18:13 < jayden> I dont wanna reinstall
+18:14 < jayden> PLEASE FIX MY LINUX ISSUE
+18:14 < tildebot> jayden: ARE YOU TELLING ME YOU HAVE 24/7 ARMED GUARDS WATCHING UR MOTHERS GRAVE
+18:14 < jayden> tildebot why
+18:14 < jayden> Guys please help me fix this iseu
+18:14 < jayden> issue
+18:15 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [A TLS packet with unexpected length was received.]
+18:17 < xfnw> jayden: can you also `curl -F"file=~/.local/share/xorg/Xorg.0.log" https://ttm.sh`
+18:19 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+18:20 < jayden> xfnw: that file doesnt exist
+18:20 < jayden> it cant be opened so it dont exist
+18:20 < xfnw> oops
+18:21 < xfnw> curl -F"file=@~/.local/share/xorg/Xorg.0.log" https://ttm.sh
+18:21 < jayden> l m a o
+18:21 < jayden> thats the same file
+18:21 < jayden> tbat you said the other time
+18:22 < jayden> oh
+18:22 < jayden> xfnw: i already did the @ sign btw
+18:22 < jayden> wait that file exists
+18:24 < jayden> xfnw: https://ttm.sh/hHY.log
+18:26 < jayden> :com if i dont get linux working again i'll become depressed
+18:26 < sigsegv>  ☭ IF I DONT GET LINUX WORKING AGAIN I'LL BECOME DEPRESSED ☭ 
+18:26 < jayden> xfnw: https://ttm.sh/hHY.log
+18:28 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing ident]
+18:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+18:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing host]
+18:28 -!- jayden [jayden@jmw2020.TILDE] has joined #team
+18:28 < michel> sigsegv: did your Linux box SIGSEGV on you? ;)
+18:28 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+18:28 < jayden> ,bef
+18:28 < tildebot> [Ducks] jayden befriended a duck in 3.06 seconds! You've befriended 23 ducks in #team!
+18:32 < kiedtl> :a coredump
+18:32 < sigsegv> [admin] need filename
+18:32 < kiedtl> :a coredump coredump
+18:32 < sigsegv> [admin] done
+18:32 < jayden> How can I get all of tildebot's commands in my channel
+18:33 < jayden> like the karma thing
+18:34 < blitzkraft_> Go to bots. Then type help. 
+18:34 < blitzkraft_> #bots channel
+18:34 < jayden> no i want it 
+18:34 < jayden> in my channel
+18:35 < jayden> blitzkraft_: i have tildebot in my channel already
+18:35 < jayden> blitzkraft_: how do I get the karma module
+18:35 < kiedtl> What channel
+18:35 < kiedtl> Here, on the tilde.chat network, or on freenode?
+18:36 < jayden> tilde.chat
+18:37 < kiedtl> Then just /invite tildebot and you're done
+18:38 < jayden> kiedtl: I told you
+18:38 < jayden> HES already in my CHANNEL
+18:38 < jayden> kiedtl: I want the KARMA MODULE
+18:39 < kiedtl> Calm down
+18:39 < kiedtl> Run this command
+18:39 < kiedtl> oh
+18:39 < jayden> nobody can figure out whats wrong with my linux install ;(
+18:39 < kiedtl> wait a minute
+18:40 < jayden> i'll have to reinstall ;(
+18:40 < kiedtl> what do you want the karma module for
+18:40 < kiedtl> You aren't going to spam tildebot, are you?
+18:41 < jayden> kiedtl: i like karma
+18:41 < jayden> xfnw enabled it ;)
+18:41 < kiedtl> Don't do that. Unless you want to be banned from tildebot.
+18:42 < jayden> kiedtl: can you help me fix linux
+18:42 < michel> darn it I missed the duck just 5 secs after I posted
+18:42 < jayden> kiedtl: X wont start so I cant get to gnome-shell
+18:43 < kiedtl> I haven't the slightest idea of what could possibly be wrong with your linux installtion.
+18:43 < blitzkraft_> Rtfm
+18:46 < jayden> kiedtl: why did you leave my channel
+18:46 < jayden> its a GREAT COMMUNITY :D
+18:46 < kiedtl> I did not.
+18:47 < jayden> you took  your bot out of the channel also
+18:47 < jayden> how rude
+18:47 < jayden> kiedtl: WHY
+18:47 < kiedtl> Yes
+18:48 < jayden> kiedtl: OK we arent friends anymore and you get a permanent ban from my channel
+18:48 < kiedtl> Interesting
+18:48 < jayden> we'll see if i ever unban  you
+18:48 -!- jayden [jayden@jmw2020.TILDE] has quit [The TLS connection was non-properly terminated.]
+18:48 < kiedtl> You forgot to kick me
+18:48 < kiedtl> jfc
+18:48 < xfnw> ...... lol
+18:50 < xfnw> i like how jayden bans half the people who join his channel, and then wonders why there are not many people in it
+18:51 < kiedtl> Who else did he ban?
+18:51 -!- jmw000 [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+18:51 < jmw000> I accidentily joined tilde.chat a thousand times
+18:51 < jmw000> i was wondering why it wouldnt connect 
+18:52 < jmw000> Im just joking lmao
+18:52 < jmw000> kiedtl: do you enjoy your ban?
+18:52 < blitzkraft_> Can you ban me too pls
+18:52 < jmw000> blitzkraft_: i dont ban for no reason
+18:57 -!- jmw000 [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Ping timeout: 120 seconds]
+18:59 < kiedtl> jan6: Indeed I do
+18:59 < kiedtl> oops
+18:59 < kiedtl> jayden
+18:59 < kiedtl> jmw\0: 
+19:00 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+19:00 < jayden> Well I managed to get a mouse cursor and an xterm window open
+19:00 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: leaving]
+19:01 < login> what is your channel, jmw\0 
+19:01 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+19:01 < jayden> ok I just had to run xinit to get some GUI working
+19:01 < jayden> however startx just doesn't work
+19:02 < kiedtl> 2020-10-22 22:52:17     jmw000  Hello
+19:02 < kiedtl> 2020-10-22 22:52:37     jmw000  If you want to appeal your ban email me at jmw2020@tilde.team with your email client of choice
+19:02 < kiedtl> lmao
+19:03 < xfnw> lololololol
+19:03 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: Lost terminal]
+19:04 < xfnw> kiedtl: he banned someone on freenode because they said linux was an os lol
+19:09 < login> where is the channel, is it on tilde.chat or freenode?
+19:09 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+19:09 < jayden> I found a workaround
+19:09 < login> jayden: where is your channel?
+19:09 < login> is it on freenode or tilde.chat?
+19:09 < jayden> both
+19:09 < login> is it bridged?
+19:09 < login> what is the channel name?
+19:09 < jayden> no they cant me
+19:09 < jayden> they cant be bridged
+19:10 < jayden> xfnw: Someone was saying a linux distribution was a Linux OS but thats a wrong use of terminology andd that breaks the rule "dont be annoying"
+19:10 < jayden> login: im not getting banned for advertising
+19:10 < xfnw> jayden: why cant they be bridged? my channels are bridged lol
+19:11 < login> then just invite me or personal message it -- it's not advertising if i asked and you answered
+19:11 < jayden> xfnw: I found a work around to get into gnome-shell
+19:12 < xfnw> how did you do that?
+19:13 < jayden> First off I ran xinit in a tty
+19:13 < jayden> that makes an xterm window in a WEIRDD looking environment
+19:13 < jayden> Then I run gnome-shell with that xterm window
+19:14 < jayden> xfnw: although running gnome-shell isn't very ideal
+19:14 < jayden> in xterm
+19:14 < xfnw> whats wrong with xterm
+19:15 < jayden> because running gnome-shell in a terminal
+19:15 < jayden> isnt idea
+19:15 < xfnw> why dont you stay in xterm then
+19:16 < jayden> because I want fully functioning GUI
+19:16 < jayden> although when I startx i DO get a fully functioning GUI
+19:16 < jayden> ***xinit
+19:16 < jayden> not startx
+19:16 < jayden> xinit
+19:18 < xfnw> xterm is nice https://ttm.sh/hHU.png
+19:18 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: Lost terminal]
+19:21 -!- jayden_ [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+19:21 -!- jayden_ is now known as jmw
+19:21 < jmw> OMG I FIXED IT
+19:21 < jmw> I FIXED LINUX
+19:21 < jmw> I DONT KNOW HOW I DID IT LMAO
+19:21 < tildebot> jmw: Friend: WHY CAN'T YOU BE NORMAL FOR ONE DAY PLEASE ;-;
+19:21 < jmw> xfnw: I FIXED LINUX
+19:22 < xfnw> how did you do it?
+19:22 < jmw> idk
+19:22 < jmw> just happened
+19:22 < xfnw> ..... ok
+19:22 < login> does initx start gui now?
+19:22 < login> *xinit
+19:22 < jmw> yes
+19:22 < jmw> YES :
+19:22 < jmw> :D
+19:22 < jmw> login: YESS :D
+19:22 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+19:22 < jmw> ,bef
+19:22 < tildebot> [Ducks] jmw befriended a duck in 2.21 seconds! You've befriended 1 duck in #team!
+19:22 < xfnw> ,huff
+19:22 < tildebot> [Ducks] xfnw: There was no duck! missed by 0.17 seconds
+19:22 < xfnw> nien
+19:22 < jmw> im not signed in ;(
+19:23 < jmw> so the duck didnt count
+19:23 < login> xfnw: 9
+19:23 < hackintech> why am i in here
+19:23 < xfnw> ,tr nien
+19:23 < tildebot> [Translate] (vi -> en) nien
+19:23 -!- hackintech [hackintech@honk.the.planet] has left #team ["NO"]
+19:23 < jmw> ,tr oqnotin
+19:23 < tildebot> [Translate] (uz -> en) aqnotin
+19:23 < jmw> wow
+19:23 < login> why did hackintech leave?
+19:23 < jmw> i made that word up
+19:23 < jmw> login: hackintech hates me
+19:23 < jmw> clearly
+19:24 < login> very hard to hate a person over the internet
+19:24 < login> unless they are ddosinng me
+19:24 < xfnw> login: what if they are just DoS'ing you
+19:24 < jmw> ***unless they are ddosing em
+19:24 -!- jmw is now known as autocorrect
+19:24 < autocorrect> hi im autocorrect
+19:25 < xfnw> the autocorrect was wrong lol
+19:25 < login> hi autocorrect, i'm dad
+19:25 < autocorrect> ***ih tcerrocotua, m'i dad
+19:25 < xfnw> hi autocorrect, im "echseffennweee" according to the nonsensical jan6
+19:26 < autocorrect> bot... missing directory /home/xfnw/bots/autocorrect/auto129.sh
+19:26 < autocorrect> bot... missing directory /home/xfnw/bots/autocorrect/auto992.sh
+19:26 < autocorrect> bot... Failed to load tty5 under vnxrt mainfrain
+19:27 < autocorrect> bot... writing logs to /home/xfnw/logs/bots/autocorrect/log.txt
+19:27 < autocorrect> .
+19:27 -!- autocorrect is now known as jmw
+19:27 < jmw> xfnw: your bot crashed
+19:27 < xfnw> you arent my bot lol
+19:28 < jmw> "/home/xfnw"
+19:28 < jmw> xfnw: yeahh right
+19:28 -!- jmw is now known as autocorrect
+19:29 < autocorrect> bot... starting.... loaded tty5... loaded auto992.sh and auto 129.sh.... Loaded vnxrt mainfrim
+19:29 < autocorrect> thankyou for using autocorrect bot 4.98x made by the one and only xfnw btw all hail jan6
+19:29 < autocorrect> bot... ERROR jan6 is too ugly
+19:29 -!- autocorrect is now known as jmw
+19:29 < jmw> ,grab autocorrect 3
+19:29 < tildebot> [Quotes] Quote added
+19:30 < jmw> lmao
+19:30 < jmw> good one autocorrect
+19:32 -!- jmw [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [quit: Lost terminal]
+19:33  * Dr-WaSabi does kind of worry about xfnw somedays
+19:35 -!- kernel_pancake [uid231002@brockwell.irccloud.com] has quit [quit: Connection closed for inactivity]
+19:45 < Dr-WaSabi> well that was a new one... my clock was off just enough to get apt to not like the timestamps on updates that needed to be updated
+19:45 < Dr-WaSabi> sudo hwclock --hctosys fixed it
+19:46 < Dr-WaSabi> systems only been up for 9 days.. clocks shouldn't have drifted that much
+19:49 < blitzkraft_> Did you walk by a black hole?
+19:49 < Dr-WaSabi> maybe
+19:50 < blitzkraft_> what's your stance on yo mama jokes?
+19:53 < Dr-WaSabi> my mom did have 6 kids
+19:53 < Dr-WaSabi> me being the last when she was 47
+19:53 < Dr-WaSabi> which back in 1970 was kind of a big deal
+19:54 < Dr-WaSabi> or as she liked to tell every girl friend I broght home, the dr's told her that it was a 50/50 chance that id be "special"
+19:55 < Dr-WaSabi> oh wow... I really need to get my glasses fixed.  or learn how to type/spell better
+20:11 -!- Alina25 [~Alina@165.red-83-52-161.dynamicip.rima-tde.net] has quit [Client exited]
+20:11 -!- Alina25 [~Alina@165.red-83-52-161.dynamicip.rima-tde.net] has joined #team
+20:25 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+20:26 < jayden> there is nothing wrong with systemd btw
+20:27 < xfnw> systemd++
+20:27 < tildebot> [Karma] systemd now has 3 karma (4 from xfnw)
+20:27 < jayden> systemctl is a I NEED IT command
+20:27 < jayden> I NEED systemd
+20:28 < xfnw> i dont need systemd, but its nice to have i guess
+20:28 -!- jayden [~jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing ident]
+20:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has joined #team
+20:28 -!- jayden [jayden@ip98-164-31-171.ks.ks.cox.net] has quit [Changing host]
+20:28 -!- jayden [jayden@jmw2020.TILDE] has joined #team
+20:28 < xfnw> jayden: you should really setup SaSL or something
+20:31 < jayden> xfnw: why should I
+20:31 < xfnw> so you wont miss out on the ducks when you forget to login
+20:32 < jayden> no thanks
+20:32 < jayden> too hard
+20:32 < jayden> not worth it
+20:47 < rndusr> jayden: what is your channel?
+20:48 < xfnw> ##jmw2020 is jayden's channel lol
+20:48 < rndusr> xfnw: thank you :)
+20:55 <@cmccabe> hi all. is this the debate watch party?
+20:55 < rndusr> sounds good to me lol
+21:00 < jayden> ppl were talkin dirty earlier
+21:00 < rndusr> cmccabe: it
+21:01 < rndusr> s/it/it's in #politics
+21:01 < sedbot> <rndusr> cmccabe: it's in #politics
+21:01 < jayden> s/it/btw come join me at ##jmw2020
+21:01 < jayden> s/it/it's btw come join me at ##jmw2020
+21:01 < sedbot> <jayden> s/it's btw come join me at ##jmw2020/btw come join me at ##jmw2020
+21:01 < jayden> s/it/s/it's/it
+21:01 < jayden> s/it/s /it's/it
+21:02 < jayden> ,echo s/it/it's mmm
+21:02 < tildebot> [Echo] s/it/it's mmm
+21:02 < rndusr> jayden: for god's sake stop please
+21:02 < jayden> rndusr: ok
+21:02 < jayden> rndusr: stop using a trash bloated telemetry operating system
+21:02 < rndusr> jayden: that was a *joke*
+21:02 < rndusr> I use arch linux btw
+21:02 < jayden> arch is hard to install btw
+21:02 <@cmccabe> wow
+21:03 < rndusr> bruh
+21:03 < jayden> am i allowed to have my bot join here
+21:03 < rndusr> https://wiki.archlinux.org/index.php/installation_guide << arch linux is cool btw
+21:03 < tildebot> [Title] Installation guide - ArchWiki
+21:03 < jayden> rndusr: i fallowed that twice failed twice
+21:04 < rndusr> jayden: what went wrong?
+21:04 < jayden> unable to install to new root
+21:04 < jayden>   /mnt needs ### more blocks
+21:05 < jayden> s/unable/failed to install to new root
+21:05 < jayden> s/unable/- failed to install to new root
+21:05 < sedbot> <jayden> s/- failed to install to new root/failed to install to new root
+21:05 < jayden> hmm
+21:05 < rndusr> your harddrive is too small
+21:05 < jayden> rndusr: was a big virtual hard disk in the VM
+21:06 < rndusr> was it r/o
+21:06 < jayden> vmware workstation pro
+21:06 < jayden> was my virtual machine tool
+21:06 < rndusr> jayden: was it r/o
+21:06 < jayden> rndusr: im never using arch so it doesnt matter
+21:07 < jayden> arch is a flex
+21:07 < rndusr> it is superior
+21:07 < rndusr> it's not just a flex
+21:07 < jayden> and hard
+21:08 < jayden> Why take hours to install arch when you could take a few minutes to write an iso to a usb boot off and run a GUI installer
+21:08 < jayden> Artix has few differences from arch
+21:08 < rndusr> but artix on the desktop is inefficent
+21:08 < jayden> pff
+21:09 < rndusr> ?
+21:09 < jayden> runs fine with i3wm and gnoem
+21:09 < jayden> gnome
+21:09 < jayden> and the like
+21:09 < rndusr> but it wastes ram
+21:09 < jayden> pff
+21:09 < rndusr> and cpu cycles
+21:09 < jayden> rndusr: imagine not having 12gigs of ram in a PC tower
+21:09 < jayden> L M A O
+21:09 < jayden> well some cant afford it
+21:09 < jayden> but
+21:09 < jayden> 4gb should be fine
+21:09 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+21:10 < rndusr> ,bef
+21:10 < tildebot> [Ducks] rndusr befriended a duck in 1.73 seconds! You've befriended 3 ducks in #team!
+21:10 < jayden> ,bef
+21:10 < tildebot> [Ducks] jayden: There was no duck! missed by 0.29 seconds
+21:10 < jayden> rndusr: what desktop environment / window manager did you test with
+21:10 < rndusr> jayden: I don't use a de, but I use sowm with st, dmenu, and vimb
+21:10 < jayden> why not i3wm
+21:10 < rndusr> jayden: i3wm uses xlib
+21:10 < jayden> so?
+21:11 < rndusr> all my other programs use the other x library that I forgot the name of
+21:11 < jayden> i3wm is my preferred window manager
+21:11 < rndusr> cool
+21:11 < jayden> cuz it works just works
+21:11 < jayden> just works out of the box\
+21:11 < rndusr> I also use sowm because it has no configuration files
+21:11 < rndusr> so it runs faster
+21:12 < jayden> bad hardwrae
+21:12 < jayden> hardware
+21:12 < rndusr> me?
+21:12 < rndusr> because if so, yes
+21:12 < jayden> specs?
+21:12 < rndusr> I'm able to run minecraft 1.8 on a potatoe laptop at ~20-60 fps
+21:12 < jayden> specs?
+21:12 < jayden> CPU RAM?
+21:13 < jayden> CPU? RAM?
+21:13 < jayden> Specs?
+21:13 < rndusr> it's an asus x553m
+21:13 < jayden> CPU?
+21:13 < jayden> RAM?
+21:13 < rndusr> 2 gb of ram
+21:13 < jayden> WTF?
+21:13 < rndusr> ~intel celeron
+21:13 < jayden> 4GB IS CHEAP
+21:13 < jayden> AN INTEL CORE i3 IS CHEA
+21:13 < jayden> CHEAP
+21:13 < rndusr> jayden: but an intel celeron and 2 gb of ram is free ;)
+21:14 < jayden> get better specs 
+21:14 < jayden> please
+21:14 < jayden> ditch the celeron
+21:14 < rndusr> but why
+21:14 < xfnw> jayden: no u, i like my celeron
+21:14 < rndusr> this works just fine
+21:14 < jayden> let me guess you have a 50gb 4000 RPM hard disk
+21:14 < rndusr> jayden: no
+21:14 < jayden> rndusr: thats an insanely bad computer mate
+21:14 < jayden> good  luck web browsing on 2 gisg
+21:14 < jayden> gigs
+21:14 < rndusr> would you like a screenshot?
+21:15 < jayden> of what
+21:15 < rndusr> my desktop w/ htop?
+21:15 < jayden> sure
+21:15 < jayden> your trash intel celeron
+21:15 < jayden> rndusr: I have a PC tower with an i5 and 12gigs of ram
+21:15 < rndusr> mhm
+21:15 < rndusr> so what?
+21:16 < jayden> actually good hardware
+21:16 < rndusr> my hardware is good for my work
+21:16 < jayden> whats your work
+21:16 < jayden> non cool non gaming stuff
+21:16 < xfnw> jayden: https://ttm.sh/hHo.png
+21:16 < rndusr> school, basic web devel, unix systems programming
+21:16 < jayden> non running cat /dev/urandom > file.txt
+21:16 < jayden> lame
+21:17 < jayden> school on a celeron? and 2gb of ram BAD
+21:17 < jayden> rndusr: whats your desktop like
+21:17 < jayden> btw those colors suck get a better terminal
+21:17 < jayden> cmon you want those colors
+21:18 < jayden> those are uglyyy
+21:18 < xfnw> jayden: no u, i like june's earthy colors
+21:18 < rndusr> that looks really good xfnw
+21:18 < rndusr> june's colorscheme is amazing
+21:18 < jayden> rndusr: i want a picture of your desktop
+21:18 < jayden> rndusr: ugly
+21:18 < rndusr> I use gruvbox everywhere
+21:18 < rndusr> jayden: working on it, forgot the screenshot command lol
+21:18 < jayden> TRASH
+21:18 < jayden> rndusr: get flameshot its a great screenshot tool
+21:18 < xfnw> jayden: EARTHY
+21:19 < jayden> talk about.... worlds worst... color scheme
+21:19 < rndusr> here we go
+21:19 < rndusr> shutter it is
+21:19 < jayden> flameshot is better
+21:19 < rndusr> I didn't argue
+21:21 < jayden> rndusr: screenshot
+21:21 < jayden> rndusr: if you had flameshot you would of had a LINK BY NOW
+21:22 < rndusr> bruh I have to download and install it
+21:22 < jayden> shouldn't take that long to install flamesht
+21:22 < jayden> flameshot
+21:23 < rndusr> jayden: what is the package name for flameshot in ubuntu
+21:23 < jayden> flameshot
+21:23 < rndusr> mhm
+21:23 < rndusr> 16.08?
+21:23 < jayden> WTF
+21:23 < jayden> 16.08
+21:23 < rndusr> yes
+21:23 < jayden> Of course it WONT BE IN THERE
+21:23 < tomasino> apt install flameshot # should do it in 18+
+21:23 < rndusr> tomasino: thank you
+21:23 < jayden> rndusr: why do you use 16.08 wtf
+21:24 < jayden> rndusr: thats discontinued so its insecure
+21:24 < tomasino> if you need, there's an appimage on the github as well
+21:24 < jayden> maybe if you didnt use an outdated unsupported ubuntu version
+21:25 < rndusr> https://ttm.sh/hHr.png there you go
+21:25 < jayden> status bar?
+21:25 < rndusr> none
+21:25 < tomasino> ubuntu 16 is still under standard support until April 2021
+21:25 < rndusr> :)
+21:25 < tomasino> that's the nice thing about LTS
+21:25 < jayden> tomasino: you should of said LTS if it was LTS
+21:26 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+21:26 < jayden> ,bef
+21:26 < tildebot> [Ducks] jayden befriended a duck in 2.02 seconds! You've befriended 24 ducks in #team!
+21:26 < jayden> tomasino: i dont automatically know its LTS until you say its LTS
+21:26 < blitzkraft_> You don't need to know 
+21:26 < rndusr> https://ttm.sh/hH9.png here's one with htop
+21:27 < tomasino> very pretty rndusr 
+21:27 < rndusr> thank you :)
+21:27 < jayden> that coller scheme
+21:27 < jayden> *color
+21:27 < jayden> those shades of colors
+21:27 < jayden> its just... bad
+21:27 < tomasino> and i think they're pretty
+21:28 < tomasino> these things are called opinions
+21:28 < xfnw> june's earthy color scheme is b e u t i f u l
+21:28 < rndusr> jayden: if you're so confident mine is bad, send a screen of yours
+21:28 < jayden> i swear I already sent a screenshot
+21:29 < tomasino> i think that was in #meta
+21:29 < jayden> https://ttm.sh/hH9.png
+21:29 < jayden> wrong link
+21:29 < xfnw> lol
+21:29 < rndusr> wow that screen looks beautiful
+21:29 < rndusr> it almost looks the same as mine...
+21:29 < tomasino> https://imgur.com/a/WYfiFs2 is what you sent in meta earlier
+21:29 < tildebot> [Title] My fedora setup - Album on Imgur
+21:29 < jayden> https://imgur.com/a/WYfiFs2 is my setup
+21:29 < tildebot> [Title] My fedora setup - Album on Imgur
+21:30 < jayden> A vertical and horizontal transparent bars with STUFF and my windows in the middle
+21:30 < rndusr> jayden: mhm
+21:30 < jayden> The bottom on the very top right can switch between like tiling and floating
+21:31 < rndusr> okay
+21:31 < jayden> On the very top right
+21:31 < tomasino> did you plug in your charger yet?
+21:32 < rndusr> 33 percent lol
+21:32 < jayden> whats you window manager with no status bar compared 
+21:32 < jayden> ha
+21:32 < jayden> lmao it cant compare
+21:32 < rndusr> jayden: what about the commandline
+21:33 < rndusr> [mod]+[enter]acpi[enter]
+21:33 < rndusr> bam
+21:33 < jayden> been plugged in
+21:33 < rndusr> you have your power
+21:33 < jayden> in fedora its super instead of mod
+21:33 < rndusr> jayden: it doesn't matter
+21:34 < jayden> rndusr: I use the fish shell
+21:34 < tomasino> it's pretty fishy
+21:34 < jayden> pff
+21:34 < jayden> not really
+21:35 < rndusr> I'mma publish my sowm build ^.^
+21:35 < jayden> sudo rm -rf /* --no-preserve-root
+21:35 < rndusr> im bored the debate is a joke
+21:36 < jayden> I FORGOT ABOUT MY ASSESSMENT FOR SCHOOL
+21:36 < tildebot> jayden: I SPENT 10 MINUTES EXPLAINING TO MY MOM SHE SHOUDLN'T SEND ME HER ORIGINAL MARRIAGE CERTIFICATE
+21:36 < jayden> I FORGOT ABOUT MY ASSESSMENT FOR SCHOOL
+21:36 < tildebot> jayden: KUMQUAT; WHAT IF THE CERT GETS LOST; IS SHE NOT MARRIED ANYMORE THEN? LOL
+21:36 < tomasino> well, now's better than never
+21:36 < jayden> its 
+21:36 < jayden> too
+21:36 < tomasino> best get to it. good luck
+21:36 < jayden> late
+21:36 < rndusr> wtf tildevot
+21:37 < rndusr> s/v/b/g
+21:37 < sedbot> <rndusr> wtf tildebot
+21:37 < jayden> its due at 11:59PM but....
+21:37 < jayden> i have to go to bed at 10:30
+21:37 < jayden> and
+21:37 < jayden> im too tired
+21:37 < rndusr> what is it on?
+21:37 < jayden> none ya
+21:37 < rndusr> nice
+21:37 < rndusr> very good condiment
+21:37 < rndusr> I like it on my tacos
+21:37 < jayden> sending an email to my teacher asking if i can work on it tomarrow
+21:40 < jayden> rndusr: get ubuntu 20.10 its 20% fater than 16.04 :O
+21:40 < rndusr> I doubt it
+21:40 < jayden> i swear it is
+21:40 < jayden> if you want actual lightweight get manjaro i3wm
+21:40 < jayden> manjaro++
+21:40 < tildebot> [Karma] manjaro now has 2 karma (3 from jayden)
+21:41 < jayden> fedora++
+21:41 < tildebot> [Karma] fedora now has 6 karma (2 from jayden)
+21:41 < jayden> arch--
+21:41 < tildebot> [Karma] arch now has 9 karma (-2 from jayden)
+21:41 < jayden> arch is inferior
+21:41 < rndusr> (kiss linux)++
+21:41 < tildebot> [Karma] kiss linux now has 1 karma (1 from rndusr)
+21:41 < jayden> (anything other than fedora)--
+21:41 < tildebot> [Karma] anything other than fedora now has -1 karma (-1 from jayden)
+21:42 < jayden> sowm-- bspwm--
+21:42 < jayden> sowm--
+21:42 < tildebot> [Karma] sowm now has -1 karma (-1 from jayden)
+21:42 < jayden> bspwm--
+21:42 < tildebot> [Karma] Try again in a couple of seconds
+21:42 < jayden> i3wm++
+21:42 < tildebot> [Karma] i3wm now has 2 karma (1 from jayden)
+21:42 < jayden> icewm--
+21:42 < tildebot> [Karma] icewm now has -1 karma (-1 from jayden)
+21:42 < jayden> xfcewm--
+21:42 < tildebot> [Karma] xfcewm now has -1 karma (-1 from jayden)
+21:42 < jayden> *cough cough* *faints*
+21:42  * jayden dies
+21:45 -!- jayden [jayden@jmw2020.TILDE] has quit [quit: Lost terminal]
+21:46 < rndusr> rip
+21:46 < tomasino> perhaps they went to do their assignment
+21:47 < rndusr> perhaps
+21:53 < dgy> perhaps they'll choke on a chicken bone at dinner, but i'm rarely that lucky
+21:57 < rndusr> perhaps
+22:04 < dgy> if you can't make your mind up, we'll never get started you know
+22:10 -!- jayden [jayden@jmw2020.TILDE] has joined #team
+22:10 < jayden> I'm talking about the new game im writing in linux bash in #meta
+22:12 < jayden> i'll start testing some concepts to see if my ideas work in the terminal
+22:13 < rndusr> jayden: what is it?
+22:13 < mieum> debian++
+22:13 < tildebot> [Karma] debian now has 17 karma (1 from mieum)
+22:13 < mieum> any debian love?
+22:14 < jayden> rndusr: more spoilers coming soon
+22:14 < jayden> rndusr: i spoiled even more of it in #meta
+22:15 < hyperreal> fedora++
+22:15 < tildebot> [Karma] fedora now has 7 karma (1 from hyperreal)
+22:15 < hyperreal> pop!_os++
+22:15 < tildebot> [Karma] pop!_os now has 1 karma (1 from hyperreal)
+22:16 < jayden> Can someone shorten this command:
+22:16 < jayden>  echo Hello, && echo $USER && sleep 1 && echo It looks like you are using version && uname -r && echo of the linux kernel.
+22:16 < rndusr> no
+22:16 < rndusr> I mean
+22:16 < jayden> i dont think this can be shortened
+22:17 < tomasino> for real?
+22:17 < jayden> it cant be shortened from the looks of it
+22:17 <@khuxkm> gimme, like, 10 seconds
+22:17 < rndusr> printf "Hello, $USER\nIt looks like you are using version $(uname -r) of the linux kernel\n"
+22:17 < jayden> rndusr: avoiding printf as it might not be included in all linux systems
+22:17 < rndusr> jayden: it's a shell builtin
+22:17 < tomasino> um... what?
+22:17 < rndusr> specified in the POSIX standard
+22:17 < jayden> i want as little dependencies as possible
+22:18 <@khuxkm> printf 'Hello,\n%s\n' $USER && sleep 1 && printf 'It looks like you are using version\n%s\nof the linux kernel.' $(uname -r)
+22:18 <@khuxkm> printf 'Hello,\n%s\n' $USER && sleep 1 && printf 'It looks like you are using version\n%s\nof the linux kernel.\n' $(uname -r)
+22:18 <@khuxkm> there
+22:18 < tomasino> yeah jayden you've got yourself completely backwards
+22:18 < hyperreal> printf "Hello, %s. It looks like you are using version %s of the Linux kernel.\n" $USER, `uname -r`
+22:18 < tomasino> https://unix.stackexchange.com/a/65819
+22:18 <@khuxkm> including all of the side effect newlines AND the sleep
+22:18 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+22:18 < rndusr> ,bef
+22:18 <@khuxkm> ,bef
+22:18 < tildebot> [Ducks] rndusr befriended a duck in 1.76 seconds! You've befriended 4 ducks in #team!
+22:18 < tildebot> [Ducks] khuxkm: There was no duck! missed by 0.08 seconds
+22:18 < tomasino> use printf, avoid echo
+22:18 <@khuxkm> hyperreal: both you and rndusr made the same mistake
+22:18 < hyperreal> ^
+22:19 < rndusr> huh?
+22:19 < rndusr> oh
+22:19 < rndusr> use %s for strings
+22:19 < hyperreal> khuxkm: what?
+22:19 <@khuxkm> a) there's a sleep between the messages and b) you're missing the newlines between the echo commands
+22:19 <@khuxkm> mine is, afaict, completely accurate
+22:20 < rndusr> is there *really* a need for sleep
+22:20 < jayden> any echo syntax that can have commands and text in one echo line
+22:20 < rndusr> jayden: how?
+22:20 <@khuxkm> rndusr: it's in the command we're shortening and therefore it needs to be in the shortened command
+22:20 < rndusr> right
+22:20 <@khuxkm> I just confirmed, my version produces the exact same output as the original
+22:21 < jayden> and its longer than what i gave you guys
+22:21 < jayden> khuxkm: lmao
+22:21 <@khuxkm> but that's because you put a sleep in there for no reason
+22:21 <@khuxkm> without the sleep mine would be shorter than yours
+22:21 < jayden> its so it doesn't give out all the text in one go
+22:21 <@khuxkm> also this isn't even a useful command in the first place
+22:21 < hyperreal> ^
+22:22 <@khuxkm> yeah but why not just put all the text out at once
+22:22 < jayden> khuxkm: this is talking diolauge
+22:22 < jayden> TALKING DIOLAUGE
+22:22 <@khuxkm> why are you writing dialogue
+22:22 <@khuxkm> in a shell script
+22:22 < jayden> its part of the game 
+22:22 <@khuxkm> using echo
+22:22 <@khuxkm> use printf you small child
+22:22 <@khuxkm> it's a POSIX binary so if your system doesn't have it then your system is Bad
+22:22 < jayden> echo is easier for me to use
+22:22 <@khuxkm> too bad
+22:23 <@khuxkm> use printf
+22:23 < jayden> no
+22:23 <@khuxkm> yes
+22:23 < jayden> The development of my game isn't gunna start for a longgggg while
+22:23 < jayden> idk how to put in user imput soooooo its gunna have no user imput in alpha
+22:23 < tomasino> read
+22:23 <@khuxkm> use a programming language you silly twelve year old
+22:24 < jayden> khuxkm: too hard
+22:24 < jayden> WAIITTTT
+22:24 < rndusr> what about c?
+22:24 < jayden> python and python modules
+22:24 < jayden> rndusr: HARD
+22:24 <@khuxkm> it would be easier for me to kick you from the channel instead of arguing with you over this, yet I'm not kicking you from the channel
+22:24 < rndusr> it's the most simplistic language
+22:24 <@khuxkm> but yeah use python
+22:24 < jayden> compiling is hard for novice users
+22:24 < rndusr> make file
+22:24 < jayden> I want this game to be out there for everyone
+22:24 <@khuxkm> rndusr: that's the funniest thing I've ever heard, not gonna lie
+22:25 < jayden> rndusr: I am sure C is hard
+22:25 < jayden> for me anyway
+22:25 <@khuxkm> it is, which is why I'm saying use Python
+22:25 < jayden> what modules shal I use
+22:25 <@khuxkm> is it worthwhile? yes
+22:25 < rndusr> khuxkm: ;)
+22:25 < tomasino> if you're making a game you'll find that using a more sophisticated language like python or lua will make your job easier in the long run than doing it in a shell script, and i LOVE shell scripts
+22:25 < jayden> khuxkm: how the heck do you find the linux kernel version in python
+22:26 <@khuxkm> why is the linux kernel version an integral part of your dialogue
+22:26 < jayden> khuxkm: all the capabilities of this game im making is what bash ahs
+22:26 <@khuxkm> why though
+22:26 < jayden> khuxkm: its gunna be called "bash adventures"
+22:26 < jayden> ahem "bash" in qutes
+22:26 < jayden> quotes
+22:26 < jayden> OK I ADMIT ITS A BAD NAME
+22:26 < jayden> Its not even in alpha yet OK?
+22:27 < jayden> OKKKK im gunna learn a bit of python b4 i start developin'
+22:27 < jayden> i could use python turtle for graphics :P
+22:27 <@khuxkm> ...i am going to commit child abuse
+22:27 < tomasino> deep breaths khuxkm 
+22:28 < rndusr> breathe in
+22:28 < rndusr> and ot
+22:28 < rndusr> s/ot/out
+22:28 < sedbot> <rndusr> and out
+22:28 < jayden> how to make download mirrors :P
+22:28 <@khuxkm> this ain't google my friend
+22:28 < jayden> i dont wanna use github for a single file thats a game
+22:28 <@khuxkm> or ddg or whatever the cool kids use nowadays
+22:29 < jayden> a game in one python file sounds managable
+22:29 <@khuxkm> don't
+22:29 <@khuxkm> you'll regret it
+22:29 < jayden> Why?
+22:30 <@khuxkm> because it's a pain to keep things in order
+22:30 < jayden> start.sh will contain python3 1.py python3 2.py
+22:30 < jayden> :D
+22:30  * rndusr facepam
+22:30 < jayden> with "&&" between the two commands
+22:31 < jayden> then 1.py will have python turtle commands for graphics
+22:31 <@khuxkm> ...i need more deep breaths
+22:31 < jayden> 2.py will have the backend stuff
+22:31 < jayden> DONE4
+22:31 < jayden> DONE
+22:31 < jayden> :DDDD 
+22:31 < jayden> Will this work
+22:31 < rndusr> no
+22:31 < jayden> why not
+22:32 < rndusr> in your sh script, you're executing the first python script and then the second
+22:32 < jayden> whats wrong with that
+22:32 < rndusr> you want to import the second one in the first python script
+22:32 < rndusr> and then run the first on
+22:32 < jayden> how can I do that
+22:32 < rndusr> s/on/one/g
+22:32 < sedbot> <rndusr> and then run the first one
+22:32 < rndusr> file1.py
+22:32 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+22:32 < jayden> hmm
+22:32 < rndusr> ,bef
+22:32 < tildebot> [Ducks] rndusr befriended a duck in 1.9 seconds! You've befriended 5 ducks in #team!
+22:32 < rndusr> jayden: loop up import python
+22:33 < jayden> so start.sh will contain python3 2.py && python3 1.py
+22:33 < rndusr> no
+22:33 < rndusr> that *will not* work
+22:33 < jayden> Why NOT
+22:33 < rndusr> it's going to run 2.py THEN 1.py
+22:33 < rndusr> it will not run them curcurently
+22:34 < jayden> run both at the same time?
+22:34 < rndusr> no
+22:34 < jayden> why NOT
+22:34 < rndusr> it will not run both of them at the same time
+22:34 < jayden> :(
+22:34 < jayden> cant run a python script with a python scrpit
+22:34 < rndusr> the && operator runs the first command, and then runs the second command conditionally
+22:35 < jayden> maybeee i'll stick with bash
+22:35 < rndusr> and python != shell
+22:35 < rndusr> jayden: you should learn programming fundamentals before programming a game
+22:35 < jayden> uhh "!="
+22:35 < rndusr> != not equal to
+22:35 < jayden> ???
+22:35 < thefunkyspaw> Jayden: start small. Find a guided tutorial and work through it.
+22:35 < jayden> orrr i can use bash
+22:35 < jayden> :D
+22:35 < thefunkyspaw> you have a mountain of stuff to learn, is going to take a long time, and that's okay
+22:36 < rndusr> bash is *not* a programming language
+22:36 < jayden> bash STILL can have games written in it
+22:36 < rndusr> yes
+22:36 < rndusr> but bash is NOT designed for games
+22:36 < thefunkyspaw> https://code.tutsplus.com/tutorials/building-games-with-python-3-and-pygame-part-1--cms-30081
+22:36 < jayden> for example cat /dev/urandom > file.txt is my favorite game
+22:36 < jayden> thefunkyspaw: i'll start tomarrow i have a bedtime
+22:37 < thefunkyspaw> good thinking 😁
+22:37 < tildebot> [Demojize] <thefunkyspaw> good thinking :beaming_face_with_smiling_eyes:
+22:37 <@khuxkm> everyone just... let the twelve year old do his thing
+22:37 < rndusr> I guess gaminess is in the eye of the beholder
+22:37 <@khuxkm> he'll figure himself out soon enough
+22:37 < jayden> viruses can be made in bash
+22:37 < jayden> ;)
+22:39 < jayden> khuxkm: what could possibly go wrong with writing a game in bash
+22:39 < rndusr> ,grab jayden
+22:39 < tildebot> [Quotes] Quote added
+22:40 < jayden> you can make a WEB BROWSER written in bash
+22:41 < jayden> have user imput of what website have the script use curl or wget to wget the website THENNNN
+22:41 < jayden> have the selected web browser open the HTML file
+22:41 < jayden> e z
+22:41 < rndusr> ,grab jayden 4
+22:41 < tildebot> [Quotes] Please provide a number between 1 and 3
+22:41 <@khuxkm> >what could possibly go wrong with writing a game in bash
+22:41 < jayden> >nothing
+22:42 < jayden> ,grab khuxkm 1
+22:42 < tildebot> [Quotes] Quote added
+22:42 < rndusr> famous last words before tragedy
+22:42 <@khuxkm> ^
+22:42 <@khuxkm> you'll eventually realize that it'll be a pain in the butt
+22:42 < tomasino> jayden: https://www.youtube.com/watch?v=XGf2GcyHPhc&list=PL-C363m4b7xpbZujYiBJk6CAY9MpeBkdy&index=130
+22:42 < tildebot> [Youtube] Learn Python by Building Five Games - Full Course (6h 43m 43s) uploaded by freeCodeCamp.org on 2019-11-06, 788,424 views (21,706↑↓193)
+22:42 < tomasino> learn python by making games
+22:42 < tomasino> one video, good to go
+22:43 < jayden> How could you make a bash script that asks the user for a number and then set it as $NUMBER then echo $NUMBER
+22:44 < jayden> I wonder
+22:44 < rndusr> read -p "enter a number:" && echo ${REPLY}
+22:44 < tomasino> you want the "read" command
+22:44 < jayden> i didnt know about that
+22:44 < tomasino> and if you want portability, you're gonna have to be careful about how you use it
+22:44 < rndusr> oh
+22:44 < jayden> fish: Variables cannot be bracketed. In fish, please use {$REPLY}.
+22:44 < jayden> read -p "enter a number:" && echo ${REPLY} ^
+22:45 < rndusr> oh
+22:45 < rndusr> no
+22:45 < tomasino> read -p isn't portable, but you can printf and then read. :)
+22:45 < jayden> Darn it
+22:45 < rndusr> tomasino: should we spare this poor, unblemished soul the troubles of hearing about portability hell
+22:45 < jayden> it works in bash but not fish shell
+22:45 < jayden> sad
+22:45 < rndusr> jayden: fish is weird
+22:45 < tomasino> fish isn't posix
+22:46 < jayden> I like fish shell
+22:46 < tomasino> your shell scripts will start with a hashbang telling the system what to use for scripting
+22:46 < jayden> its my daily driver
+22:46 < dgy> learn assembler and INSTALL GENTOO. case closed
+22:46 < jayden> gentoo is hard
+22:46 < tomasino> fish is great for interactivity, and it has its own scripting language, but don't expect bashisms to work
+22:46 < jayden> read -p "enter a number:" && echo ${REPLY} | bash
+22:46 < jayden> should work
+22:47 < rndusr> nope
+22:47 < jayden> NOPE
+22:47 < jayden> ugh how to run a command with bash while in fishhhh
+22:47 < rndusr> execute bash
+22:47 < rndusr> $ bash
+22:47 < rndusr> or printf "commands here lol" | bash
+22:47 < kiedtl> or "bash -c "commands"
+22:47 < jayden> in one line command
+22:48 < kiedtl> what rndusr and I said
+22:48 < kiedtl> oh, jayden's making a game in bash?
+22:48 < rndusr> kiedtl: mhm
+22:48 < kiedtl> why bash?
+22:48 < tomasino> but all that being said, you're about to do something difficult that will require some significant planning and structure. You're gonna want a better language. Watch that video. Learn python, or lua, or even lisp. don't waste your time doing it in a shell because your first command was easy.
+22:48 <@khuxkm> kiedtl: don't.
+22:48 <@khuxkm> don't start
+22:48 <@khuxkm> it's a long story
+22:48 < kiedtl> sorry
+22:48 < kiedtl> ik
+22:48 < rndusr> read the hist lol
+22:48 < jayden> judging me on the coding language I LIKE
+22:48 < kiedtl> Yup
+22:49 < kiedtl> I am
+22:49 < kiedtl> jayden: bash isn' -- uh nvm
+22:49 <@khuxkm> shell is not a programming language
+22:49 < kiedtl> shh
+22:49 < tomasino> trying to give you some advice to avoid wasting a lot of time
+22:49 < rndusr> it's a SCRIPTING LANGUAGE
+22:49 < tildebot> rndusr: OH? IS IT CAPPY HOUR AGAIN? HOW UNEXPECTED, JAN6
+22:49 < jayden> if you were doing that in my channel it would be a 30 second ban
+22:49 < kiedtl> >_>
+22:49 < rndusr> tildebot: how 
+22:49 <@khuxkm> it's reshout
+22:49 < rndusr> of
+22:49 < rndusr> oh
+22:49 <@khuxkm> because you had a lot of caps in your message
+22:49 < rndusr> THIS IS FUN
+22:49 < jayden> EEEEEEEEEEEEEEEEEEE
+22:49 <@khuxkm> YEAH, IS IT CAPPY HOUR
+22:49 < kiedtl> <tomasino> I'm just trying to help you, you poor child <jayden> if you did that in my channel I'd ban you
+22:49 < jayden> THIS IS A BUNCH OF CAPS LMAO
+22:49 < tildebot> jayden: BURN ADMINISTRATIONS TO THE GROUND
+22:49 <@khuxkm> ?
+22:50 < jayden> tildebot: YES
+22:50 < jayden> YAHHHHHHHHHHHHHHHH
+22:50 < rndusr> how does one remove a file from a git repo
+22:50 < tomasino> okay, tomasino advice is done. best of luck
+22:50 < jayden> YEAH BURN THEM ADMINS
+22:50 < rndusr> send halp
+22:50 < kiedtl> SEIZE THE MEANS OF WRITING SHITTY BASH GAMeS
+22:50 < tildebot> kiedtl: I TOTALLY FORGOT ABOUT RESHOUT
+22:50 < jayden> :COM LMAO
+22:50 < tildebot> ・゜゜・。。・゜゜\_o< QUACK!
+22:50 < rndusr> ,bef
+22:50 < tildebot> [Ducks] rndusr befriended a duck in 1.8 seconds! You've befriended 6 ducks in #team!
+22:50 < jayden> :com THIS IS COMMUNISM
+22:50 < sigsegv>  ☭ THIS IS COMMUNISM ☭ 
+22:50 < tomasino> rnduser, from the repo in its current state, or all of the repo history?
+22:50 < jayden> ya'll remember windows xp communism edition
+22:51 < blitzkraft_> rndusr: just in one commit, or full history?
+22:51 < dgy> tomasino: i'd be interested in the latter. in a separate channel maybe
+22:51 < tomasino> it's ... not fun
+22:51 < tomasino> and will result in rebasing the repo
+22:51 < dgy> oh
+22:51 < tomasino> if you have other people with it checked out they'll need to reclone
+22:51 < jayden> sPEAKING OF
+22:51 < rndusr> tomasino: lol I just went to the repo online and deleted it
+22:52 < tomasino> https://github.com/jamestomasino/dotfiles-minimal/blob/master/.config/git/config#L110-L111
+22:52 < blitzkraft_> But older commits can be navigated to
+22:52 < rndusr> :com com should be removed
+22:52 < sigsegv>  ☭ COM SHOULD BE REMOVED ☭ 
+22:52 < tomasino> rndusr: that'll delete it from that point forward
+22:52 < tomasino> in a new commit
+22:52 < tomasino> but it's still in history
+22:52 < blitzkraft_> Exactly
+22:52 < rndusr> tomasino: http://tildegit.org/randomuser/sowm
+22:52 < tomasino> if you're dealing with a security problem, that could be an issue
+22:52 < rndusr> the prev commit
+22:52 < tomasino> like accidentally committing a password
+22:52 < rndusr> I missed the readme.md so it was readme and readme.md
+22:53 < blitzkraft_> Usually, changing password is easier
+22:53 < tomasino> ahh, okay, that's a no biggy one then
+22:53 < rndusr> welp
+22:53 < rndusr> I'm going to log off for the night
+22:53 < tomasino> you're good with how you did it
+22:53 < rndusr> bai
+22:53 < tomasino> ciao
+22:53 < blitzkraft_> Newer gits can handle renaming
+22:53 < jayden> mom
+22:53 < tomasino> but dgy, that link above is for you
+22:53 < kiedtl> same
+22:53 < kiedtl> by
+22:53 < kiedtl> e
+22:53 < tomasino> ciao
+22:53 < dgy> tomasino: the one to your dots? i'll check it
+22:54 < tomasino> yeah, use cautiously
+22:54 < dgy> thanks
+23:00 -!- jayden is now known as tild3b0t
+23:00 -!- tild3b0t is now known as jayden
+23:03 < alex11> ・゜゜・。。・゜゜\_o< QUACK!
+23:04 -!- anton [anton@antonmcclure.com] has quit [Client exited]
+23:05 < kiedtl> ,buff
+23:21 < blitzkraft_> ,duff
+23:25 -!- dgy [~dgy@2800:810:546:8437:9248:9aff:fe2b:bca7] has quit [quit: nyaa~]
+23:28 -!- jayden [jayden@jmw2020.TILDE] has quit [quit: Lost terminal]
+23:28 < jmw\0> INSTALL systemd
+23:36 < gbmor> :com shut the fuck up donnie
+23:36 < sigsegv>  ☭ SHUT THE FUCK UP DONNIE ☭ 
+23:36 < gbmor> ahh, i need to watch lebowski again
+23:46 < Dr-WaSabi> that is so odd.  I've never seen the big lebowski before, but today I've seen the movie mentioned 3 times
+23:46 < Dr-WaSabi> ,bef
+23:46 < tildebot> [Ducks] Dr-WaSabi: There was no duck! missed by 3371.24 seconds

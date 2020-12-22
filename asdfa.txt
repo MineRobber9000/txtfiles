@@ -1,0 +1,8 @@
+khuxkm@tilde:~$ cat ~/bin/lxd
+#!/bin/bash
+
+ssh -i ~/tildekey.pem ${1:-"khuxkm"}@khuxkm.lxd
+khuxkm@tilde:~$ lxd root
+Enter passphrase for key '/home/khuxkm/tildekey.pem': 
+bash: root: command not found
+

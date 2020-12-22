@@ -1,0 +1,72 @@
+Height of QB
+-------------
+Min: 68
+Mean: 74.10840108401084
+Median: 74
+Mode: 74
+Max: 80
+-------------
+Height of RB
+-------------
+Min: 64
+Mean: 70.74130240856378
+Median: 71
+Mode: 71
+Max: 79
+-------------
+Height of WR
+-------------
+Min: 64
+Mean: 72.44196211753278
+Median: 72
+Mode: 72
+Max: 80
+-------------
+Height of TE
+-------------
+Min: 69
+Mean: 75.82899628252788
+Median: 76
+Mode: 76
+Max: 80
+-------------
+Height of OL
+-------------
+Min: 69
+Mean: 76.19179784589892
+Median: 76
+Mode: 76
+Max: 83
+-------------
+Height of DL
+-------------
+Min: 68
+Mean: 74.89444444444445
+Median: 75
+Mode: 75
+Max: 81
+-------------
+Height of LB
+-------------
+Min: 68
+Mean: 73.41521961184883
+Median: 73
+Mode: 74
+Max: 79
+-------------
+Height of DB
+-------------
+Min: 61
+Mean: 71.84689548785191
+Median: 72
+Mode: 72
+Max: 77
+-------------
+Height of K
+-------------
+Min: 65
+Mean: 72.43034482758621
+Median: 72
+Mode: 72
+Max: 79
+-------------

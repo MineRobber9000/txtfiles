@@ -1,0 +1,1555 @@
+14:10 -!- khuxkm [khuxkm@127.0.0.1] has joined #meta
+14:10 [Users #meta]
+14:10 [@ben    ] [ brendantcc     ] [ Drav  ] [ l4p1n  ] [ sedbot     ] 
+14:10 [@cmccabe] [ brendantcc_ipad] [ jan   ] [ micaiah] [ tildebridge] 
+14:10 [ bhh    ] [ doug           ] [ khuxkm] [ mio    ] [ tildeguest ] 
+14:10 -!- Irssi: #meta: Total of 15 nicks [2 ops, 0 halfops, 0 voices, 13 normal]
+14:10 -!- Channel #meta created Tue Jun 19 00:25:04 2018
+14:10 -!- Irssi: Join to #meta was synced in 0 secs
+14:10 < khuxkm> I'm back now
+14:11 < khuxkm> ben: can you put channel op on my NickServ account now? (since that problem's fixed)
+14:11 -!- mode/#meta [+o khuxkm] by ChanServ
+14:12 < tildebridge> <~FreeAppSW> Hmmm, What is NickServ?
+14:12 <@khuxkm> nickname registration service
+14:12 <@khuxkm> so nobody can pretend to be me
+14:12 < tildebridge> <~FreeAppSW> Oh
+14:13 < tildebridge> <~FreeAppSW> What happens if multiple users try to log in with the same name btw?
+14:13 < doug> ben: i've a shell account, i don't think i've got a tilde.team account (yet)
+14:13 <@khuxkm> it won't let them
+14:13 <@ben> were you the one trying to use the signup form and it wasn't working?
+14:13 <@khuxkm> even w/o a NickServ
+14:13 <@ben> could you try it now?
+14:13 < tildebridge> <~FreeAppSW> Ohh
+14:14 < tildebridge> <~FreeAppSW> Can you change nickname in the middle of using the chat btw?
+14:14 < doug> yup, work now
+14:14 <@ben> yeah
+14:14 < doug> works, even
+14:15 < doug> dunno if you've thought about adding *.tilde.team to the server cert
+14:15 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+14:15 < tildebridge> <~FreeAppSW> Can’t you just ignore the ssl warning?
+14:15 -!- jan is now known as nicknamechange
+14:15 <@ben> ok doug i added your shell account and ssh key
+14:15 -!- nicknamechange is now known as jan
+14:15 < doug> cool
+14:18 < doug> are all the tilde servers linux?
+14:18 <@ben> afaik yeah :)
+14:19 < doug> seems i can't change my shell w/o knowing my password
+14:19 <@ben> default pw is tilde
+14:19 < doug> cool
+14:19 <@ben> i'm sending you the welcome mail now
+14:19 <@ben> feel free to change it
+14:20 < tildebridge> <~FreeAppSW> By the way what is mail?
+14:20 <@ben> what?
+14:20 <@ben> https://tilde.team/wiki/?page=email
+14:20 < tildebridge> <~FreeAppSW> I have You got mail when I log in to shell
+14:20 <@ben> check your mail then
+14:20 <@ben> mutt or alpine are command line mail clients
+14:20 <@ben> or you can connect smtp/imap
+14:20 < tildebridge> <~FreeAppSW> Oh
+14:20 < tildebridge> <~FreeAppSW> Wait so I have an email?
+14:20 < tildebridge> <~FreeAppSW> On tilde?
+14:21 <@ben> yeah it should be freeappsw@tilde.team
+14:21 <@ben> or you can use @tilde.zone @tilde.chat or @tildeteam.org
+14:21 < tildebridge> <~FreeAppSW> I thought I could only make this address forward to my other email
+14:21 <@ben> not anymore
+14:21 <@ben> you can still do that though
+14:21 < tildebridge> <~FreeAppSW> Hmmm
+14:21 <@ben> we added mail 2 weeks ago or so
+14:21 <@ben> it's relatively nwe
+14:21 <@ben> s/we/ew
+14:21 < sedbot> <ben> it's relatively new
+14:21 < tildebridge> <~FreeAppSW> I still don’t get the idea of this tilde type of community really
+14:21 < tildebridge> <~FreeAppSW> Like it’s cool
+14:21 < tildebridge> <~FreeAppSW> But why?
+14:22 <@ben> why not
+14:22 <@ben> https://tilde.team/wiki/?page=code-of-conduct
+14:22 <@ben> see: goals
+14:23 < tildebridge> <~FreeAppSW> Hmmm
+14:23 < tildebridge> <~FreeAppSW> Most of the chapters of this article look like some generic chat community rules
+14:24 < doug> i figure the tilde stuff is a bunch of people who wanna learn some shell magic
+14:24 < doug> well, was at the beginning
+14:25 <@ben> https://paste.tilde.team/zGt6
+14:25 <@ben> that's what i was trying to show from that
+14:26 < tildebridge> <~FreeAppSW> Oh okay
+14:26 < tildebridge> <~FreeAppSW> This community is nice anyway
+14:26 < tildebridge> <~FreeAppSW> Was just wondering
+14:26 <@ben> tl;dr learn by doing and helping. be excellent to each other. have fun!
+14:26 <@ben> tilde.team exists to foster an engaged community for socializing, learning, and making cool stuff
+14:27 <@ben> yeah that's the central goal
+14:27 <@ben> centered around a public access shell server
+14:27 < doug> what if i want to make stultifyingly dull stuff?
+14:27 <@ben> you do you my dude
+14:27 <@ben> :P
+14:35 < tildebridge> <~FreeAppSW> Hmmm
+14:36 < tildebridge> <~FreeAppSW> Okay still I can’t seem to be able to live without discord features in chat
+14:36 < tildebridge> <~FreeAppSW> I guess I am just way too used to them
+14:36 <@ben> which features?
+14:36 < tildebridge> <~FreeAppSW> Like edit message, delete message, typing statuses
+14:36 <@ben> ah
+14:36 <@ben> yeah that doesn't have an equivalent on the irc side
+14:37 < tildebridge> <~FreeAppSW> Irc doesn’t have any statuses am I right?
+14:37 < tildebridge> <~FreeAppSW> Like online, idle and that stuff?
+14:37 <@khuxkm> yeah
+14:38 < tildebridge> <~FreeAppSW> 😦
+14:38 <@khuxkm> it was built for slow connections
+14:38 <@ben> correct
+14:38 < tildebridge> <~FreeAppSW> Yes I do understand
+14:38 <@khuxkm> where all that stuff would've taken too much bandwidth
+14:38 <@khuxkm> and I like it
+14:38 <@ben> it does have away and back
+14:38 <@khuxkm> away is kinda like idle
+14:38 <@ben> yeah
+14:38 < tildebridge> <~FreeAppSW> But I just don’t personally see the charm in using irc
+14:38 < tildebridge> <~FreeAppSW> It is purely my opinion tho
+14:38 <@ben> my client auto sets away if i don't have any windows open
+14:39 < tildebridge> <~FreeAppSW> How does away look like?
+14:40 <@ben> it's just a status message that shows up in the log
+14:40 <@ben> status messages (joins/parts/quits/aways) don't get sent across the discord bridge
+14:41 <@ben> we don't have a user list that syncs between the two anyways
+14:42 < tildebridge> <~FreeAppSW> I mean it’s not possible to put new users to discord guild
+14:42 < tildebridge> <~FreeAppSW> Without them actually joining it
+14:42 <@ben> ah i suppose so
+14:47 < jan> irc doesn't have statuses, but clients can have those features
+14:47 -!- jan is now known as jan6_
+14:48 < tildebridge> <~FreeAppSW> Ye
+14:48 <@ben> jan6_ did you register your nick with nickserv
+14:48 < jan6_> nah
+14:48 < jan6_> no need yet
+14:48 <@ben> that's fair
+14:49 <@ben> i registered mine in case tilde.town/~ben gets greedy
+14:49 <@ben> and wants to use his name
+14:50 < jan6_> nobody else is jan6 anywhere afaik, and people don't seem to impersonate me in the rare cases I'm disguise-nicked, so whatever
+14:50 <@ben> good deal
+14:59 <@ben> http://bash.org/?962705
+15:08 < doug> edit message is nice.  not so sure about typing statuses.
+15:10 <@ben> i don't really care about typing statuses
+15:11 < tildebridge> <~FreeAppSW> doug actually it is a little annoying when I edit the message here (kinda automatic really already) but then I realize that it didn’t actually update for you and I have to write a separate message
+15:11 < tildebridge> <~FreeAppSW> Same applies for deleting
+15:12 <@ben> i thought the bot would send something like edit: new message here
+15:12 <@ben> guess not
+15:13 < tildebridge> <~FreeAppSW> Lemme try
+15:13 < tildebridge> <~FreeAppSW> Did it update?
+15:14 <@ben> nope
+15:40 <@ben> micaiah
+15:40 <@ben> @~miciaha
+15:40 < tildebridge> <~FreeAppSW> Hmmm
+15:40 <@ben> @~micaiah
+15:40 <@ben> paging dr flask
+15:58 < l4p1n> guess what: Blender uses PeerTube
+15:58 <@ben> Did they mirror their content there?
+15:59 < l4p1n> there were forced by youtube because yt blocked blender's content worldwide
+16:00 <@ben> Fkin yt
+16:00 <@ben> They've been getting worse and worse
+16:00 < l4p1n> that's why we PeerTube
+16:00 < tildebridge> <~FreeAppSW> PeerTube?
+16:00 <@ben> Should ~team host one?
+16:00 <@ben> We're gonna start running out of hard drive space at some point
+16:00 <@ben> Lol
+16:01 < l4p1n> i totally should send you that video
+16:01 <@ben> which?
+16:01 < l4p1n> https://framatube.org/videos/watch/217eefeb-883d-45be-b7fc-a788ad8507d3 explaining all the things about PeerTube
+16:02 < l4p1n> have you ever heard about Framasoft ? it's a french association
+16:04 <@ben> Yeah I've heard of it :)
+16:05 < l4p1n> you know all the cool things they do then :) ^^
+16:08 <@ben> they have tons of things!
+16:08 <@ben> framagit framadate frama*
+16:09 <@ben> all the things
+16:10 < l4p1n> all the things you can selfhost. And yeah, just checked out df -h, definitely going to run out of space at some point ^^'
+16:11 <@ben> how much do we have now
+16:11 <@ben> 17 used so far
+16:12 < l4p1n> 93 GB total, 17 used 
+16:12 <@ben> not tooo bad
+16:13 < l4p1n> my nas: 824 GB used, 1.9 TB left. why not storing all the things on a nas who asked for nothing
+16:13 <@ben> that's a possibility
+16:13 <@ben> it'd had to be a network mount
+16:13 <@ben> cause the tilde machine is in a datacenter
+16:14 < l4p1n> ik
+16:14 < doug> it's an actual machine?
+16:14 <@ben> it's a vps 
+16:14 <@ben> in a datacenter :P
+16:14 <@ben> somewhere in california i think
+16:15 < doug> ah ok
+16:15 < jan6_> wow, framasoft has a lot of stuff
+16:15 <@ben> tooooons of stoff
+16:15 <@ben> s/of/uf
+16:15 < sedbot> <ben> tooooons uf stoff
+16:15 < jan6_> I had no idea framinetest was a thing, though minetest IS definitely cool
+16:15 < l4p1n> you have frama-all the things
+16:16 < doug> that's quadranet?
+16:16 < jan6_> what-a-net?
+16:16 < l4p1n> Quadrature du Net ?
+16:16 < l4p1n> ya mean ?
+16:16 <@ben> quadraneti guess
+16:17 < doug> not your box?
+16:17 < jan6_> I only know barely enough french to understand based on context, so what is it?
+16:17 <@ben> quadranet is something from the host
+16:17 < l4p1n> La Quadrature du Net is yet another french association which defends peps' right and freedom on the internet
+16:18 <@ben> framasoft is a french organization 
+16:18 < jan6_> too complex of a name
+16:19 < l4p1n> list of all the free services framasoft offers, in case you want it: https://lutim.l4p1n.ch/WgBsolRd/LYxtGix3.png
+16:20 < tildebridge> <~FreeAppSW> Free store?
+16:20 < jan6_> you can sell your freedom there ;P
+16:20 < tildebridge> <~FreeAppSW> For free?
+16:21 < l4p1n> it's more or less a list of services you can selfhost if you want :p \n i guess myframa is more a shaarli ^^
+16:22 <@ben> or you can use the ones they're already hosting
+16:26 -!- freeappsw [uid304887@charlton.irccloud.com] has joined #meta
+16:26 < l4p1n> if u want to give framasky -- framasoft's sysadmin -- a little moar work :p
+16:26 <@ben> lol 
+16:26 <@ben> that's an option :P
+16:29 < tildebridge> <~FreeAppSW> Hmmm
+16:29 < tildebridge> <~FreeAppSW> What channels exist on the new connected irc?
+16:29 <@ben> you can do /list
+16:29 < freeappsw> In where?
+16:30 <@ben> https://paste.tilde.team/tTW5
+16:30 <@ben> anywhere
+16:30 <@ben> /list
+16:30 < l4p1n> everywhere
+16:31 < freeappsw> Okay that worked
+16:31 < freeappsw> So the / commands are handled by the client same as discord?
+16:32 <@ben> some are handled clientside
+16:32 <@ben> and some are serverside
+16:32 < freeappsw> Also nickserv tells me to register nickname...
+16:33 <@ben> you don't have to if you don't want to
+16:33 < freeappsw> Will I have to change anything in my client if I do?
+16:33 <@ben> no
+16:33 < freeappsw> Okay I should try
+16:34 <@ben> do /msg nickserv help
+16:34 < freeappsw> Can I send the command here or on that landing channel thing?
+16:35 < jan6_> nickserv just makes it so that if you don't identify with your password, your nick is force-changed
+16:35 < freeappsw> Okay turns out I could use the Send Direct Message thing in my client
+16:35 < jan6_> yep
+16:40  * jan6_ just remembered https://anonops.com/ exists, and that they have a radio to listen to
+16:41 < tildebridge> <~FreeAppSW> Btw
+16:41 < tildebridge> <~FreeAppSW> How do you do formatting in irc?
+16:44 < tildebridge> <~FreeAppSW> Here comes the Silence
+16:44 <@ben> depends on the client
+16:44 < jan6_> what formatting? there IS NO FORMATTING in the protocol
+16:44 < tildebridge> <~FreeAppSW> Ohh
+16:44 <@ben> lol as i said
+16:44 <@ben> it's all clientside
+16:44 < jan6_> but that IS italic/cursive text
+16:44 <@ben> are you sure about that?
+16:45 < tildebridge> <~FreeAppSW> In discord you use markdown
+16:45 < jan6_> a lot of clients support the mirc formats, I think
+16:45 < tildebridge> <~FreeAppSW> Well a very limited version of markdown
+16:45 < jan6_> I am sure about that
+16:45 < jan6_> I know
+16:45 < jan6_> `code stuffs`
+16:45 < tildebridge> <~FreeAppSW> Hmmm
+16:46 < jan6_> *A***b**_c_
+16:46 < tildebridge> <~FreeAppSW> Hmmm
+16:46 < tildebridge> <~FreeAppSW> For me it’s kinda broken so the bot doesn’t get that
+16:47 < jan6_> well, I think bold and italic still come through for me, on weechat, though yeah, it's client-specific
+16:47 < tildebridge> <~FreeAppSW> Sad
+16:47 <@ben> is this bold and this italic?
+16:48 < tildebridge> <~FreeAppSW> It would be a nice feature to have formatting
+16:48 < tildebridge> <~FreeAppSW> But there isn’t a unite format
+16:48 <@ben> https://ircv3.net/
+16:48 < tildebridge> <~FreeAppSW> And yes I see it properly this time
+16:48 <@ben> nice
+16:52 <@khuxkm> https://quotes.tilde.team/quote/1 the QDB's coming along nicely (I say as you can't vote/submit at all)
+16:53 <@khuxkm> is there any way to give the QDB a favicon?
+16:54 <@ben> do you want to just use the tilde.team one? o
+16:54 <@ben> or a different one
+16:54 < l4p1n> by putting favicon.ico or something like that (png should work too if you specify it in <head>) ?
+16:54 <@ben>     <link rel="icon" type="image/png" sizes="96x96" href="https://tilde.team/favicon-96x96.png">
+16:55 <@ben> throw that in <head>
+16:56 < jan6_> might not work for IE, but who uses that nowdays, eh?
+16:57  * jan6_ out (Reason: 13:57:18)
+16:57 < tildebridge> <~FreeAppSW> Oooh 13:57 is your time
+17:01 -!- jan6_ [jan@62.65.198.76.cable.starman.ee] has quit [Ping timeout: 121 seconds]
+17:06 < freeappsw> Does anyone know is discord dead?
+17:06 < freeappsw> Wait it’s back
+17:11 <@ben> huh
+17:26 -!- ben1 [ben@127.0.0.1] has joined #meta
+17:29 <@khuxkm> ...and now quote submission works
+17:29 <@khuxkm> https://quotes.tilde.team/quote/2
+17:30 <@khuxkm> just have to implement voting and listing pages
+17:30 <@ben> whoa nice
+17:31 <@ben> if you add class="form-control" to the inputs on /quote/submit they will look nicer :)
+17:31 < tildebridge> <~FreeAppSW> What is this quotes thing about?
+17:31 <@ben> in the style of http://bash.org
+17:32 <@ben> http://bash.org/?949560
+17:32 <@ben> classic ^
+17:33 -!- khuxkm|lounge [lounge-user@127.0.0.1] has joined #meta
+17:33 < tildebridge> <~FreeAppSW> Oh
+17:33 < tildebridge> <~FreeAppSW> Just a question don’t I annoy you by asking stupid questions?
+17:34 <@ben> lol you're fine
+17:34 <@ben> a lot of it is easily googleable
+17:34 < tildebridge> <~FreeAppSW> Oh okay anyway I gtg, bye
+17:35 <@khuxkm> is there any way to poke an address without actually going there?
+17:35 <@ben> how do you mean?
+17:35 <@khuxkm> (for my upvote/downvote)
+17:36 <@khuxkm> nvm
+17:36 <@khuxkm> figured it out
+17:36 <@ben> http://bash.org/?454203
+17:36 <@ben> wouldn't that just be the difference between post and get requests?
+17:37 <@ben> post to actually updoot
+17:37 <@ben> and get to see the conuts
+17:37 <@ben> s/nu/us
+17:37 < sedbot> <ben> and get to see the cousts
+17:37 <@ben> omf
+17:39 <@khuxkm> :P
+17:39 <@ben> i'll start on the auth module
+17:39 <@ben> can you push to gitea
+17:40 <@khuxkm> why do we need the auth module?
+17:40 <@ben> idk
+17:40 <@ben> why not
+17:40 <@ben> we already have it
+17:40 <@ben> maybe only auth for submitting?
+17:40 <@ben> no auth for viewing
+17:41 < khuxkm|lounge> what's actually going on https://quotes.tilde.team/quote/2
+17:41 < khuxkm|lounge> it was broke and now it's not
+17:41 < khuxkm|lounge> oh well
+17:42 <@ben> oh
+17:42 < khuxkm|lounge> I mean, yeah, you can spam upvotes
+17:42 <@ben> so what
+17:42 <@ben> lol
+17:42 <@ben> if you rly want to spam upboats go ahead
+17:43 < khuxkm|lounge> :P
+17:43 <@ben> seems fair to me
+17:45 <@ben> so khuxkm|lounge you're thinking no auth at all?
+17:46 <@khuxkm> not really necessary
+17:46 <@khuxkm> if it gets spammed to hell then we can add it
+17:46 <@ben> ok that sounds good
+17:46 <@ben> i'm not anticipating it getting spammed to hell
+17:46 <@ben> but it's possible i guess
+17:47 <@ben> should we integrate it with any of the bots
+17:47 <@khuxkm> oooh
+17:47 <@khuxkm> api design time
+17:47 <@khuxkm> :P
+17:47 <@ben> lmao
+17:48 <@ben> i mean 
+17:48 <@khuxkm> /api/quotes for a full list
+17:48 <@ben> you just need to call the submit endpoint
+17:48 <@khuxkm> to put a quote there, sure
+17:48 <@ben> i guess it is just a sqlite db
+17:48 <@khuxkm> but what about getting quotes out?
+17:48 <@ben> and search ?
+17:48 <@ben> hmmm
+17:48 <@ben> idk
+17:48 <@ben> more design decisions than i anticipated
+17:51 <@ben> search can just be full-text search
+17:51 <@ben> i don't anticipate it being anything more than that
+17:52 <@khuxkm> idk about search
+17:52 <@khuxkm> but we have randomness and voting
+17:52 <@khuxkm> I'd say that's pretty good for a webapp cooked up in an afternoon
+17:53 <@khuxkm> brb, dinner
+17:53 <@ben> lol yeah that's pretty dope
+18:20  * l4p1n is listening to Waterflame - Time machine
+18:22 <@ben> what are those
+18:23 -!- deepend [deepend@yourtilde.com] has joined #meta
+18:24 < l4p1n> Waterflame == an artist on the internet; Time Machine == one of his songs
+18:27 <@ben> lmao
+18:27 <@ben> i figured :P
+18:27 < deepend> hows it going ben 
+18:28 <@ben> good how are you deepend
+18:28 < deepend> Pretty good. getting back to adding stuff to my bot :D 
+18:29 < l4p1n> i should make an IRC bot, but dunno what to do
+18:29 < deepend> anything is possible if your making your own. I am just using an Eggdrop bot and adding scripts to that.  works good.
+18:31 <@ben> noice
+18:33 <@ben> i should write a bot
+18:35 <@ben> http://bash.org/?5273
+18:40 < l4p1n> follow the cables
+18:40 < l4p1n> unless your appartment is a datacenter ^
+18:41 <@ben> lmao
+18:41 < l4p1n> deepend: i think i'm going to make some sort of a perfs reporter or some sort of this.  *has no idea what he can do*
+18:42 < l4p1n> at least, i made someone smile tonight (00:42)
+18:43 < deepend> nothing wrong with that :D 
+18:43 <@ben> :)
+18:50 < l4p1n> tomorrow i'll mess with IRC protocol if i can't find something in python :p
+18:51 < deepend> Tons of existing bots out there already that are made in python :D 
+19:00 <@ben> for sure
+19:00 <@ben> archangelic has the pinhook bot on github
+19:01 <@ben> https://github.com/archangelic/pinhook
+19:01 < brendantcc> hey there all
+19:03 <@ben> what up brendantcc
+19:03 < brendantcc> not much... what have i missed? the server seems to have restarted - again.
+19:04 <@ben> i don't remember it restarting since last night
+19:04 <@ben> i've been able to just /rehash the settings now
+19:04 <@ben> without restarting it
+19:06 < brendantcc> huh... okay... NickServ was asking me to identify myself at 23:22 last night (AEST).
+19:06 < brendantcc> of course, i wasn't onliee at that time.
+19:07 < brendantcc> *online
+19:07 <@ben> yeah nickserv might kick you if you don't identify
+19:08 < brendantcc> does it just ask for a password every few hours...?
+19:08 <@ben> no it shouldn't
+19:08 <@ben> just when you connect
+19:09 < brendantcc> TheLounge should've had me connected overnight, so i'm now confused
+19:10 <@ben> yeah it should've stayed connected
+19:10 <@ben> i'm not sure what happened then
+19:11 < brendantcc> yeah i just had a look at the main log thing... looks like a system reboot occurred either on the irc server, or the TheLounge instance's server.
+19:14 < brendantcc> the irc ran the MOTD command at 23:22 last night. i can go only as far back as the start of that command.
+19:15 < brendantcc> well, as far back as connecting to the irc at that time.
+19:17 < l4p1n> hi brendantcc 
+19:23 <@ben> ah 
+19:23 <@ben> i updated irc.bhh.sh
+19:23 <@ben> that's what happened
+19:23 < brendantcc> ahh okay
+19:24 < brendantcc> so what's new?
+19:26 <@ben> not much
+19:27 <@ben> watching blade runner 2049
+19:27 < brendantcc> huh... okay... while i'm watching a shooting stars meme compilation cause why not
+19:28 <@ben> lol old meme
+19:28 <@ben> not dead yet?
+19:30 < brendantcc> well it only came back to me because Spotify suggested the original song was the luckiest one to listen to for the Aussies to win in the World Cup
+19:30 <@ben> huh
+19:30 < brendantcc> of course, i'm not really a socc- a football person
+19:30 <@ben> that's an interesting suggestion, spotify
+19:31 <@ben> i'm not a sport person either
+19:31 < brendantcc> however i do watch the other footy - the AFL, whenever the team i go for is playing
+19:32 <@ben> hand egg?
+19:32 <@ben> rugby, american football, or soccer?
+19:32 < brendantcc> yeah... for more info - https://www.google.com.au/search?safe=strict&q=AFL&stick=H4sIAAAAAAAAAONgFuLQz9U3yDNMqVDiBLGSszMMLLX4nPNzc_PzgjNTUssTK4sBtOlARScAAAA&sa=X&ved=0ahUKEwj9rOGX8eDbAhUEe7wKHXvuC1YQxA0ImgIwJw&biw=1366&bih=624
+19:33 < brendantcc> good ol' Aussie footy
+19:33 < l4p1n> tonight i learned that brendantcc is probably an Australian ^^'
+19:34 <@ben> not just probably
+19:34 <@ben> that looks like rugby
+19:34 < brendantcc> Ohh it's footy, alright.
+19:34 <@ben> oh
+19:34 < l4p1n> my nas' disks can finally rest
+19:34 < brendantcc> i'll look up a game highlights for ya\
+19:35 < l4p1n> they're not dead yet, they're just sleeping tightly before having to wake up at 3:15 because someone else is using my nas as a backup too
+19:36 < l4p1n> backup server too*
+19:36 < brendantcc> ironically enough, a game that my team was in was the top hit
+19:36 < brendantcc> here you go, ben - https://www.youtube.com/watch?v=Sryt7sLQXd0
+19:36 <@ben> l4p1n why are you letting someone else use your nas
+19:37 <@ben> rugby for sure
+19:38 < l4p1n> becuase it's someone i know and he's using it for his backups too in case his server goes wild
+19:38 < brendantcc> i just found a video that may help in the suggestions lol... sounds a bit cheesy in the background - https://www.youtube.com/watch?v=XMZYZcoAcU0
+19:38 <@ben> fair enough :P
+19:38 < brendantcc> the video even says "no, it's not rugby"
+19:40 <@ben> ahhh i see
+19:40 < brendantcc> well, gotta go. i'll be back soon enough
+19:40 < l4p1n> ++
+19:40 < l4p1n> btw, australia is UTC-how much ?
+19:41 < l4p1n> nah, UTC+how much i should say ? 
+19:42 <@ben> lots of ++++
+19:57 -!- mushmouth1 [mushmouth@127.0.0.1] has joined #meta
+19:57 -!- mushmouth1 [mushmouth@127.0.0.1] has quit [Quit: WeeChat 1.4]
+20:13 -!- ben1 [ben@127.0.0.1] has quit [Quit: WeeChat 1.4]
+20:17 < brendantcc> there are multiple different utcs... my one is UTC+10:00
+20:17 < brendantcc> (AEST)
+20:17 <@ben> what there is only one utc
+20:18 < brendantcc> different utc offsets.
+20:18 < brendantcc> my bad i worded it wrong :/
+20:18 < brendantcc> (from wikipedia - the top hit on google) - Australia uses three main time zones: Australian Western Standard Time (AWST; UTC+08:00), Australian Central Standard Time (ACST; UTC+09:30), and Australian Eastern Standard Time (AEST; UTC+10:00).
+20:19 < brendantcc> Australian Eastern Standard Time is the timezone i'm in
+20:20 < l4p1n> mine is UTC+02:00
+20:21 < brendantcc> soo it's 3:21am there?
+20:21 < brendantcc> no wait - 2:21am?
+20:21 < l4p1n> 2:21
+20:22 < brendantcc> YEA BOI I GOT IT RIGHT SECOND TRY 😃
+20:22 < brendantcc> 😃😃
+20:22 < l4p1n> and i'm going to setup my fan before sleeping because it's fricken hot in my bedroom
+20:22 < brendantcc> oh jeez... :/
+20:23 < l4p1n> at the same time, what would i expect form having a sleeping nas, a raspberry pi and a tower in my bedroom ? X'D
+20:23 < l4p1n> the worst is in Brazil, don't worry xd
+20:25 < brendantcc> last summer, it got as hot as around 45ºC where i live.
+20:25 < l4p1n> i feel ya
+20:25 < l4p1n> anyway, gonna go to bed cuz i don't wanna wake up at 11 am :p
+20:25 < brendantcc> okay then'
+20:26 < l4p1n> cya
+20:26 < brendantcc> cya
+20:30 -!- l4p1n [l4p1n@188.61.107.204] has quit [Ping timeout: 121 seconds]
+20:56 <@ben> ahh 8 9 and 10
+20:56 <@ben> noice
+20:56 <@ben> i think it's utc-4 here
+20:56 <@ben> 6 hours off from l4p1n
+20:57 <@ben> cause he's in ch
+21:39 <@cmccabe> ahoy ~teamsters
+21:39 <@ben> hey cmccabe
+21:39 <@ben> what's new
+21:39 <@cmccabe> hey ben
+21:39 <@cmccabe> not a lot. i've been offline a lot the past couple days.
+21:40 <@ben> good call :P
+21:40 <@ben> i was on more than i should have been this weekend
+21:40 <@ben> but yeah
+21:41 <@cmccabe> seems like nobody from tildes took a bite on the ~team references...
+21:42 <@ben> yeah no
+21:42 <@ben> oh well
+21:43 <@cmccabe> i was thinking of setting up an irc log analyzer.  do you have any that you particularly like?
+21:44 <@ben> hmm
+21:44 <@ben> no i don't
+21:44 <@ben> whichever one you like!
+21:44 <@ben> we could have logs
+21:44 <@cmccabe> mircstats, pisg, ircstats are afew.  i might try mircstats.
+21:44 <@ben> oki
+21:44 <@ben> does it run as a bot user?
+21:45 <@cmccabe> not sure yet. part of it is just a report (maybe html) of interesting stats. e.g. a stat on another site once said that cmccabe is stupid because he asks so many questions.
+21:45 <@cmccabe> who? me? ask questions?
+21:45 <@ben> lmao
+21:45 <@ben> i like it
+21:46 -!- ChanServ changed the topic of #meta to: tilde general chat
+21:49 <@cmccabe> ermph no mircstats is for windows. 
+21:50 <@ben> oh hmm
+21:55 -!- mode/#meta [+q ben] by ChanServ
+22:15 <~ben> hey hi hello
+22:16 <@cmccabe> ahoy again
+22:16 <@cmccabe> quiet tonight
+22:17 <~ben> somewhat
+22:17 <~ben> yeet
+23:27 < brendantcc> i haz returned boi
+23:27 -!- brennen [brennen@162.243.92.24] has joined #meta
+23:49 -!- freeappsw [uid304887@charlton.irccloud.com] has quit [Ping timeout: 121 seconds]
+23:49 -!- brendantcc_ipad [uid305154@charlton.irccloud.com] has quit [Ping timeout: 121 seconds]
+23:51 <~ben> boi
+23:53 -!- ben [ben@oper.tilde.chat] has quit [Quit: not here right now...]
+23:54 -!- ben [ben@oper.tilde.chat] has joined #meta
+23:54 -!- mode/#meta [+qo ben ben] by ChanServ
+00:43 -!- bhh [bhh@127.0.0.1] has quit [Quit: tilde lounge - https://irc.tilde.team]
+00:43 -!- khuxkm|lounge [lounge-user@127.0.0.1] has quit [Quit: tilde lounge - https://irc.tilde.team]
+00:43 -!- micaiah [micaiah@127.0.0.1] has quit [Quit: tilde lounge - https://irc.tilde.team]
+00:43 -!- tildeguest [tildeguest@127.0.0.1] has quit [Quit: tilde lounge - https://irc.tilde.team]
+00:43 -!- bhh [bhh@127.0.0.1] has joined #meta
+00:43 -!- khuxkm|lounge [lounge-user@127.0.0.1] has joined #meta
+00:43 -!- micaiah [micaiah@127.0.0.1] has joined #meta
+00:43 -!- tildeguest [tildeguest@127.0.0.1] has joined #meta
+00:46 < brendantcc> definitely another system reboot - what the heck is going on?
+00:47 <~ben> nope that was an upgrade of thelounge 
+00:47 <~ben> the one on irc.tilde.team
+00:47 <~ben> not irc.bhh.sh
+00:48 < brendantcc> ohhh btw why was I unable to login to the irc.tilde.team instance with my irc.bhh.sh creds?
+00:48 <~ben> different instance
+00:48 <~ben> did you register with the `webirc` command 
+00:48 < brendantcc> heh... no. gtg. I'll register when I get home
+00:49 < bhh> lol ok 
+00:49 < bhh> no wories
+00:51 -!- bhh [bhh@127.0.0.1] has left #meta ["tilde lounge - https://irc.tilde.team"]
+02:16 -!- freeappsw [uid304887@charlton.irccloud.com] has joined #meta
+02:18 -!- brendantcc_ipad [uid305154@charlton.irccloud.com] has joined #meta
+04:15 -!- l4p1n [l4p1n@204.107.61.188.dynamic.wline.res.cust.swisscom.ch] has joined #meta
+04:15 < l4p1n> Hellu :3
+04:45 <@khuxkm> :P
+04:45 <@khuxkm> hi l4p1n 
+04:46 < l4p1n> how are you doing ?
+05:21 < khuxkm|lounge> ... :P
+05:21 < khuxkm|lounge> dealing with coughs, woke up at 3am
+05:23 -!- mode/#meta [+o khuxkm|lounge] by khuxkm
+05:23 <@khuxkm> let me try something
+05:23 bases
+000102030405060708090A0B0C0D0E0F
+05:23 cubes
+101112131415202122232425303132333435404142434445505152535455606162636465
+161718191A1B262728292A2B363738393A3B464748494A4B565758595A5B666768696A6B
+1C1D1E1F1G1H2C2D2E2F2G2H3C3D3E3F3G3H4C4D4E4F4G4H5C5D5E5F5G5H6C6D6E6F6G6H
+1I1J1K1L1M1N2I2J2K2L2M2N3I3J3K3L3M3N4I4J4K4L4M4N5I5J5K5L5M5N6I6J6K6L6M6N
+1O1P1Q1R1S1T2O2P2Q2R2S2T3O3P3Q3R3S3T4O4P4Q4R4S4T5O5P5Q5R5S5T6O6P6Q6R6S6T
+1U1V1W1X1Y1Z2U2V2W2X2Y2Z3U3V3W3X3Y3Z4U4V4W4X4Y4Z5U5V5W5X5Y5Z6U6V6W6X6Y6Z
+05:23 grays
+7A7B7C7D7E7F7G7H7I7J7K7L7M7N7O7P7Q7R7S7T7U7V7W7X
+05:23 mIRC extended colours
+00010203040506070809101112131415
+161718192021222324252627
+282930313233343536373839
+404142434445464748495051
+525354555657585960616263
+646566676869707172737475
+767778798081828384858687
+888990919293949596979899
+05:23 <@khuxkm> hmm
+05:23 <@khuxkm> nvm
+05:23 <@khuxkm> irssi has some weird stuff
+05:24 3+3=6
+05:37 -!- jan6_ [jan@62.65.198.76.cable.starman.ee] has joined #meta
+05:49 <@khuxkm|lounge> hi jan
+05:56 < tildebridge> <khuxkm> so is there any way to automate setting up mirrors
+05:56 < tildebridge> <khuxkm> something something 100 or so git repos on GitHub I'd like to mirror/backup
+05:56 < tildebridge> <~FreeAppSW> Hmmm
+05:56 < tildebridge> <khuxkm> around 122
+05:57 < tildebridge> <khuxkm> (all of which are mine)
+05:57 < tildebridge> <khuxkm> I can live w/o some of them but I don't want to spend an entire day manually inputting them
+05:59 -!- jan6_ is now known as jan6|home
+06:09 <@khuxkm> !github pull zzazzdzz rgbbin 1
+06:09 < minerbot2> Pull request #1: "Update to RGBASM 6" by MineRobber9000: https://github.com/zzazzdzz/rgbbin/pull/1
+06:10 <@khuxkm> just gotta fix up indents
+06:10 <@cmccabe> mornings all
+06:10 < tildebridge> <~FreeAppSW> What is minerbot?
+06:10 < tildebridge> <~FreeAppSW> And hi
+06:13 <@khuxkm> ...and done
+06:13 <@khuxkm> @~FreeAppSW it's a bot I made
+06:13 < tildebridge> <~FreeAppSW> Oh
+06:13 <@cmccabe> what does it do?
+06:13 < tildebridge> <~FreeAppSW> An irc bot?
+06:13 <@khuxkm> the original minerbot is a mess of spaghetti code on ~town
+06:13 <@khuxkm> ye
+06:14 < tildebridge> <~FreeAppSW> I guess generic multi purpose bot?
+06:14 <@cmccabe> any specific functions yet?
+06:14 <@khuxkm> so far, not really
+06:15 <@khuxkm> besides github/gitea integration
+06:15 <@khuxkm> I plan on slowly adding minerbot's features
+06:15 <@cmccabe> i'll set up a bots page on the wiki -- unpublished for now. it would be neat to eventually have a list of ~team irc bots and their functions.
+06:16 < tildebridge> <~FreeAppSW> Isn’t there only one bot on here being the discord bridge?
+06:16 < tildebridge> <~FreeAppSW> And that bot that edits messages
+06:18 <@cmccabe> one bot now.
+06:19 <@cmccabe> but especially if we can get people creating cool (and non-resource draining) bots, that would be cool.
+06:19 <@khuxkm> for example the hiatus !steven-universe command, which I just set up the library for
+06:19 < tildebridge> <~FreeAppSW> Unfortunately I don’t know how to make irc bots
+06:19 <@khuxkm> "Historical Friction: Stevonnie crash-lands in the middle of watermelons shaped like himself."
+06:20 <@cmccabe> freappsw - it's not too hard. you just need a program that connects to an irc server and channel, listens to input from users, and then responds based on certain key words
+06:21 <@cmccabe> there is a lot of example bot code on the interwebs, and even pre-existing bot frameworks that you can customize
+06:22 < tildebridge> <~FreeAppSW> I know how bots operate, I make discord bots, I just don’t know how irc works
+06:22 <@khuxkm> !reload
+06:22 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+06:22 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:22 <@cmccabe> ah. well the protocol is pretty simple, for the basic connect, listen and write stuff.
+06:22 <@khuxkm> !su fake-leak
+06:22 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Connection closed]
+06:22 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:23 <@khuxkm> !reload
+06:23 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+06:24 < tildebridge> <~FreeAppSW> Hmmm
+06:24 < jan6|home> IRC is *REALLY* simple protocol
+06:24 < tildebridge> <~FreeAppSW> From my experience of making discord bots, using ! as prefix is not usually the best idea
+06:24 <@cmccabe> jan6 which bots are yours on ~town?
+06:25 < jan6|home> all you need is 2 lines to setup nick and username, and from that point,answer pong, to any ping
+06:25 < jan6|home> none, really
+06:25 <@khuxkm> it's so simple that I've done it with netcat
+06:25 <@khuxkm> multiple times
+06:25 < jan6|home> Sire_Logsalot is a copy-paste from github
+06:25 <@khuxkm> jan can attest
+06:25 <@cmccabe> khuxkm: irc bot with netcat?
+06:26 < jan6|home> you can manually connet via netcat
+06:26 < jan6|home> or make a bot
+06:26 < tildebridge> <~FreeAppSW> Okay but there are some libraries for that aren’t there?
+06:26 < jan6|home> sure there are
+06:26 -!- khuxkmsucks [suck@0::1] has joined #meta
+06:27 < khuxkmsucks> lol
+06:27 < jan6|home> python seems popular for that, due to how easy it is (people like to say it's "basically runnable pseudocode")
+06:27 < khuxkmsucks> i dunno about that
+06:27 < khuxkmsucks> but I def. agree it's pretty easy
+06:27 < jan6|home> there are bots literally made in BASH
+06:28 -!- khuxkmsucks [suck@0::1] has quit [Quit: this is fun but I was just trying to prove a price]
+06:28 < jan6|home> prove a price???
+06:28 <@khuxkm> point, not price
+06:28 <@khuxkm> oh well
+06:28 < tildebridge> <~FreeAppSW> Hmmm I wonder if I can add irc bot to my discord bot to be able to use some common features
+06:28 < jan6|home> probably can
+06:29 < tildebridge> <~FreeAppSW> Oh there are crap a ton libraries  for irc for node so I eventually can
+06:29 < tildebridge> <~FreeAppSW> (My discord bot is using node)
+06:30 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:30 <@khuxkm> !su fake-leak
+06:30 < minerbot2> khuxkm: Sworn to Lars - While in the library with a girl he tries to keep many years old for an underground to flee Earth to a late-night joyride to use her home before it snows.
+06:31 < tildebridge> <~FreeAppSW> What?
+06:31 < jan6|home> lol
+06:31 < jan6|home> !su
+06:31 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Connection closed]
+06:31 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:31 <@khuxkm> it uses a markov chain trained on real SU titles and synopses
+06:31 < jan6|home> !su
+06:31 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Connection closed]
+06:31 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:31 < jan6|home> hmmm
+06:31 <@khuxkm> STOP
+06:31 < jan6|home> it's really easy to crash apparently
+06:32 <@khuxkm> totally my fault tbh but whatever
+06:32 <@khuxkm> just stop doing it
+06:32 < tildebridge> <~FreeAppSW> What is the bot made in?
+06:32 <@khuxkm> and give me a chance to fix it
+06:32 <@khuxkm> @~FreeAppSW it's made in python
+06:32 < tildebridge> <~FreeAppSW> Oh
+06:33 <@khuxkm> !reload
+06:33 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+06:33 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:33 < tildebridge> <~FreeAppSW> So as I guess irc doesn’t have a thing like bot accounts so bots and users have same possibilities?
+06:33 <@khuxkm> !su
+06:33 <@khuxkm> @~FreeAppSW yep
+06:33  * jan6|home attempted a modular C-based bot, but never learned how to properly execute external programs
+06:33 <@khuxkm> IRC is extremely basic
+06:33 < jan6|home> ^
+06:34 < tildebridge> <~FreeAppSW> So basically any bot can connect to any server and you can’t restrict is doing so
+06:35 < jan6|home> sure
+06:35 < jan6|home> you can ask "are you a real human" or "do you drink H2O" and stuff, to see if it's a human though
+06:35 < tildebridge> <~FreeAppSW> Oh
+06:36 < jan6|home> "are you a bot" and stuff can easily be cheated, but there are many questions, "what did you eat yesterday" for example
+06:37 < tildebridge> <~FreeAppSW> Discord doesn’t really suffer from that cause 1)Legit bots are oauth apps that can only be added by user with MANAGE_GUILD 2)Userbots are not allowed by the API ToS
+06:37 < tildebridge> <~FreeAppSW> But I still have bot protection in my bot
+06:37 < tildebridge> <~FreeAppSW> Like it blocks access to all channels until you complete a recaptcha
+06:38 < jan6|home> not a bad idea
+06:39 < jan6|home> and on IRC you can have invite-only channels, or set a channelmode so only some users can talk
+06:40 < tildebridge> <~FreeAppSW> Discord has roles so you can set up a role that doesn’t have access to channels and assign this role on join and then after the verification is successful just remove the role
+06:40 < jan6|home> I guess you could make an IRC bot to have similar functionality
+06:43 < tildebridge> <~FreeAppSW> Okay the second part of my protection system can’t be applied for irc and it basically measures how suspicious the account is based on the account age, difference between account creation and joining guild, and having a profile picture
+06:44 -!- jan6 [jan6@127.0.0.1] has joined #meta
+06:45 -!- jan6 [jan6@127.0.0.1] has quit [Quit: WeeChat 1.6]
+06:50 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Connection closed]
+06:50 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+06:52 -!- jan6 [jan6@127.0.0.1] has joined #meta
+06:57 -!- l4p1n [l4p1n@204.107.61.188.dynamic.wline.res.cust.swisscom.ch] has quit [Quit: l4p1n.leave()]
+06:57 -!- l4p1n [l4p1n@204.107.61.188.dynamic.wline.res.cust.swisscom.ch] has joined #meta
+07:00 <@khuxkm> !reload
+07:00 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+07:01 <@khuxkm> lol
+07:01 <@khuxkm> forgot an underscore
+07:02 < tildebridge> <~FreeAppSW> where?
+07:02 <@khuxkm> in the code
+07:02 <@khuxkm> now it's complaining about not having a thread library?
+07:02 < tildebridge> <~FreeAppSW> hmmm
+07:02 <@khuxkm> thought that was in stdlib
+07:02 < tildebridge> <~FreeAppSW> is it c?
+07:03 <@khuxkm> Python
+07:03 < tildebridge> <~FreeAppSW> hmmm
+07:04 < tildebridge> <~FreeAppSW> I never really worked with py...
+07:04 <@khuxkm> python's urllib3 is broke
+07:04 <@khuxkm> so it's trying to import thread, right?
+07:04 < tildebridge> <~FreeAppSW> urllib3?
+07:04 <@khuxkm> the library's called "threading"
+07:05 < tildebridge> <~FreeAppSW> hmmm
+07:05 <@khuxkm> there is a library called thread, but it's been renamed to _thread since
+07:05 < tildebridge> <khuxkm> https://docs.python.org/2/library/thread.html
+07:06 < tildebridge> <khuxkm> Note The thread module has been renamed to _thread in Python 3. The 2to3 tool will automatically adapt imports when converting your sources to Python 3; however, you should consider using the high-level threading module instead.
+07:06 < tildebridge> <~FreeAppSW> why switch to here to send links tho?
+07:06 <@khuxkm> 'cause it's the same window
+07:06 <@khuxkm> :P
+07:06 < tildebridge> <~FreeAppSW> also I gave you the tilde role on here
+07:06 <@khuxkm> and the discord tab is closer than the lounge tab
+07:06 <@khuxkm> cool thanks
+07:06 < tildebridge> <~FreeAppSW> as I guess ben is not really ever going to go to discord and set up stuff
+07:07 < tildebridge> <~FreeAppSW> also I guess I should change the irc server hostname in channel topic to new one
+07:08 < tildebridge> <~FreeAppSW> also why dont you use the desktop app of discord? the web app is just meh...
+07:10 <@khuxkm> chromebook
+07:10 <@khuxkm> devmoded chromebook, but chromebook nonetheless
+07:10 < tildebridge> <~FreeAppSW> ohhh
+07:11 < tildebridge> <~FreeAppSW> you can run android apps in devmode afaik
+07:13 <@khuxkm> yeah
+07:13 <@khuxkm> but web app > android app IMO
+07:14 < tildebridge> <~FreeAppSW> ye
+07:15 < tildebridge> <~FreeAppSW> It comes like Desktop App > Web App > iOS App ≈ Android App
+07:18 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+07:18 <@khuxkm> !quit
+07:18 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+07:19 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+07:19 <@khuxkm> there we go
+07:19 <@khuxkm> just gonna go post in #sudoers for accountability that I patched a python lib
+07:21 <@khuxkm> also, b/c tvdb wants a homepage for all projects that use their own apikey, minerbot2 is now on gitea
+07:21 <@khuxkm> https://git.tilde.town/khuxkm/minerbot2
+07:28 < tildebridge> <~FreeAppSW> #sudoers ?
+07:28 <@khuxkm> sekrit channel for admins
+07:28 < tildebridge> <~FreeAppSW> Hmmm
+07:29 <@khuxkm> also where we keep accountability of eachother
+07:29 < tildebridge> <~FreeAppSW> I am can admin on discord but not on ssh nor on irc
+07:29 <@khuxkm> then no #sudoers for you >:(
+07:29 <@khuxkm> (issa joke)
+07:30 < tildebridge> <~FreeAppSW> so it has a password or how do permissions work?
+07:31 <@khuxkm> yep
+07:31 <@khuxkm> passworded
+07:32 <@khuxkm> channel keys are IRC's password system for specific channel
+07:32 <@khuxkm> s/channel/channels/
+07:32 < sedbot> <khuxkm> channels keys are IRC's password system for specific channel
+07:32 <@khuxkm> don't have the key? can't join
+07:32 < tildebridge> <~FreeAppSW> oh
+07:33 <@khuxkm> !reload
+07:33 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+07:33 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+07:33 <@khuxkm> !gitea link khuxkm minerbot2
+07:33 < minerbot2> khuxkm: khuxkm/minerbot2 - minerbot reborn; https://git.tilde.team/khuxkm/minerbot2
+07:33 <@khuxkm> there we go
+07:34 <@khuxkm> and btw: if ~team irc bots become super lucrative, I can change minerbot's prefix
+07:34 <@khuxkm> !prefix m!
+07:34 <@khuxkm> m!su fake-leak
+07:34 < minerbot2> khuxkm: Room for Ruby - Steven’s Gem colony, and Sapphire again.
+07:34 <@khuxkm> see?
+07:34 <@khuxkm> m!prefix !
+07:34 < tildebridge> <~FreeAppSW> oh
+07:34 < tildebridge> <~FreeAppSW> is it some special bot framework?
+07:35 <@khuxkm> nope
+07:35 < tildebridge> <~FreeAppSW> oh
+07:35 <@khuxkm> just built on top of jaraco's IRC bot library
+07:35 <@khuxkm> check it out
+07:35 <@khuxkm> !gitea link khuxkm/minerbot2
+07:35 < minerbot2> khuxkm: khuxkm/minerbot2 - minerbot reborn; https://git.tilde.team/khuxkm/minerbot2
+07:35 < tildebridge> <~FreeAppSW> discord bot frameworks usually come with such features
+07:35 < tildebridge> <~FreeAppSW> but I am not using one of them
+07:36 < tildebridge> <~FreeAppSW> I just literally wrote the bot using events and if clauses
+07:36 < tildebridge> <khuxkm> https://git.tilde.team/khuxkm/minerbot2/src/branch/master/bot.py#L124
+07:36 < tildebridge> <khuxkm> @~FreeAppSW good on you, learning closer to the meta
+07:36 < tildebridge> <khuxkm> wow... s/meta/metal (for IRC clarity)
+07:37 < tildebridge> <khuxkm> but that's the exact line where command processing takes place
+07:38 < tildebridge> <~FreeAppSW> okay I use locales so you wont really see actual messages in the code but this is how about command looks like if (commandIs(message, "about")){         var channelEmbed = new discordapp.RichEmbed().setTitle(i18n[thisGuildLocale].about.EmbedTitle).setDescription(i18n[thisGuildLocale].about.EmbedDesc).addField(i18n[thisGuildLocale].about.VersionCatTitle, botVersion).addField(i18n[thisGuildLocale].about.InviteLinkCatTitle,
+07:38 < tildebridge> inviteLink).addField(i18n[thisGuildLocale].about.WebsiteCatTitle, "https://oxybot.freeappsw.space/").setColor(0x03A9F4);         message.channel.send("", {embed: channelEmbed});     }     if
+07:38 < tildebridge> <~FreeAppSW> (sorry about the formatting probs copied not the best way)
+07:39 < tildebridge> <~FreeAppSW> and command is basically is js function commandIs(message, command){     if (blackList.includes(message.author.id)){         return false;     }     if (message.channel.type == "dm") return false;     else return message.content.toLowerCase().startsWith(prefix + command); }
+07:39 < tildebridge> <khuxkm> I mean, if it makes you feel better, discord-irc parses out code blocks
+07:39 < tildebridge> <khuxkm> so no matter how nicely you format it, it'll still look like shit in IRC
+07:40 < tildebridge> <~FreeAppSW> sorry
+07:40 < tildebridge> <khuxkm> it's fine
+07:40 < tildebridge> <khuxkm> discord-irc is stupid and needs to be replaced
+07:40 < tildebridge> <khuxkm> 😛
+07:40 < tildebridge> <~FreeAppSW> I have an idea of making it support that bot you use to edit messages
+07:41 < tildebridge> <~FreeAppSW> So it catches the command and edits it
+07:41 < tildebridge> <~FreeAppSW> and doesnt show that you run it
+07:41 < tildebridge> <~FreeAppSW> nor the output of edit bot
+07:42 <@khuxkm> currently just working on tvdb api stuffs
+07:42 <@khuxkm> for eventual inclusion in minerbot
+07:42 < tildebridge> <~FreeAppSW> tvdb?
+07:42 <@khuxkm> the website I use for tv show data
+07:43 < tildebridge> <~FreeAppSW> do you have wiki support?
+07:43 <@khuxkm> for what?
+07:43 < tildebridge> <~FreeAppSW> http://000-default.co.nf/mbp-5b2a3dec70e26 like this
+07:43 < tildebridge> <~FreeAppSW> for the bot
+07:45 < tildebridge> <khuxkm> no
+07:45 < tildebridge> <~FreeAppSW> oh
+07:46 < tildebridge> <~FreeAppSW> that sometimes is handy
+07:46 < tildebridge> <~FreeAppSW> also image search
+07:46 <@khuxkm> the first wiki support I want is being able to find wikis
+07:46 < tildebridge> <~FreeAppSW> oh
+07:46 <@khuxkm> if I can't find a wiki I can't do anything about it
+07:46 <@khuxkm> (referring to git project wikis)
+07:47 <@khuxkm> I want to be able to do "!github wiki nesbox/TIC-80 btn" and have it work
+07:47 <@khuxkm> (it would work for GitHub already, as those links are fairly standard, but IDK about Gitea)
+07:48 < tildebridge> <~FreeAppSW> mine is originally made for all mediawiki websites but wikipedia seems the only website where the API works properly
+07:50 <@khuxkm> !reload
+07:50 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+07:50 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+07:50 <@khuxkm> !su
+07:50 < minerbot2> {}: current !su subcommands are: help (shows this message), fake-leak (comes up with a fake leak)
+07:51 <@khuxkm> forgot to have it format in nick but oh well
+07:51 < tildebridge> <~FreeAppSW> su
+07:51 < tildebridge> <~FreeAppSW> ?
+07:52 <@khuxkm> steven universe
+07:52 <@khuxkm> eventually I'll add support for the CTOON.network API (airdates and timeslots, etc.)
+07:55 < tildebridge> <~FreeAppSW> can an irc bot have moderation features?
+07:55 <@khuxkm> yeah
+07:56 < tildebridge> <~FreeAppSW> I guess only stuff like kick and mute?
+07:56 < tildebridge> <~FreeAppSW> cause all other stuff doesnt really exist?
+08:00 <@khuxkm> !reload
+08:00 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+08:00 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+08:00 <@khuxkm> kick, mute, ban
+08:00 < tildebridge> <~FreeAppSW> ban?
+08:00 < tildebridge> <~FreeAppSW> ip ban?
+08:00 -!- mode/#meta [+b freeappsw!*@*] by khuxkm
+08:01 <@khuxkm> 08:00 -!- mode/#meta [+b freeappsw!*@*] by khuxkm
+08:01 <@khuxkm> then if I kick your IRC user, you won't be able to rejoin the channel
+08:01 < tildebridge> <~FreeAppSW> oh
+08:01 < tildebridge> <khuxkm> IP bans can be done
+08:02 <@khuxkm> I think it's undone
+08:02 <@khuxkm> (i hope it's undone tbh)
+08:02 <@khuxkm> but yeah
+08:02 <@khuxkm> !su help
+08:02 < minerbot2> khuxkm: current !su subcommands are: help (shows this message), fake-leak (comes up with a fake leak)
+08:02 <@khuxkm> !su episode Gem Glow
+08:02 < minerbot2> khuxkm: Season 1, Episode 1: Gem Glow - Steven becomes depressed when his favorite brand of ice-cream sandwich, Cookie Cat, has been taken off the market. He soon cheers up when the Crystal Gems manage to get a hold of some of the last remaining Cookie Cats, which Steven believes may hold the key to activating his gem. ; aired 2013-11-04
+08:02 < tildebridge> <~FreeAppSW> oh
+08:04 < tildebridge> <~FreeAppSW> this would have looked tons better in discord with a rich embed
+08:06 <@khuxkm> idc about it looking good
+08:06 <@khuxkm> as long as it works and pulls down data
+08:06 <@khuxkm> !su episode name Gem Glow
+08:06 < minerbot2> khuxkm: I couldn't find the Steven Universe episode "name Gem Glow".
+08:07 <@khuxkm> !reload
+08:07 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+08:07 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+08:07 <@khuxkm> forgot to reload
+08:07 <@khuxkm> !su episode name Gem Glow
+08:07 < minerbot2> khuxkm: Season 1, Episode 1: Gem Glow - Steven becomes depressed when his favorite brand of ice-cream sandwich, Cookie Cat, has been taken off the market. He soon cheers up when the Crystal Gems manage to get a hold of some of the last remaining Cookie Cats, which Steven believes may hold the key to activating his gem. ; aired 2013-11-04
+08:07 <@khuxkm> !su episode number 5x16
+08:07 < minerbot2> khuxkm: Season 5, Episode 16: Letters to Lars - Lars receives a letter from Steven updating him about the current goings-on in Beach City. While the town and its population are changing, the now-former mayor Bill Dewey is having trouble trying to find his place in the new status quo.; aired 2018-04-30
+08:07 <@khuxkm> there we go
+08:07 <@khuxkm> shorts are considered season 0, btw
+08:07 <@khuxkm> (API's choice, not mine)
+08:07 <@khuxkm> !su episode number 0x1
+08:07 < minerbot2> khuxkm: Season 0, Episode 1: Pilot - The Pilot Episode. We meet Steven, who acquires a magical time travel device, who then uses it to make comebacks towards mean-spirited cashier, Lars. But when he starts to get out of control with time travel magic, he must save his friends from chaos. ; aired 2013-07-27
+08:07 <@khuxkm> !su episode number 0x2
+08:07 < minerbot2> khuxkm: Season 0, Episode 2: The Classroom Gems: What are Gems? - Pearl teaches a class about what Gems are, with Garnet and Amethyst helping him out with some demonstrations.; aired 2015-07-07
+08:08 <@khuxkm> etc, etc
+08:08 <@khuxkm> I'm sure it would look better with a rich embed tho
+08:08 <@khuxkm> is there anything that would look worse in a rich embed?
+08:08 < tildebridge> <~FreeAppSW> very short stuff looks bad in an ebed
+08:09 < tildebridge> <~FreeAppSW> *embed
+08:09 < tildebridge> <~FreeAppSW> but all the rest looks fancy
+08:10 < tildebridge> <~FreeAppSW> and it really depends
+08:11 < tildebridge> <~FreeAppSW> for example http://000-enabled.co.nf/mbp-5b2a4432c5211 this would have looked better without embed imo
+08:11 < tildebridge> <khuxkm> true
+09:18 <~ben> hey hi hello
+09:20 <~ben> @~FreeAppSW go ahead and set up the discord however you like
+09:26 <@khuxkm> !reload
+09:26 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+09:26 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+09:27 <@khuxkm> !su
+09:27 < minerbot2> khuxkm: current !su subcommands are: help (shows this message), fake-leak (comes up with a fake leak), episode <number/name> (get an episode by number (i.e; 01x01) or by name (i.e; Gem Glow))
+09:27 <@khuxkm> !su episode number 01x01
+09:27 < minerbot2> khuxkm: Season 1, Episode 1: Gem Glow - Steven becomes depressed when his favorite brand of ice-cream sandwich, Cookie Cat, has been taken off the market. He soon cheers up when the Crystal Gems manage to get a hold of some of the last remaining Cookie Cats, which Steven believes may hold the key to activating his gem. ; aired 2013-11-04
+09:27 <@khuxkm> !su episode name Gem Glow
+09:27 < minerbot2> khuxkm: Season 1, Episode 1: Gem Glow - Steven becomes depressed when his favorite brand of ice-cream sandwich, Cookie Cat, has been taken off the market. He soon cheers up when the Crystal Gems manage to get a hold of some of the last remaining Cookie Cats, which Steven believes may hold the key to activating his gem. ; aired 2013-11-04
+09:27 <~ben> noice
+09:27 <@khuxkm> ben: I've been hard at work on getting minerbot2 up to snuff
+09:27 <@khuxkm> this is more than even the original does
+09:28 <~ben> frick yeah
+09:28 <~ben> and probably better organized at this point right?
+09:28 <@khuxkm> ye
+09:30 <@khuxkm> got irssi to split showing this window and window #3 (#team)
+09:30 <~ben> solid
+09:30 <~ben> https://git.tilde.team/meta/tilde.chat
+09:30 <@khuxkm> gonna quick reorganize
+09:30 <~ben> committed and pushed
+09:30 <@khuxkm> there we go
+09:30 <@khuxkm> now meta's on top
+09:30 <~ben> oh god it's worse than i rember: https://git.tilde.team/meta/tilde.chat/src/branch/master/index.php
+09:31 < tildebridge> <~FreeAppSW> ok im back
+09:31 <@khuxkm> and to pull down, I just go to /var/www/html/tilde.chat/public_html and git pull?
+09:31 <@khuxkm> I have perms for that, right?
+09:31 < tildebridge> <~FreeAppSW> so amirite that the new irc server is team.tilde.chat ?
+09:31 <~ben> just /var/www/html/tilde.chat
+09:31 <~ben> @~FreeAppSW yes. just tilde.chat should work fine as well
+09:32 <~ben> khuxkm yes
+09:32 <@khuxkm> ben: also, this is better, since now I have the ability to tell if you're ignoring me v. if you're chatting away in #team
+09:32 <@khuxkm> :P
+09:32 <~ben> i'm not sure why we have two now
+09:32 <~ben> lmao
+09:32 < tildebridge> <~FreeAppSW> so #meta is like global and #team is like internal channel?
+09:33 < tildebridge> <khuxkm> yeah
+09:34 < tildebridge> <khuxkm> you can't access #team or #town from yourtilde, can't access #team or #your from tilde.town, and can't access #town or #your from tilde.team
+09:34 < tildebridge> <~FreeAppSW> ohh, like that
+09:34 <~ben> i'm not sure if #meta or #tilde is going to be the main channel
+09:34 <~ben> probably #meta
+09:35 < tildebridge> <~FreeAppSW> how do you know where am I connecting from tho
+09:35 <~ben> it's a setting on the ircd
+09:35 <~ben> when you join, the server tells you which one you're connected to
+09:35 < tildebridge> <~FreeAppSW> so I do have to put team. in the hostname?
+09:36 <~ben> that should be the default
+09:36 <~ben> so either way
+09:36 <@khuxkm> esp. since we're the only ~ with open IRC that's participating
+09:37 < tildebridge> <~FreeAppSW> open irc?
+09:37 <@khuxkm> so brennen will eventually bring ~city to us?
+09:37 <~ben> i think so 
+09:37 <@khuxkm> @~FreeAppSW as in, IRC that is world-connectable
+09:37 < tildebridge> <~FreeAppSW> oh so listen * not localhost?
+09:37 <~ben> he said he was planning on adding an ircd after a debian upgrade
+09:38 <~ben> deepend is your.tilde.chat accessible outside of the yourtilde box?
+09:40 < tildebridge> <~FreeAppSW> btw
+09:40 < tildebridge> <~FreeAppSW> is it possible to make an irc bot that will be able to work on multiple servers?
+09:41 <@khuxkm> yep
+09:42 <@khuxkm> but you can't use the library I use (it only siupports single server)
+09:42 <@khuxkm> s/siupp/supp/
+09:42 < sedbot> <khuxkm> but you can't use the library I use (it only supports single server)
+09:42 <@khuxkm> PircBot (and derivative PircBotX), both in Java, support multiple connections
+09:42 < tildebridge> <~FreeAppSW> I guess I will have to start like a new instance of the bot for each server
+09:43 < tildebridge> <~FreeAppSW> also I really wonder how does @~benbot still work
+09:44 < tildebridge> <~FreeAppSW> ;help
+09:44 < tildebridge> <~benbot> //////                        //////                //    //    //    ////    //////    //    //    ////    ////////   //////    ////////  //    //  //////    //    //    //  //    //  //        //    //  //    //  //    //    // //////      //////  //    //  //////      ////        //// ------------------------------------------------------------- - a bot made by benh. avatar by hirose.  ;8ball <your question to ask here> - ask the mighty
+09:44 < tildebridge> 8-ball ;ascii [font] <words> - creates ascii word art ;chat <what you want to say> - talk to benbot ;dm [@user] [message] - sends a dm ;fonts - change your message to another font ;get <thing to find> - retrieve a definition ;hangman [stop] - play hangman. everyone in the channel plays. `;hangman stop` to cancel a game in progress. ;img <name of image to show|list|save|rm> - save and retrieve images ;joke [chucknorris|yomama|dad] - tells a random joke
+09:44 < tildebridge> ;kaomoji [sad|happy|angry|confused|surprised] - shows a cool japanese emoji face thing ;poll <question> - yes/no poll. lasts 30 seconds. ;roll [number of sides] - rolls an n-sided die (defaults to 6-sided) ;server - displays information about the server ;set <this> <that> - sets this to that ;text_benh [message] - sends an SMS to benh ;tic <@user> - play tic tac toe! ;time [@user] - looks up times in different time zones. you can save a preferred city.
+09:44 < tildebridge> ;unset <thing to remove> - remove a definition ;weather [@user|city search] - get current weather  ------------------------------------------------------------- ;help [command] - get more information about a specific command commands are case-insensitive.  [optional] <required> | = available options
+09:44 < tildebridge> <~benbot> help by @~FreeAppSW
+09:44 < tildebridge> <~benbot> https://cdn.discordapp.com/attachments/387272314863091713/458990409658531840/help.png
+09:44 <~ben> lol benbot ftw
+09:44 <~ben> still up
+09:44 < tildebridge> <~FreeAppSW> my php bot just completely died
+09:45 < tildebridge> <~FreeAppSW> like works for 3 minutes then freezes in "Reconnecting"
+09:45 <~ben> hmmm
+09:45 <~ben> i guess it's still running
+09:45 < tildebridge> <~FreeAppSW> yes
+09:45 <@khuxkm> how does one do an include in PHP?
+09:45 < tildebridge> <~FreeAppSW> doesnt the irc relay mirror bots?
+09:45 <~ben> include 'path/to/file';
+09:45 <@khuxkm> trying to do header/footer stuff
+09:46 < tildebridge> <~FreeAppSW> include("filename");
+09:46 <~ben> parentheses are optional for include and require iirc
+09:46 < tildebridge> <~FreeAppSW> yes
+09:46 <@khuxkm> so if header.php has "<div>" and footer.php has "</div>" (as an example)
+09:46 < tildebridge> <~FreeAppSW> I am too used to them cause js
+09:46 <~ben> yup!
+09:46 <~ben> include 'header.php';
+09:47 <~ben> include 'footer.php';
+09:47 <@khuxkm> thanks
+09:47 <~ben> and stuff in between
+09:47 <~ben> if you close the ?> php thing you're in html now
+09:49 <@khuxkm> aigth
+09:49 <@khuxkm> thanks
+09:49 <@khuxkm> s/aigth/aight/
+09:49 <@khuxkm> :P
+09:49 < tildebridge> <~FreeAppSW> actually I noticed that I now use require() with parentheses in php more
+09:49 < tildebridge> <~FreeAppSW> cause well I just got too used to writing js
+09:51 <~ben> :)
+09:51 <~ben> what are you wanting to put on the tilde.chat site khuxkm?
+09:51 < tildebridge> <khuxkm> idk
+09:52 < tildebridge> <khuxkm> just wanted to experiment a little and possibly make more of a page
+09:52 <~ben> lol sure thing
+09:52 < tildebridge> <khuxkm> no offense, but right now it seems like someone plonked a landing page on the domain 😛
+09:52 <~ben> that's what it is
+09:52 < tildebridge> <~FreeAppSW> also I am just wondering how much stuff do you include in your bot @khuxkm
+09:52 <~ben> khuxkm can you push the quotes.tilde.team code
+09:53 <@khuxkm> tbh just put whatever you want
+09:53 <@khuxkm> in your bot
+09:53 <@khuxkm> @~FreeAppSW
+09:53 < tildebridge> <~FreeAppSW> ik
+09:53 <@khuxkm> ben: sure
+09:53 <~ben> thx
+09:53 <~ben> i'll have a pr for you shortly
+09:53 < tildebridge> <~FreeAppSW> but just wondering cause well I have 7 lines of require()
+09:54 <~ben> not bad
+09:54 <@khuxkm> ben
+09:54 <~ben> khuxkm
+09:54 <@khuxkm> it won't let me push
+09:54 <~ben> what
+09:54 <@khuxkm> did you change the name of the repo
+09:55 <~ben> meta/quotes
+09:55 <~ben> i just tried to add you as contributor
+09:55 <~ben> but you're already in the org
+09:55 <@khuxkm> i don't have push perms
+09:55 <@khuxkm> :P
+09:55 <~ben> hmmst
+09:56 <~ben> let me check
+09:56 <@khuxkm> "remote: User permisiion denies"
+09:56 <@khuxkm> s/isii/isi/
+09:56 < sedbot> <khuxkm> "remote: User permision denies"
+09:56 <@khuxkm> s/denies/denied/
+09:56 < sedbot> <khuxkm> "remote: User permisiion denied"
+09:56 <@khuxkm> ffs
+09:56 <@khuxkm> oh well
+09:57 < tildebridge> <~FreeAppSW> where did ii come from in permission tho
+09:57 <~ben> This team grants Write access: members can read from and push to the team's repositories.
+09:57 <~ben> that's the group you were in
+09:57 <~ben> weird
+09:57 <@khuxkm> I'm in the owner group too
+09:57 <~ben> do you have your ssh key added to gitea?
+09:57 <~ben> hmmst
+09:58 <@khuxkm> I use https push
+09:58 <@khuxkm> it worked now
+09:58 <~ben> ew https
+09:58 <~ben> stop that
+09:58 <@khuxkm> you stop that
+09:58 <@khuxkm> https works
+09:58 <~ben> ye
+09:58 <~ben> ssh is bettter
+09:58 <@khuxkm> and I don't have to give anyone my pubkey
+09:59 <~ben> i mean
+09:59 <~ben> it's your pubkey
+09:59 <@khuxkm> what can ssh do that http can't
+09:59 <~ben> that's the whole point
+09:59 < tildebridge> <~FreeAppSW> why would one like to mess around with keys if you can use https
+09:59 < tildebridge> <~FreeAppSW> 😃
+09:59 <@khuxkm> other than let git through to a ~ box
+10:00 <@khuxkm> another thing you probably don't like about me: I use tabs
+10:00 <~ben> keys are so much easiter
+10:00 <~ben> s/t//
+10:00 < sedbot> <ben> keys are so much easier
+10:01 <~ben> let get through to a ~ box?
+10:01 <~ben> it's on the ~ box
+10:01 <@khuxkm|lounge> what's hard about typing in a username/password combo
+10:01 <~ben> i don't want to do that
+10:01 <~ben> done that enough times in my life
+10:01 <@khuxkm|lounge> ben: I'm referring to, for example, tilde.town, where there isn't any git hosting
+10:02 <~ben> ah
+10:02 < tildebridge> <~FreeAppSW> okay I have supplied my http auth details to it ages ago and it never asks me again soo i dont see a problem with that
+10:02 <~ben> then just make a throwaway key 
+10:02 <~ben> revoke it if you need
+10:02 <@khuxkm|lounge> also, life hack: register your remote as "https://username.password@git.hosting.network/etc/etc"
+10:03 <@khuxkm|lounge> the credentials go through and you only have to type user/pass once
+10:03 <~ben> oh gosh that's even worse
+10:03 < tildebridge> <~FreeAppSW> I always do username@host
+10:03 < tildebridge> <~FreeAppSW> only need password when pushing
+10:03 <~ben> then your password is plaintext in .git/config
+10:03 <@khuxkm|lounge> `chmod 600 .git/*`
+10:03 < tildebridge> <~FreeAppSW> its my local system why should I care so much
+10:04 <~ben> cause
+10:04 <@khuxkm|lounge> ¯\_(ツ)_/¯
+10:04 <~ben> ssh is better
+10:09 <@khuxkm> !reload
+10:09 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+10:09 < jan6|home> mosh > ssh
+10:09 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+10:09 <@khuxkm> !shruggie
+10:09 < minerbot2> ¯\_(ツ)_/¯
+10:09 < jan6|home> (mosh does wrap ssh though)
+10:10 < tildebridge> <~FreeAppSW> I want to find some way to make the irc bot fail
+10:10 < tildebridge> <~FreeAppSW> too bad I dont have a userbot rn
+10:11 < tildebridge> <~FreeAppSW> to send a message that has nothing but an embed
+10:11 < tildebridge> <~FreeAppSW> and see the relay reaction
+10:12 <@khuxkm|lounge> userbots are against Discord rules :P
+10:12 <@khuxkm|lounge> plus, if anything it'd just say
+10:12 < tildebridge> <~FreeAppSW> i know
+10:12 <@khuxkm|lounge> <~FreeAppSW> 
+10:12 <@khuxkm|lounge> like that
+10:13 -!- Netsplit team.tilde.chat <-> your.tilde.chat quits: deepend
+10:13 <@khuxkm|lounge> tilde.chat website, but with header/footer setup
+10:14 <@khuxkm|lounge> https://khuxkm.tilde.team/tchat/
+10:14 <~ben> ay nice
+10:14 <@khuxkm> rip yourtilde node
+10:14 <@khuxkm> netsplit
+10:15 <@khuxkm> btw, the point of making the header was so I could add a navbar
+10:15 <@khuxkm> and it would appear on this page and any further pages
+10:15 <~ben> ofc :)
+10:17 <@khuxkm> t:meta/tilde.chat ?
+10:17 < tildebridge> <~FreeAppSW> const d = require("discord.js"); const discord = new d.Client();  discord.on("message", (message) => {     if(message.author.id == discord.user.id && message.content == "==>"){         let rembed = new d.RichEmbed().setTitle("Hello").setDescription("World");         message.channel.send("", {embed: rembed});     } }); discord.login("none-of-your-business") I hope this will work okay
+10:17 <@khuxkm> get out with your fancy remote stuff
+10:18 < tildebridge> <~FreeAppSW> ==>
+10:18 <~ben> t: is an alias for git@tilde.team
+10:18 <@khuxkm> well, I can't pull it down
+10:18 <@khuxkm> so that sucks
+10:18 < tildebridge> <~FreeAppSW> so what has just happened?
+10:18 <~ben> i just updated it
+10:18 < tildebridge> <~FreeAppSW> when I sent this arrow thing?
+10:19 <~ben> what about the arrow
+10:19 < tildebridge> <~FreeAppSW> http://000-default.co.nf/mbp-5b2a626349efe
+10:19 <@khuxkm|lounge> "WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!"
+10:19 <~ben> wot
+10:19 <@khuxkm|lounge> :P
+10:19 < tildebridge> <~FreeAppSW> I made a selfbot to see how does discord-irc handle empty messages
+10:19 <@khuxkm|lounge> what's the config option to change it to not strict-check
+10:19 < tildebridge> <~FreeAppSW> with embed
+10:20 <~ben> wth why does root on .git/FETCH_HEAD
+10:20 <~ben> s/on/own
+10:20 < sedbot> <ben> wth why does root own .git/FETCH_HEAD
+10:20 <@khuxkm|lounge> @~FreeAppSW try `[]()` (empty link) as the text part of the message
+10:21 < tildebridge> <~FreeAppSW> it wont work
+10:21 < tildebridge> <~FreeAppSW> discord doesnt allow masked links in message content
+10:21 < tildebridge> <~FreeAppSW> only for webhook or embed
+10:21 < tildebridge> <~FreeAppSW> {$text}
+10:21 -!- Irssi: Window is not sticky anymore
+10:22 <@khuxkm> ben: it still won't let me
+10:22 <@khuxkm> since it's owned by your usergroup
+10:23 < tildebridge> <~FreeAppSW> khuxkm are you okay with jumping between different accounts like this lol?
+10:23 <~ben> ok i chowned it to ben:www-data
+10:24 <@khuxkm> ...but I'm not in www-data
+10:24 <~ben> oh
+10:24 <~ben> um
+10:24 <@khuxkm> "error: cannot open .git/FETCH_HEAD: Permission denied"
+10:24 <~ben> ok now you own it
+10:25 <~ben> khuxkm:www-data
+10:27 <@khuxkm> for PHP, if I want to have a default for a variable (say, for a customizable header)
+10:28 <@khuxkm> is it "<?=$var??'default'>"?
+10:28 <~ben> $var ?? 'default'
+10:28 <~ben> yeah
+10:29 <~ben> https://git.tilde.team/meta/site/src/branch/master/header.php#L10
+10:31 <@khuxkm> "syntax error, unexpected '<' in /home/khuxkm/public_html/tchat/header.php on line 5"
+10:31 <@khuxkm> ?
+10:32 <@khuxkm> @~FreeAppSW you get used to it tbh
+10:32 <~ben> you didn't close the php thing
+10:32 <~ben> should be <?=$title ?? 'irc network for tildes'?>
+10:32 <~ben> don't need parens
+10:34 < tildebridge> <~FreeAppSW> khuxkm used to what?
+10:35 <@khuxkm> >khuxkm are you okay with jumping between different accounts like this lol?
+10:35 <@khuxkm> you get used to it
+10:35 < tildebridge> <~FreeAppSW> ah
+10:35 <~ben> at least you have the same nick on both
+10:36 <@khuxkm> as in, you get used to being logged in in multiple placess
+10:36 <@khuxkm> s/ss/s
+10:36 < sedbot> <khuxkm> as in, you get used to being logged in in multiple places
+10:36 <~ben> khuxkm try out /ms
+10:38 <@khuxkm> what's the point of sending memos to channels
+10:38 <@khuxkm> :P
+10:38 <@khuxkm> also, cool
+10:38 <~ben> so someone can see it once they log in
+10:38 <~ben> like if they weren't connected
+10:38 <~ben> thx anope
+10:39 <~ben> i figured out how to get the /ns /cs /os /hs /ms aliases set up last night :)
+10:39 <@khuxkm> every time someone says anope I forget, for a brief moment, that that's a services package
+10:39 <~ben> ahhhh nope
+10:39 <~ben> anope
+10:39 <@khuxkm> and, for a brief moment, I laugh
+10:39 <~ben> lmao
+10:39 <~ben> 1 brief moment
+10:39 <~ben> not a boxers moment
+10:40 <@khuxkm> no, not a boxer moment
+10:40 < tildebridge> <~FreeAppSW> hmmm
+10:40 <~ben> https://quotes.tilde.team/quote/5
+10:41 < tildebridge> <~FreeAppSW> why are the ids just incrementing integer?
+10:42 <~ben> why not
+10:42 <~ben> i kinda like it
+10:42 <~ben> http://bash.org/?139697
+10:43 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/ now with OGP previews
+10:44 <@khuxkm|lounge> or at least, what should be an OGP preview
+10:44 <@khuxkm|lounge> silly me
+10:44 <@khuxkm|lounge> the prefix is og,, not ogp
+10:44 <@khuxkm|lounge> s/,,/,
+10:44 < sedbot> <khuxkm|lounge> the prefix is og, not ogp
+10:44 <~ben> u rly like the ogp stuff don't u
+10:45 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/ now with OGP previews
+10:45 <@khuxkm|lounge> fuck it cached
+10:45 <@khuxkm|lounge> :P
+10:45 <@khuxkm|lounge> ben: of course I do
+10:45 <@khuxkm|lounge> it looks good
+10:45 <~ben>     <meta property="og:url" value="https://tilde.chat/{$_SERVER['REQUEST_URI']}">
+10:45 <~ben> no
+10:46 <@khuxkm|lounge> yes
+10:46 <~ben> replace { with <?php and } with ?>
+10:46 <@khuxkm|lounge> that'show why did it on the wiki
+10:46 <@khuxkm|lounge> oh I see
+10:46 <~ben> you were in html mode
+10:46 <@khuxkm|lounge> also, that message came out wrong since I was speedtyping
+10:46 <~ben> so it didn't even try to interpolate that string
+10:46 <~ben> :)
+10:48 <@khuxkm|lounge> ok, if it doesn't work this time, I'll cry
+10:48 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/
+10:48 <@khuxkm|lounge> (minus url since I forgot to fix that
+10:48 <@khuxkm|lounge> s/that/that)/
+10:48 < sedbot> <khuxkm|lounge> (minus url since I forgot to fix that)
+10:48 <~ben> looks good here
+10:49 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/ fixing it up some
+10:49 <@khuxkm|lounge> although thelounge seems to be missing sitename
+10:51 <@khuxkm> ...and the update's live
+10:55 <~ben> khuxkm how do you run the quotes app
+10:55 <~ben> python app.py?
+10:55 <@khuxkm> FLASK_APP=app flask run
+10:55 <@khuxkm> add FLASK_DEBUG=1 at the beginning to run in debug mode
+10:56 <~ben> lol yeah that was not anything that i would have guessed
+10:58 <@khuxkm> I used to make my flask apps self-run but there's a perfectly good dev tool that can auto-update the app without me killing it and restarting
+11:00 <~ben> !gitea pulls meta quotes 1
+11:00 <~ben> !gitea pull meta/quotes 1
+11:00 < minerbot2> Pull request #1: "style the submit form" by Ben Harris: https://git.tilde.team/meta/quotes/pulls/1
+11:00 <~ben> bing bong
+11:01 < tildebridge> <~FreeAppSW> hmmm
+11:01 < tildebridge> <~FreeAppSW> does gitea have an api or you scraping the page/
+11:01 <~ben> khuxkm merge it thanks
+11:01 <~ben> gitea has an api
+11:02 <~ben> https://git.tilde.team/api/swagger
+11:06 <@khuxkm> merged and pulled to master, thanks
+11:06 <~ben> wew lad
+11:06 <~ben> thx
+11:11 <~ben> !gitea pull meta/tilde.chat 1
+11:11 < minerbot2> Pull request #1: "$_SERVER['REQUEST_URI'] already has leading slash" by Ben Harris: https://git.tilde.team/meta/tilde.chat/pulls/1
+11:12 <~ben> khuxkm
+11:12 < tildebridge> <~FreeAppSW> great
+11:12 <~ben> no u
+11:12 < tildebridge> <~FreeAppSW> you cannot send messages to this channel, you are banned
+11:13 <~ben> what
+11:13 < tildebridge> <~FreeAppSW> idk
+11:13 < tildebridge> <~FreeAppSW> what may be wrong?
+11:13 <~ben> what channel
+11:13 < tildebridge> <~FreeAppSW> meta on irc
+11:13 <~ben> oh
+11:14 <~ben> khuxkm banned you at one point
+11:15 <~ben> lemme unban you
+11:15 <~ben> i think it was just to show an example
+11:15 < tildebridge> <~FreeAppSW> oh
+11:15 <~ben> but it wasn't very nice
+11:15 < tildebridge> <~FreeAppSW> he was showing me how bans work
+11:15 < tildebridge> <~FreeAppSW> ye
+11:15 -!- mode/#meta [-b freeappsw!*@*] by ChanServ
+11:15 <@khuxkm|lounge> i undid that ban tho
+11:15 <@khuxkm|lounge> I sent "mode -b freeappsw"
+11:15 <~ben> try now
+11:15 <@khuxkm|lounge> multiple times
+11:15 <~ben> oh
+11:15 <~ben> did you do it with chanserv though?
+11:16 <@khuxkm|lounge> so it wasn't for a lack of trying
+11:16 <@khuxkm|lounge> with chanserv?
+11:16 <~ben> fair
+11:16 <~ben> @~FreeAppSW try now
+11:17 < freeappsw> Test
+11:17 < freeappsw> Okay works
+11:17 < freeappsw> Thanks
+11:17 <~ben> 👍
+11:17 <~ben> ✌✌✌✌✌
+11:18 < freeappsw> What does owner mean here btw?
+11:18 <@khuxkm|lounge> ben: how do you unban someone with chanserv
+11:18 <~ben> khuxkm|lounge: /cs unban #chan nick
+11:18 <@khuxkm|lounge> I only found a command that lets AOPs unban themselves
+11:18 <~ben> owner is the person who first registered the channel
+11:18 <~ben> hmm
+11:19 <~ben> usually easier to just let chanserv do it
+11:19 <~ben> cause it's persistent
+11:19 <@khuxkm|lounge> https://www.anope.org/docgen/1.8/en_us/ChanServ.html
+11:19 <@khuxkm|lounge> the UNBAN command in particular
+11:19 <@khuxkm|lounge> there isn't a documented argument for a nick to unban
+11:19 <~ben> ah that's outdated
+11:19 <@khuxkm|lounge> just for an AOP to remove bans
+11:19 <~ben> i think we have anope v2
+11:20 <~ben> lemme check
+11:21 <~ben> yeah it's 2.0.6
+11:21 <@khuxkm> let me try something real quick
+11:21  * khuxkm is listening to Blood on the Risers (https://www.youtube.com/watch?v=VWgsdexkv18)
+11:21 <@khuxkm> there we go
+11:21 <@khuxkm> wanted to make sure my listening alias worked
+11:21 <~ben> that's client side afaict
+11:22 <@khuxkm|lounge> > my listening alias
+11:22 <@khuxkm|lounge> > alias
+11:22 <~ben> yeet
+11:22 <@khuxkm|lounge> mfw yeet
+11:22 <~ben> what's the past tense of yeet
+11:22 <@khuxkm> yote
+11:22 <@khuxkm> duh
+11:22 <@khuxkm> "'Twas empty, thus I yote"
+11:23 <~ben> https://www.youtube.com/watch?v=STsENqj6NxI
+11:25 <@khuxkm> navbar is live
+11:25 <~ben> https://quotes.tilde.team/quote/6
+11:25 <~ben> on your subdir or the main site
+11:25 <~ben> main site
+11:25 <@khuxkm|lounge> main site
+11:25 <~ben> yeet
+11:25 <@khuxkm|lounge> ofc
+11:25 <~ben> beyaughten
+11:26 <@khuxkm|lounge> if I say it's "live", I mean I pushed it
+11:26 <~ben> ok dope
+11:26 <~ben> :D
+11:26 <@khuxkm|lounge> if I just post a link, I'm still working
+11:26 <~ben> makes sense
+11:26 <~ben> just wanted to make sure :)
+11:26 <@khuxkm> do we have IRC logs?
+11:26 <~ben> no but we should
+11:27 -!- ChanServ changed the topic of #meta to: general for tilde.chat
+11:27 <@khuxkm> you know you can just set the topic manually right
+11:27 <@khuxkm> ChanServ remembers when you change it
+11:28 <~ben> o
+11:28 <~ben> rly?
+11:28 -!- ben changed the topic of #meta to: this is the general chat
+11:28 <@khuxkm> !reload
+11:28 -!- minerbot2 [minerbot2@127.0.0.1] has quit [Client exited]
+11:28 -!- minerbot2 [minerbot2@127.0.0.1] has joined #meta
+11:28 <@khuxkm> yeet
+11:28 -!- ben changed the topic of #meta to: it's meta cause it's self-referential get it?
+11:28 <@khuxkm> now minerbot2 is in #team and #quotes
+11:28 <~ben> wew
+11:28 <~ben> noice
+11:29 < freeappsw> Oh noice
+11:29 <~ben> what about #meta
+11:29 <~ben> or what are you thinking
+11:29 < freeappsw> This client has channel mentions
+11:29 <~ben> which client are you using freeappsw
+11:29 < freeappsw> Irc cloud for now
+11:29 <~ben> o
+11:30 <~ben> btw you should register your nick with nickserv
+11:30 < freeappsw> Already did?
+11:30 <~ben> try: /ns help register
+11:30 <~ben> oh ok you did
+11:30 <~ben> cool
+11:30 < freeappsw> Wait /ns?
+11:30 < freeappsw> Hmmm
+11:30 <~ben> yeah it's an alias for /msg nickserv
+11:30 <~ben> same thing
+11:30 <~ben> same for /cs /ms /hs /os 
+11:30 < freeappsw> I guess problems with my connection or with irc cloud but some messages take much longer to get sent
+11:31 <~ben> irccloud was down earlier
+11:31 < freeappsw> Also what is chanserv?
+11:31 <~ben> service that helps you manage channels
+11:31 <~ben> and modes on them
+11:32 -!- ChanServ [services@services.tilde.chat] has joined #meta
+11:32 -!- mode/#meta [+ao ChanServ ChanServ] by ChanServ
+11:32 < freeappsw> I like this client cause it looks just like the discord app
+11:32 < freeappsw> Admin? Op?
+11:32 <@khuxkm|lounge> !gitea pull meta tilde.chat 1
+11:32 < minerbot2> Pull request #1: "$_SERVER['REQUEST_URI'] already has leading slash" by Ben Harris: https://git.tilde.team/meta/tilde.chat/pulls/1
+11:33 < freeappsw> Oh yes why I came here. Lemme try
+11:33 < freeappsw> !gitea pull meta/tilde.chat 999
+11:33 < minerbot2> An error occurred.
+11:33 < freeappsw> Hmmm
+11:33 < freeappsw> Good
+11:33 < freeappsw> I though it would crash
+11:33 <~ben> there has only been on pr so far there lol
+11:33 < freeappsw> I know
+11:33 < freeappsw> I just try to break the bot
+11:33 < freeappsw> Lol
+11:34 <~ben> chanserv can do a lot
+11:34 <~ben> holy poops
+11:35 <~ben> so can operserv
+11:35 <@khuxkm> :P
+11:35 < freeappsw> Wait what, python doesn’t have a proper way to stop the process?
+11:35 <~ben> i hadn't auth'd with operserv before last night
+11:35 <~ben> and it has tons of shtuff
+11:36 <@khuxkm> until it was brought to my attention by l4p1n, I mean, you could crash the app by just not giving a subcommand for !su
+11:36 <@khuxkm> now it defaults to !su help
+11:36 < l4p1n> freeappsw: yep, just ^C it
+11:37 < freeappsw> So irc doesn’t have any way to identify the message author
+11:37 < l4p1n> yes
+11:37 < l4p1n> it has
+11:37 < freeappsw> So owner-only commands are impossible
+11:37 < freeappsw> In bots
+11:37 < l4p1n> you can, but what if others inpersonate you ? ^^
+11:37 < freeappsw> Yes yes
+11:38 <@khuxkm|lounge> that's why none of my bots are set up as services
+11:38 < freeappsw> So I won’t even try to find an eval command in this bot
+11:38 <@khuxkm|lounge> if my screen session (which reserves my username) dies, so does the bot
+11:39 <@khuxkm> ben: fix the link in meta/site/wiki then
+11:39 <@khuxkm> I'll fix it in ~chat
+11:40 <~ben> Which link
+11:40 <~ben> Also khuxkm try botserv
+11:40 <@khuxkm> the leading slash thing
+11:41 <~ben> URL looks fine there
+11:41 <~ben> IDK 
+11:41 <@khuxkm> really?
+11:41 <@khuxkm> 'cause I copy-pasted from the wiki when I did it
+11:43 <~ben> https://git.tilde.team/meta/site/src/branch/master/wiki/index.php#L25
+11:43 <~ben> Nvm
+11:43 <~ben> Will fix shortly
+11:43 <~ben> It's fine for the single wiki page view
+11:43 <~ben> But the index page is wrong
+11:46 < freeappsw> Btw do we really need that VCs in discord?
+11:47 <@khuxkm> VCs?
+11:48 < freeappsw> Voice channels
+11:49 <@khuxkm> ben: does loading JSON in PHP require any extra libs?
+11:50 < tildebridge> <~FreeAppSW> No
+11:50 < tildebridge> <~FreeAppSW> json_encode() and json_decode($
+11:50 < tildebridge> <~FreeAppSW> ()*
+11:51 <@khuxkm> so for a JSON file "aaa.json", "json_decode(file_get_contents('aaa.json'));"?
+11:52 < tildebridge> <~FreeAppSW> Yes
+11:52 < tildebridge> <~FreeAppSW> Will provide you an object
+11:54 <@khuxkm> so to get a specific key, json_decode(file_get_contents('aaa.json'))['key'];?
+11:55 < l4p1n> not exactly
+11:55 < tildebridge> <~FreeAppSW> If you set second parameter of json decode to true then yes
+11:55 < tildebridge> <~FreeAppSW> Otherwise ->key
+11:55 <@khuxkm|lounge> why the difference though?
+11:56 < l4p1n> one is for more OO style and the other if you prefer arrays
+11:56 < tildebridge> <~FreeAppSW> Sometimes an associative array is more handy to use
+11:56 < tildebridge> <~FreeAppSW> Sometimes an object
+11:57 <@khuxkm> how can I check to see that the file was retrieved?
+11:58 < l4p1n> by checking file_get_contents return
+11:58 < tildebridge> <~FreeAppSW> What do you mean check?
+11:59 < tildebridge> <~FreeAppSW> And if the file will fail to read iirc you get a warning
+11:59 <@khuxkm|lounge> I don't want it to give a warning
+11:59 <@khuxkm|lounge> I want to know when it happens in the page itself
+11:59 <@khuxkm|lounge> so I can show a little "sorry" blurb
+12:00 <~ben> sorry bub
+12:01 <~ben> i usually just do json_decode(file_get_contents("filename.json"))
+12:01 <~ben> or you can put a url in file_get_contents
+12:01 <~ben> it's a nice method
+12:03 < tildebridge> <~FreeAppSW> Isn’t that what we already have?
+12:04 <~ben> i'm not sure where we're talking about json_decode and such
+12:04 <@khuxkm> how can I iterate over a list
+12:04 <~ben> but if it's the wiki, i just make sure that the file exists before i open it
+12:04 <~ben> foreach ($var as $key => $value)
+12:04 <~ben> works for everything
+12:04 <@khuxkm|lounge> it's a list, not an array
+12:05 <@khuxkm|lounge> well, not a named item array
+12:05 <~ben> foreach ($var as $value)
+12:05 <~ben> the $key => thing is optional
+12:05 <~ben> if it's a normal list (integer keys), $key will just have the index
+12:05 <@khuxkm> so `foreach($members as $member)`
+12:05 <~ben> yuyp
+12:05 <@khuxkm> and I put a codeblock after it
+12:05 <@khuxkm> right?
+12:05 <~ben> foreach ($list_or_array as $index_or_key => $current_item)
+12:05 <~ben> yeah {}
+12:06 <@khuxkm> try and guess what I'm working on
+12:06 <~ben> going through either the json from the git{ea,hub} api or 
+12:06 <~ben> something for the irc page
+12:07 <@khuxkm|lounge> ding ding! it's the IRC page
+12:07 <~ben> what json are you getting
+12:07 <@khuxkm|lounge> making an API for it (going to be `https://tilde.chat/members.json`)
+12:07 <@khuxkm|lounge> just a local file
+12:08 <~ben> if it's php you might as well just make it spit it out on demand
+12:08 <~ben> otherwise you will have to bother with setting up a cron job
+12:08 <@khuxkm> echo doesn't put a trailing newline, does it?
+12:08 <~ben> no it doesn't
+12:08 <~ben> well it does if you're doing it on a cli
+12:08 <~ben> but in html no
+12:08 <@khuxkm> ben: it's literally just a static JSON
+12:09 <~ben> what's in it
+12:09 <~ben> irc users or bots?
+12:09 <@khuxkm> not in this file
+12:09 <@khuxkm> that'll be for a stats page
+12:09 <~ben> oh the members of the tilde.chat network
+12:09 <~ben> noie
+12:09 < tildebridge> <~FreeAppSW> It doesn’t on the CLI?
+12:09 <@khuxkm> what else did you think $members meant
+12:09 <~ben> s/e/ce
+12:09 < sedbot> <ben> noice
+12:09 <~ben> idk what i was thinking
+12:09 <~ben> ignore me i'm dumb
+12:10 < tildebridge> <~FreeAppSW> Will you run a bot to see member count?
+12:10 <~ben> oh i guess it doesn't
+12:10 <~ben> nvm
+12:10 <~ben> PHP_EOL is a magic constant that you can use and it will spit out the right eol for the platform it's running on
+12:10 <~ben> my last job ran php from iis
+12:11 <~ben> it was Bad™
+12:13 <@khuxkm> alright
+12:14 <@khuxkm> after a few minutes of work, my local version is now feature-complete with the deployed version
+12:14 <@khuxkm> my next commit after this will make the site start using tabs instead of quadspaces
+12:14 <@khuxkm> since that' easier for me to navigate
+12:15 < tildebridge> <~FreeAppSW> Hmmm why do people get that mad when we announce that our new bot will have paid tiers and will be closed source (about our team on my guild)
+12:15 <@khuxkm> because that's not cool >:(
+12:16 <@khuxkm> close-source is only a good idea if you're insecure about how bad your spaghetti code is (see: OG minerbot)
+12:16 <@khuxkm> s/close/closed
+12:16 < sedbot> <khuxkm> closed-source is only a good idea if you're insecure about how bad your spaghetti code is (see: OG minerbot)
+12:16 < jan6|home> ^
+12:17 < jan6|home> paid = it's so good people are willing to throw hard-earned money at it
+12:17 < tildebridge> <~FreeAppSW> Okay but that bot will be a service
+12:17 < tildebridge> <~FreeAppSW> Not just a bot
+12:17 < tildebridge> <~FreeAppSW> It will give your guild a lot  of automation and a web panel to tweak it
+12:17 < jan6|home> closed-source = so good people will trust that it's supposed to be secure and that you fix any flaws asap
+12:17 < tildebridge> <~FreeAppSW> And it will be free for most purposes
+12:18 <~ben> maybe leave it open source and charge for the service
+12:19 < jan6|home> you can always have only the core be free, so if you use the free version you get basically unstyled html, and such stuff
+12:19 < tildebridge> <~FreeAppSW> Tfw you don’t understand wha stuff means
+12:19 < tildebridge> <~FreeAppSW> https://cdn.discordapp.com/attachments/387272314863091713/459029533585178634/image.png
+12:19 < jan6|home> lol
+12:19 <~ben> https://changelog.com/podcast/300
+12:20 < jan6|home> "why's there no Artist Daily?" would be an appropriate response
+12:20 <~ben> this was a really interesting podcast 
+12:20 <~ben> it's the learn x the hard way guy
+12:20 < tildebridge> <~FreeAppSW> hmmm
+12:20 < jan6|home> podcast? ain't-nobody-got-time-for-that!
+12:20 <~ben> and he talks a lot about how open source is expensive to make
+12:21 <~ben> and that it shouldn't be bad for open source devs to want to get paid
+12:21 < jan6|home> the trick is to make stuff so good people are willing to pay you even though they don't have to
+12:22 < tildebridge> <~FreeAppSW> I mean Artist is a discord bot, what kind of beta and nightly builds...
+12:23 <@khuxkm> also
+12:23 <@khuxkm> >why do people get that mad when we announce that our new bot will have paid tiers
+12:23 < jan6|home> or you could do the smart way of "you get something, but it's nowhere near as polished and pretty as the premium version, also we have custom (templates|brushes|characters|something) over here, plus we'll help you if you get stuck
+12:23 <@khuxkm> did the old bot have paid tiers
+12:23 < tildebridge> <~FreeAppSW> No
+12:23 <@khuxkm> there's your problem then
+12:24 < jan6|home> free users don't like paid, and paid users think of free as inferior
+12:24 <@khuxkm> you're telling people that they aren't going to get as much from the new bot as the old one unless they pay up
+12:24 <@khuxkm> of course they're going to be miffed about it
+12:24 <@khuxkm> miffed? is that a word?
+12:25 <@khuxkm|lounge> it is
+12:25 <@khuxkm|lounge> an informal verb, but a word nonetheless
+12:25 <@khuxkm|lounge> perhaps irked would be a better word to use there
+12:28 <~ben> miffed makes sense
+12:28 <~ben> i knew what you meant with it
+12:28 <~ben> https://github.com/dylanaraps/pure-bash-bible
+12:28 <~ben> this is really cool ^^
+12:29 <@khuxkm> PHP question: how can I get the length of a list?
+12:29 <@khuxkm> https://avivace.github.io/awesome-gbdev
+12:29 <@khuxkm> ^ even cooler (I'm totally not biased :P) ^
+12:30 <@khuxkm|lounge> I'm totally not a part of the group that puts that together, what are you talking about? (/s)
+12:30 <~ben> count($arr)
+12:31 <~ben> lol khuxkm|lounge you only have one commit
+12:33 <@khuxkm|lounge> ?
+12:34 <@khuxkm|lounge> I mean, I'm at least trying to make myself involved
+12:34 <@khuxkm|lounge> it's your fault for letting me make the website :P
+12:34 <@khuxkm|lounge> oh wait
+12:34 < tildebridge> <~FreeAppSW> Hmmm
+12:34 <~ben> lol what 
+12:34 <@khuxkm|lounge> wow I misread that
+12:35 <@khuxkm|lounge> I though you were talking about putting myself down as a sysadmin
+12:35 <@khuxkm|lounge> I have one commit and (unrelatedly) have one resource on the list
+12:36 < tildebridge> <~FreeAppSW> Okay that drama about paid bot eventually turned into everyone wanting to ban that guy who always said nonsense things especially about the bot
+12:36 < tildebridge> <~FreeAppSW> It already is worth getting a popcorn
+12:37 <@khuxkm> i wish I could send you a bag of popcorn
+12:37 <@khuxkm> (like, a bag of popcorn IRL)
+12:37 < tildebridge> <~FreeAppSW> Ik
+12:38  * khuxkm popcorn
+12:38 <@khuxkm> ^t the closes thing I have
+12:38 <@khuxkm> s/t the/ the/
+12:38 < sedbot> <khuxkm> ^ the closes thing I have
+12:38 < tildebridge> <~FreeAppSW> Well tbh it is my guild but I have crap a lot staff members so let me see are they even worth it
+12:39 <@khuxkm|lounge> now the sysadmins are listed and the private channel is too
+12:39 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/
+12:40 < tildebridge> <~FreeAppSW> Oof
+12:40 < tildebridge> <~FreeAppSW> https://cdn.discordapp.com/attachments/387272314863091713/459034833100865536/image.png
+12:40 < tildebridge> <~FreeAppSW> Okay I’ll stop
+12:41 <@khuxkm|lounge> no, keep going
+12:41 <@khuxkm|lounge> :P
+12:41 <~ben> nice
+12:41 <~ben> lol
+12:41 <@khuxkm|lounge> I want to see where this goes :P
+12:41 < tildebridge> <~FreeAppSW> https://cdn.discordapp.com/attachments/387272314863091713/459035013502074900/image.png
+12:41 <~ben> does the members list read from members.json or something?
+12:41 <@khuxkm|lounge> i feel ashamed to have been born a year before that kid
+12:42 <@khuxkm|lounge> ben: ye
+12:42 <~ben> dang khuxkm|lounge i wouldn't have guessed you're so young
+12:42 < tildebridge> <~FreeAppSW> Then stuff got a little more boring
+12:42 < tildebridge> <~FreeAppSW> And they switched to discussing the python “os” that kid was making
+12:43 < tildebridge> <~FreeAppSW> Also I can eventually make a book of his copypastas and make millions jk
+12:44 < tildebridge> <~FreeAppSW> Stuff that he says to try to prove Windows is the best os is just
+12:44 <~ben> lol windows best os
+12:44 < tildebridge> <~FreeAppSW> I don’t know what word to use, this is how
+12:44 <~ben> what a joke
+12:45 < tildebridge> <~FreeAppSW> “I have tried Ubuntu and I didn’t like it, even my mum didn’t like it! No wonder I don’t use Linux nor macOS!” etc
+12:45 <~ben> wow what a good argument
+12:46 <~ben> bulletproof
+12:46 <~ben> bulletproof logic you got there
+12:46 < tildebridge> <~FreeAppSW> https://cdn.discordapp.com/attachments/387272314863091713/459036433546739733/image.png
+12:47 <~ben> makes total sense
+12:48 < tildebridge> <~FreeAppSW> Also the reason he has this nickname is because the developer of Rin bot has blacklisted him from the bot cause of abusing and making fun of features
+12:50 <@khuxkm> this thunder guy seems like a dickwad
+12:52 <@khuxkm|lounge> https://tilde.team/~khuxkm/tchat/
+12:52 <~ben> looks good
+12:52 <@khuxkm|lounge> @~FreeAppSW he and I can trade parents then
+12:53 <@khuxkm|lounge> 'cause I'd rather have my asthma be worse than stop using linux
+12:53 <@khuxkm|lounge> and my parents stopped smoking a few years ago
+12:53 <~ben> https://quotes.tilde.team/quote/7
+12:54 <@khuxkm> ...and the update is live!
+12:54 -!- jan6|home [jan@62.65.198.76.cable.starman.ee] has quit [Ping timeout: 121 seconds]

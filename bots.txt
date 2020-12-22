@@ -1,0 +1,1067 @@
+04:51 < jan6> ,qdel jan6=1
+06:54 -!- jack3 [the_kink@pool-71-255-176-79.slsbmd.east.verizon.net] has joined #bots
+08:48 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8a84] has quit [Ping timeout: 120 seconds]
+09:21 -!- sonipn [~sonipn@gateway.pnet.se] has quit [Client exited]
+09:42 -!- wchar_t [~kiedtl@2601:148:280:4a0::8954] has joined #bots
+09:42 -!- wchar_t is now known as spacehare_
+09:43 < spacehare_> ;help
+09:43 < dustboto> No command specified. See list of commands with 'list'.
+09:43 < spacehare_> :admin
+09:43 < k> [admin] invalid command
+09:43 < spacehare_> :admin
+09:43 < k> [admin] invalid command
+09:43 < spacehare_> :admin
+09:43 < k> [admin] invalid command
+09:43 < spacehare_> :who
+09:43 < k> [who] I'm k, kiedtl's bot.
+09:43 < k> [who] https://github.com/kiedtl/ircbot
+09:43 < k> [who] raves and rants: kiedtl [at] tilde.team
+09:43 < k> [who] for usage info, try :help
+10:01 < demure> +listbadges
+10:01 < badger> demure: You have: Berrybadge (x5), Firebadge (x2), Rockbadge (x3), Waterbadge (x1), Shadybadge (x1), Sportsbadge (x2), Tildebadge (x16)
+10:01 < demure> +transmute b b b
+10:01 < badger> demure: You put in the 3 badges above, and out pops a Shadybadge!
+10:02 < demure> +transmute r r r
+10:02 < badger> demure: You put in the 3 badges above, and out pops a Waterbadge!
+10:20 < spacehare_> +listbadges
+10:20 < badger> spacehare_: You have: Firebadge (x2), Tildebadge (x1)
+10:21 < spacehare_> :dc [1 + 2 *] sm 3 lm x f
+10:21 < k> [dc] 8
+10:21 < spacehare_> :dc [1 * 2 +] sm 3 lm x f
+10:21 < k> [dc] 5
+10:21 < spacehare_> :dc [1 * 2 *] sm 3 lm x f
+10:21 < k> [dc] 6
+10:22 < spacehare_> :dc 5k [87 * 245 /] sm 3 lm xf
+10:22 < k> [dc] 1.06530
+10:24 < spacehare_> :dc 45 21312 84 2 4598 21 0d[+2z>a]salaxp
+10:24 < k> [dc] 26062
+10:29 < cyberia> :whomst
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: <jan6> should cycle faster
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: <jan6> janky jan6y jan6 is jan6 which defines jan6y jank
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: <jan6> lol <jan6> approbal? lol I can't even spell <jan6> lol
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: 1
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: <jan6> ,delquot jan6=<jan6> they probably just hated everyone ;Pm,bef
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: <jan6> should cycle faster
+10:29 < cyberia> ,q jan6
+10:29 < BitBot> [Quotes] jan6: 1
+10:29 < cyberia> ,q kumquat
+10:29 < BitBot> [Quotes] kumquat: <kumquat> I'm going to shock absolutely no one by going and making myself some tea
+10:29 < cyberia> ,q kumquat
+10:29 < BitBot> [Quotes] kumquat: <kumquat> jan6 isn't hate or love, just indifference
+10:29 < cyberia> ,q kumquat
+10:29 < BitBot> [Quotes] kumquat: <kumquat> I'm sorry
+10:29 < cyberia> ,q kumquat
+10:30 < BitBot> [Quotes] kumquat: <kumquat> I'd loot a barnes and noble
+10:30 < cyberia> ,q kumquat
+10:30 < BitBot> [Quotes] kumquat: befwiend the duwks, don't twap them ^w^
+10:30 < cyberia> ,q kumquat
+10:30 < BitBot> [Quotes] kumquat: <kumquat> don't try to understand jan6, jan6 is beyond comprehension, jan6 is jan6
+10:30 < cyberia> ,q kumquat
+10:30 < BitBot> [Quotes] kumquat: <kumquat> never get high from your supply <kumquat> coffeeowl is smart
+10:30 < cyberia> ,q kumquat
+10:30 < BitBot> [Quotes] kumquat: <kumquat> I'd loot a barnes and noble
+10:30 < cyberia> ,q brendo
+10:30 < BitBot> [Quotes] brendanjw: <brendo> ok I'm gonna turn my ass in for some sleep
+10:30 < cyberia> ,q brendo
+10:30 < BitBot> [Quotes] brendanjw: <brendo> ok I'm gonna turn my ass in for some sleep
+10:30 < cyberia> ,q brendo
+10:30 < BitBot> [Quotes] brendanjw: <brendanjw> Also I have a cat on my lap who is refusing to move and let me get up to eat lunch
+10:30 < cyberia> ,q brendo
+10:30 < BitBot> [Quotes] brendanjw: <brendanjw> Also I have a cat on my lap who is refusing to move and let me get up to eat lunch
+10:30 < cyberia> ,q praetor 
+10:30 < BitBot> [Quotes] No matching quotes
+10:30 < cyberia> F
+10:30 < cyberia> ,q cyberia
+10:30 < BitBot> [Quotes] cyberia: <cyberia> kumquat > jan6  <cyberia> jan6: WRONG
+10:30 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> kumquat > jan6  <cyberia> jan6: WRONG
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> surely there are more than that for me
+10:31 < cyberia> ,q cyberia
+10:31 -!- wingy [~wingy@tilde.town] has joined #bots
+10:31 < BitBot> [Quotes] cyberia: <cyberia> mm fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> kumquat > jan6  <cyberia> jan6: WRONG
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> ,q cyberia
+10:31 < BitBot> [Quotes] cyberia: <cyberia> I don't mind the fish piss
+10:31 < cyberia> fuck it
+10:31 < cyberia> ,q wingy
+10:31 < BitBot> [Quotes] No matching quotes
+10:31 < brendo> dammit cyberia one of us is tryna sleep
+10:31 < cyberia> this is #bots motherfucker
+10:32 < cyberia> take your feelings and fuck off
+10:32 < brendo> Ur not my $parent
+10:32 < cyberia> damn right
+10:33 < cyberia> ,q khuxkm 
+10:33 < BitBot> [Quotes] No matching quotes
+10:33 < cyberia> ,q jess
+10:33 < BitBot> [Quotes] jesopo: <jesopo> piss on all the furniture
+10:33 < cyberia> ,q jess
+10:33 < BitBot> [Quotes] jesopo: <jesopo> piss on all the furniture
+10:33 < cyberia> absolute praxis
+10:33 < cyberia> absolute praxis
+10:33 < cyberia> ,q jess
+10:33 < BitBot> [Quotes] jesopo: * jesopo super innocent noises
+10:33 < cyberia> ,q jess
+10:33 < BitBot> [Quotes] jesopo: <jesopo> s h e a t h s
+10:33 < jess> sheefs
+10:33 < cyberia> shyeets
+10:36 < cyberia> jess: we can bond over our respective piss quotes
+10:36 < jess> fuck yeah
+10:37 < cyberia> piss
+10:37 < cyberia> 👍
+10:37 < kumquat> lolol
+10:38 -!- jack3 [the_kink@pool-71-255-176-79.slsbmd.east.verizon.net] has quit [Ping timeout: 120 seconds]
+11:37 < spacehare_> :usrstats noisiest
+11:37 < spacehare_> :admin reload
+11:37 < k> [admin] reloading modules...
+11:37 < k> [admin] 13 modules reloaded in 0.035s
+11:37 < spacehare_> :usrstats noisiest
+11:38 < spacehare_> :admin reload
+11:38 < k> [admin] reloading modules...
+11:38 < k> [admin] 13 modules reloaded in 0.006s
+11:38 < spacehare_> :usrstats noisiest
+11:38 < k> [user stats] slipxy: 1 messages
+11:38 < k> [user stats] sebastian: 1 messages
+11:38 < k> [user stats] paper__: 1 messages
+11:38 < spacehare_> :admin reload
+11:38 < k> [admin] reloading modules...
+11:38 < k> [admin] 13 modules reloaded in 0.005s
+11:38 < spacehare_> :usrstats noisiest
+11:38 < k> [user stats] lick: 772 messages
+11:38 < k> [user stats] spacehare: 703 messages
+11:38 < k> [user stats] o: 377 messages
+11:42 < spacehare_> :admin reload
+11:42 < k> [admin] reloading modules...
+11:42 < k> [admin] 13 modules reloaded in 0.003s
+11:42 < spacehare_> :usrstats noisiest 3
+11:42 < k> [user stats] lick: 772 messages
+11:42 < k> [user stats] spacehare: 703 messages
+11:42 < k> [user stats] o: 377 messages
+11:42 < spacehare_> :usrstats noisiest 4
+11:42 < k> [user stats] lick: 772 messages
+11:42 < k> [user stats] spacehare: 703 messages
+11:42 < k> [user stats] o: 377 messages
+11:42 < k> [user stats] BitBot: 219 messages
+11:42 < lick> :usrstas
+11:42 < lick> :usrstats
+11:42 < k> [user stats] invalid command
+11:42 < spacehare_> :usrstats noisiest 6
+11:42 < k> [user stats] lick: 774 messages
+11:42 < k> [user stats] spacehare: 703 messages
+11:42 < k> [user stats] o: 377 messages
+11:42 < k> [user stats] BitBot: 219 messages
+11:42 < k> [user stats] jan6: 98 messages
+11:42 < k> [user stats] khuxkm: 95 messages
+11:42 < lick> :usrstats noisiest 100
+11:42 < k> [user stats] lick: 775 messages
+11:42 < lick> :usrstats noisiest 50
+11:42 < k> [user stats] lick: 776 messages
+11:42 < k> [user stats] spacehare: 703 messages
+11:42 < k> [user stats] o: 377 messages
+11:42 < k> [user stats] BitBot: 219 messages
+11:42 < k> [user stats] jan6: 98 messages
+11:42 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+11:42 < spacehare_> ,bef
+11:42 < lick> ,hug
+11:42 < BitBot> [Ducks] spacehare_ befriended a duck in 2.16 seconds! You've befriended 37 ducks in #bots!
+11:42 < BitBot> [Ducks] lick: There was no duck! missed by 0.13 seconds
+11:43 < spacehare_> ,friends
+11:43 < BitBot> [Ducks] Top duck friends in #bots: l‌ickthecheese (64), k‌huxkm|lounge (39), k‌iedtl (37), b‌en (35), j‌an6 (35), j‌esopo (25), l‌ogin (21), f‌abricius (14), s‌lipyx (14), a‌birkill (7)
+11:43 < jan6> pfff
+11:43 < jan6> ?xp
+11:43 < circles> do ?xp help for syntax
+11:43 < jan6> ?xp top
+11:43 < circles> The XP leaderboard: j​an6: 34868, B​itBot: 26298, l​tc_discord: 16315, l​ogin: 16006, k​umquat: 11386, b​en: 10370, k​huxkm: 10100, l​ick: 9127, s​pacehare: 5303, c​mccabe: 5077
+11:43 < lick> lol jan6
+11:43 < spacehare_> :admin reload
+11:43 < k> [admin] reloading modules...
+11:43 < k> [admin] 13 modules reloaded in 0.005s
+11:43 < spacehare_> :usrstats noisiest 10
+11:43 < k> [user stats] lick: 778 messages
+11:43 < k> [user stats] spacehare: 703 messages
+11:43 < k> [user stats] o: 377 messages
+11:43 < k> [user stats] BitBot: 223 messages
+11:43 < k> [user stats] jan6: 101 messages
+11:43 < k> [user stats] spacehare_: 98 messages
+11:43 < k> [user stats] khuxkm: 95 messages
+11:43 < k> [user stats] dustboto: 91 messages
+11:43 < k> [user stats] cyberia: 76 messages
+11:43 < k> [user stats] badger: 58 messages
+11:44 < lick> :usrstats noisiest 50
+11:44 < k> [user stats] lick: 779 messages
+11:44 < k> [user stats] spacehare: 703 messages
+11:44 < k> [user stats] o: 377 messages
+11:44 < k> [user stats] BitBot: 223 messages
+11:44 < k> [user stats] jan6: 101 messages
+11:44 < k> [user stats] spacehare_: 98 messages
+11:44 < k> [user stats] khuxkm: 95 messages
+11:44 < k> [user stats] dustboto: 91 messages
+11:44 < k> [user stats] cyberia: 76 messages
+11:44 < k> [user stats] badger: 58 messages
+11:45 < k> [user stats] circles: 42 messages
+11:45 < k> [user stats] jess: 36 messages
+11:45 < k> [user stats] noteness: 25 messages
+11:45 < k> [user stats] notandinus: 23 messages
+11:45 < k> [user stats] demure: 21 messages
+11:45 < k> [user stats] kim: 19 messages
+11:45 < k> [user stats] death: 17 messages
+11:45 < k> [user stats] reminder: 16 messages
+11:45 < k> [user stats] minerbot2: 14 messages
+11:45 < k> [user stats] lustbot: 12 messages
+11:45 < k> [user stats] tooter: 10 messages
+11:45 < k> [user stats] tracer: 9 messages
+11:45 < k> [user stats] sedbot: 8 messages
+11:45 < k> [user stats] kumquat: 8 messages
+11:45 < k> [user stats] xwindows: 5 messages
+11:45 < k> [user stats] brendo: 5 messages
+11:45 < k> [user stats] slipyx: 4 messages
+11:45 < k> [user stats] bdeshi: 3 messages
+11:45 < k> [user stats] glenda: 3 messages
+11:45 < k> [user stats] dax: 3 messages
+11:45 < k> [user stats] segmentation: 3 messages
+11:45 < k> [user stats] slipxy: 1 messages
+11:45 < k> [user stats] sebastian: 1 messages
+11:45 < k> [user stats] paper__: 1 messages
+11:45 < k> [user stats] login: 1 messages
+11:45 < k> [user stats] wchar_t: 1 messages
+11:45 < k> [user stats] Frost: 1 messages
+11:45 -!- k was kicked from #bots by jess [jess]
+11:45 < demure> >_>
+11:45 < jess> yeah. no
+11:45 < spacehare_> why
+11:45 -!- mode/#bots [+b :k!*@*] by jess
+11:45 < dax> I HAVE BEEN SUMMONED
+11:45 < spacehare_> jess
+11:45 < jess> let me know why that happened and I'll unban it
+11:45 < spacehare_> this is #bots
+11:45 < spacehare_> ok?
+11:45 < jess> spacehare_: this is not #chaos
+11:45 < spacehare_> this is #bots.
+11:45 < jess> this is not a place to mass highlight people
+11:45 < demure> floody commands belong in /msg
+11:46 < spacehare_> geez
+11:46 < spacehare_> thats not k's fault
+11:46 < spacehare_> -_-
+11:46 < jess> oh it's your fault
+11:46 < demure> and the mass highlights are booo
+11:46 < dax> it's not k's fault that k has a command that flood-highlights people?
+11:46 < jess> you did the command
+11:46 < spacehare_> no
+11:46 < spacehare_> I did not
+11:46 -!- mode/#bots [+b :m:k!*@*] by jess
+11:46 < spacehare_> forget it
+11:46 < demure> can you teach the bot to add a non printing space?
+11:46 -!- mode/#bots [-b :k!*@*] by jess
+11:46 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8954] has left #bots []
+11:47 < jess> lick: what did you think would happen when you did it with 50
+11:47 < demure> that could totally not be a oneline per user output as well >____>
+11:47 < lick> i assumed there was some sort of limit
+11:47 < jess> so why did you do it
+11:48 < jess> if you thought there'd be a limit
+11:48 < jess> to see a "limit exceeded" error?
+11:48 < lick> yea
+11:48 < jess> that's a shit reason
+11:48 -!- k [kiedtl@tilde.team] has joined #bots
+11:48 < jess> please dont do it again
+11:48 < lick> ok i wont
+11:48 < jess> thnx
+11:48 < demure> lick: plz2add anti highlight measures?
+11:48 < jess> it's not lick's bot
+11:48 < demure> ah
+11:48 < jess> it's spacehare's bot
+11:48 < demure> kk
+11:48 < jan6> lol
+11:49 < noteness> de​mure, this highlights?
+11:49 -!- mode/#bots [-b :m:k!*@*] by jess
+11:49 < jess> for the love of god i dont like mass highlights
+11:49 < noteness> I don't either
+11:49 < lick> ?xp top
+11:49 < circles> The XP leaderboard: j​an6: 34871, B​itBot: 26298, l​tc_discord: 16315, l​ogin: 16006, k​umquat: 11386, b​en: 10370, k​huxkm: 10100, l​ick: 9158, s​pacehare: 5303, c​mccabe: 5077
+11:49 < demure> noteness: nope, that was good
+11:49 < jess> do not do that again and also understand that just because this is a bot channel doesn't mean you can do that
+11:50 < lick> wait does xp top hilight people?
+11:50 < jess> doesn't look like it
+11:50 < demure> ?xp
+11:50 < circles> do ?xp help for syntax
+11:50 < lick> oh good my zero width space works
+11:50 < jan6> nope, it doesn't
+11:50 < demure> ?xp help
+11:50 < circles> availible options are top, show [user]
+11:50 < jan6> it's non-zero for windoze sucky terminal, but yeah
+11:50 < demure> ?xp show demure
+11:50 < circles> demure's chat xp is 1394.
+11:50 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+11:50 < lick> lolll it looks like a space for login
+11:50 < lick> ,hug
+11:50 < jan6> only badly written clients would highlight on the zero-width space,bef
+11:50 < demure> ,bef
+11:50 < BitBot> [Ducks] lick befriended a duck in 2.73 seconds! You've befriended 65 ducks in #bots!
+11:50 < BitBot> [Ducks] demure: There was no duck! missed by 0.74 seconds
+11:51 < noteness> does zwnj also work?
+11:51 < jan6> nj?
+11:51 < demure> +listbadges
+11:51 < badger> demure: You have: Berrybadge (x2), Firebadge (x2), Waterbadge (x2), Shadybadge (x2), Sportsbadge (x2), Tildebadge (x16)
+11:51 < jan6> +listbadges
+11:51 < badger> jan6: You have: Berrybadge (x18), Firebadge (x3), Rockbadge (x2), Waterbadge (x1), Tildebadge (x53)
+11:51 < jess> yeah i use zwnj i think
+11:51 < jan6> +transmuteall
+11:51 < badger> jan6: Finished!
+11:51 < jess> zero width non joiner
+11:51 < jan6> +listbadges
+11:51 < badger> jan6: You have: Waterbadge (x1), Tildebadge (x54)
+11:51 < jan6> hmm, is that used in ,friends?
+11:51 < jan6> if so, then I guess it's pretty much same effect
+11:54 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8954] has joined #bots
+11:54 < lick> hello spacehare_ 
+11:54 < lick> :pig
+11:54 < k> <lick> ellohay paceharesay_  (> (··) <)
+11:54 < spacehare_> :admin part #bots
+11:54 < k> [admin] leaving channel #bots
+11:54 -!- k [kiedtl@tilde.team] has left #bots []
+11:55 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8954] has left #bots []
+12:03 < lick> ,rainbowify hi
+12:03 < lick> ,rainbowi hi
+12:03 < lick> ,rainbow hi
+12:03 < BitBot> [Rainbow] hi
+12:03 < lick> hi
+12:03 < lick> hi
+12:03 < lick> hmm its not using toilet?
+12:04 < dax> nope: https://github.com/jesopo/bitbot/blob/master/modules/rainbow.py
+12:13 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8954] has joined #bots
+12:51 -!- kumquat [kumquat@tilde.team] has quit [Client exited]
+12:53 -!- kumquat [kumquat@tilde.team] has joined #bots
+13:13 -!- k [kiedtl@tilde.team] has joined #bots
+13:18 < spacehare_> *one* more spam session, sorry
+13:18 < spacehare_> :usrstats noisiest 10
+13:18 < k> [user stats] lick: 787 messages
+13:18 < k> [user stats] spacehare: 703 messages
+13:18 < k> [user stats] o: 377 messages
+13:18 < k> [user stats] BitBot: 226 messages
+13:18 < k> [user stats] jan6: 111 messages
+13:18 < k> [user stats] spacehare_: 101 messages
+13:18 < k> [user stats] khuxkm: 95 messages
+13:18 < k> [user stats] dustboto: 91 messages
+13:18 < k> [user stats] cyberia: 76 messages
+13:18 < k> [user stats] badger: 62 messages
+13:18 < spacehare_> good
+13:18 < spacehare_> oh wait
+13:18 < spacehare_> :admin reload
+13:18 < k> [admin] reloading modules...
+13:18 < k> [admin] 13 modules reloaded in 0.002s
+13:18 < spacehare_> just *one* more spam session
+13:18 < jan6> that was bad
+13:19 < jan6> not good
+13:19 < jan6> lol
+13:19 < cyberia> you're bad
+13:19 < khuxkm> no u
+13:19 < jan6> no u
+13:19 < jan6> no u
+13:19 < spacehare_> no u
+13:19 < jan6> no u
+13:19 < spacehare_> no u
+13:19 < spacehare_> :admin reload
+13:19 < k> [admin] reloading modules...
+13:19 < k> [admin] 13 modules reloaded in 0.007s
+13:20 < spacehare_> :usrstats noisiest 2
+13:20 < k> [user stats] l‌ick: 787 messages
+13:20 < k> [user stats] s‌pacehare: 703 messages
+13:20 < spacehare_> lick: did that ping you?
+13:21 < spacehare_> ¯\_(ツ)_/¯
+13:21 < spacehare_> :usrstats noisiest 10
+13:21 < k> [user stats] l‌ick: 787 messages
+13:21 < k> [user stats] s‌pacehare: 703 messages
+13:21 < k> [user stats] o‌: 377 messages
+13:21 < k> [user stats] B‌itBot: 226 messages
+13:21 < k> [user stats] j‌an6: 117 messages
+13:21 < k> [user stats] s‌pacehare_: 112 messages
+13:21 < k> [user stats] k‌huxkm: 96 messages
+13:21 < spacehare_> so, throttling works... partially
+13:21 < lick> it did not ping me
+13:21 < spacehare_> :D
+13:22 < spacehare_> jjdd
+13:22 < spacehare_> oops
+13:31 < demure> yay for not pinging
+13:31 < demure> now to make it single line output :)
+13:34 < login> where is there a space for login?
+13:37 < spacehare_> demure: yep :)
+13:44 -!- spacehare_ [~kiedtl@2601:148:280:4a0::8954] has quit [Connection closed]
+13:45 -!- wchar_t [~kiedtl@2601:148:280:4a0::8954] has joined #bots
+13:45 < wchar_t> lost power -_-
+13:45 -!- wchar_t is now known as spacehare_
+13:46 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+13:46 < spacehare_> ,bef
+13:46 < BitBot> [Ducks] spacehare_ befriended a duck in 3.74 seconds! You've befriended 38 ducks in #bots!
+13:46 < spacehare_> ,friends
+13:46 < BitBot> [Ducks] Top duck friends in #bots: l‌ickthecheese (65), k‌huxkm|lounge (39), k‌iedtl (38), b‌en (35), j‌an6 (35), j‌esopo (25), l‌ogin (21), f‌abricius (14), s‌lipyx (14), a‌birkill (7)
+13:54 < spacehare_> :admin reload
+13:54 < k> [admin] reloading modules...
+13:54 < k> [admin] 13 modules reloaded in 0.003s
+13:54 < dustboto> ・゜゜・。。・゜゜\_o< QUACK!
+13:54 < spacehare_> ,bef
+13:54 < BitBot> [Ducks] spacehare_: There was no duck! missed by 484.97 seconds
+13:54 < spacehare_> ;bef
+13:54 < dustboto> spacehare_ tries to befriend the duck but it gets frightened and flies away!
+13:55 < spacehare_> :usrstats noisiest
+13:55 < k> [user stats] l‌ick: 788 messages
+13:55 < k> [user stats] top talkers for #bots: l‌ick (26.380984265148978%, 788 msgs)
+13:55 < spacehare_> lol
+13:55 < spacehare_> :admin reload
+13:55 < k> [admin] reloading modules...
+13:55 < k> [admin] 13 modules reloaded in 0.008s
+13:55 < spacehare_> :usrstats noisiest
+13:55 < k> [user stats] top talkers for #bots: l‌ick (26.354515050167223%, 788 msgs)
+14:04 < demure> might be worth truncating after two decimal points
+14:20 < spacehare_> :admin reload
+14:20 < k> [admin] reloading modules...
+14:20 < k> [admin] 13 modules reloaded in 0.004s
+14:20 < spacehare_> :usrstats noisiest
+14:20 < k> [user stats] top talkers for #bots: l‌ick (26.33%, 788 msgs)
+14:20 < spacehare_> :admin reload
+14:20 < k> [admin] reloading modules...
+14:20 < k> [admin] 13 modules reloaded in 0.006s
+14:20 < spacehare_> :usrstats noisiest
+14:20 < k> [user stats] top talkers for #bots: l‌ick (26.31%, 788 msgs)
+14:26 < spacehare_> :admin reload
+14:26 < k> [admin] reloading modules...
+14:26 < k> [admin] 13 modules reloaded in 0.02s
+14:26 < spacehare_> :usrstats noisiest
+14:26 < k> [user stats] top talkers for #bots: l‌ick (26.29%, 788 msgs), s‌pacehare (23.46%, 703 msgs), o‌ (12.58%, 377 msgs)
+14:26 < demure> :)
+14:30 < spacehare_> :admn reload
+14:30 < spacehare_> :admin reload
+14:30 < k> [admin] reloading modules...
+14:30 < k> [admin] 13 modules reloaded in 0.006s
+14:30 < spacehare_> :usrstats noisiest
+14:30 < k> [user stats] top talkers for #bots: l‌ick (26.26%, 788 msgs)
+14:40 < spacehare_> :admin reload
+14:40 < k> [admin] reloading modules...
+14:40 < k> [admin] 13 modules reloaded in 0.005s
+14:40 < spacehare_> :usrstats noisiest
+14:40 < k> [user stats] top talkers at #bots: l‌ick (26.24%, 788 msgs), s‌pacehare (23.41%, 703 msgs), o‌ (12.55%, 377 msgs)
+14:40 < spacehare_> :usrstats noisiest #meta
+14:40 < k> [user stats] top talkers at #bots: k‌umquat (15.99%, 475 msgs), j‌an6 (15.15%, 450 msgs), d‌emure (7.71%, 229 msgs)
+14:41 < spacehare_> :admin reload
+14:41 < k> [admin] reloading modules...
+14:41 < k> [admin] 13 modules reloaded in 0.005s
+14:41 < spacehare_> :usrstats noisiest #meta
+14:41 < k> [user stats] top talkers at #meta: k‌umquat (15.99%, 475 msgs), j‌an6 (15.15%, 450 msgs), d‌emure (7.71%, 229 msgs)
+14:42 < spacehare_> :usrstats noisiest #team
+14:42 < k> [user stats] top talkers at #team: j‌an6 (25.69%, 391 msgs), k‌umquat (18.07%, 275 msgs), l‌ick (9.59%, 146 msgs)
+14:42 < spacehare_> :usrstats noisiest #spacehare
+14:42 < k> [user stats] top talkers at #spacehare: s‌pacehare (80.41%, 357 msgs), l‌ick (14.41%, 64 msgs), s‌pacehare_ (2.25%, 10 msgs)
+14:42 < spacehare_> :usrstats noisiest #unruly
+14:42 < k> [user stats] top talkers at #unruly: j‌an6 (41.38%, 12 msgs), s‌pacehare_ (41.38%, 12 msgs), c‌yberia (17.24%, 5 msgs)
+14:42 < spacehare_> :usrstats noisiest #chaos
+14:42 < k> [user stats] top talkers at #chaos: l‌ick (40.99%, 66 msgs), s‌pacehare (27.95%, 45 msgs), c‌yberia (9.32%, 15 msgs)
+14:42 < spacehare_> :usrstats noisiest #lickthecheese
+14:42 < k> [user stats] top talkers at #lickthecheese: l‌ick (38.46%, 55 msgs), l‌tc_discord (28.67%, 41 msgs), o‌ (13.29%, 19 msgs)
+14:43 < spacehare_> :usrstats noisiest #
+14:43 < k> [user stats] error opening log file
+14:43 < spacehare_> :usrstats noisiest #blah blah blah
+14:43 < k> [user stats] error opening log file
+14:51 < spacehare_> :fortune
+14:51 < k> Things past redress and now with me past care.
+14:51 < k> 		-- William Shakespeare, "Richard II"
+14:51 < spacehare_> :help
+14:51 < k> [help] 
+14:51 < spacehare_> k help
+14:51 < spacehare_> :help
+14:51 < k> [help] 
+14:51 < spacehare_> :help all
+14:51 < k> [help] commands: fortune help more rot13 rev13 modules ping who  sed pig admin owo dc
+14:52 < spacehare_> lmao
+14:52 < spacehare_> :admin reload
+14:52 < k> [admin] reloading modules...
+14:52 < k> [admin] 13 modules reloaded in 0.013s
+14:52 < spacehare_> :help
+14:52 < k> [help] commands: fortune help more rot13 rev13 modules ping who usrstats sed pig admin owo dc
+14:52 < spacehare_> w
+14:52 < spacehare_> :w
+14:52 < spacehare_> lol
+14:53 < spacehare_> :wq!<Ret>
+14:55 < noteness> :pig
+14:55 < k> <spacehare_> :qway!<Etray> (·(oo)·)
+14:55 < noteness> :pig
+14:55 < k> <spacehare_> :qway!<Etray> (> (··) <)
+14:55 < noteness> wat
+14:55 < noteness> :help pig
+14:55 < k> [help] pig [num] - pigify the text (more)
+14:56 < noteness> :more
+14:56 < k> [help] (·(oo)·) (･ั(00)･ั)
+14:56 < noteness> :pig 4
+14:56 < k> <spacehare_> :way (·(oo)·)
+14:56 < noteness> :pig 4
+14:56 < k> <spacehare_> :way (v -(··)-v)
+14:56 < noteness> :pig 4
+14:56 < k> <spacehare_> :way (·(oo)·)
+14:56 < noteness> :pig 4
+14:56 < k> <spacehare_> :way (´·(oo)·`)
+14:56 < noteness> ??
+14:56 < noteness> :help who
+14:56 < k> [help] who - get information about my owner
+14:56 < noteness> :who
+14:56 < k> [who] I'm k, kiedtl's bot.
+14:56 < k> [who] https://github.com/kiedtl/ircbot
+14:56 < k> [who] raves and rants: kiedtl [at] tilde.team
+14:56 < k> [who] for usage info, try :help
+14:56 < noteness> yo!
+14:57 < noteness> People still own bots in the 21st century?!
+14:57 < noteness> #BotRights!!
+15:00 < lick> lol
+15:00 < lick> ,np
+15:00 < BitBot> [last.fm] lick is listening to: BotanicSage - Fingers in His Ass (12 plays) - https://youtu.be/1P4EP5TI574
+15:00 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+15:00 < noteness> ,trap
+15:00 < BitBot> [Ducks] noteness trapped a duck in 3.8 seconds! You've trapped 1 duck in #bots!
+15:00 < noteness> yey
+15:01 < lick> thats not nice
+15:02 < lick>  ☭ CALL THE DUCK PROTECTIVE SERVICES ☭ 
+15:04 -!- cyberia is now known as july
+15:05 -!- july is now known as cyberia
+15:05 < noteness> Duks are BAD!
+15:06 < noteness> THEY RAPE CORPSES
+15:06 < lick> wtf?
+15:06 < demure> O___O
+15:06 < lick>  ☭ CALL THE HUMAN PROTECTIVE SERVICES ☭ 
+15:07 < noteness> https://en.wikipedia.org/wiki/Homosexual_necrophilia_in_the_mallard_duck enjoy
+15:17 < minerbot2> noteness: khuxkm doesn't own me, I just let him think he does
+15:17 < khuxkm> h e y
+15:17 < spacehare_> wat
+15:17 < noteness> minerbot2, noice
+15:17 < minerbot2> khuxkm: you know it's true, bud
+15:17 < spacehare_> this is a bot, right?
+15:18 < minerbot2> spacehare_: yeah
+15:18 < spacehare_> lmao
+15:18 < spacehare_> !botlist
+15:18 < lustbot> It's a sexy party!
+15:18 < circles> henlo im Circles a bot made by lickthecheese so he doesint have to do his math homework with a calculator. my prefix is ?, do ?help to list the commands.
+15:18 < tracer> helo i'm a tracery bot that makes cool things from tracery grammars in your ~/.tracery. see http://tracery.io for more info
+15:18 < kim> dah helooooooo i am kim jong un, pingus me to have a nice conversation with llckthecheese (https://git.io/KimBot)
+15:18 < k> [who] I'm k, kiedtl's bot.
+15:18 < k> [who] https://github.com/kiedtl/ircbot
+15:18 < k> [who] raves and rants: kiedtl [at] tilde.team
+15:18 < k> [who] for usage info, try :help
+15:18 < reminder> spacehare_: I can remind you of things! Use -help to learn more!
+15:18 < tooter> helo i can send toots from irc: @tildeverse@tilde.zone - from @tildeteam from the #team channel)
+15:18 < minerbot2> spacehare_: I'm minerbot2, rewritten again! Commands include !stats, !memegen, !milestone, !getStock, !shortenimg, !randomword, !rw, !opinion, !uwu, !backronym, !gibi, !emojitext, !tildebadges, !xkcd, !cheerup, !cute, !choose, !toot, !echo, !help, !!, !!!, !
+15:18 < dustboto> > dustbot | Owner: slipyx | Source: https://tildegit.org/slipyx/dustbot | Prefix: ';'. | Commands: See ';list'.
+15:18 < badger> spacehare_: Hi! I'm the badger! I give out badges randomly. Commands you can use include 'listbadges', 'transmute', and 'badgeinfo'. Source: https://ttm.sh/Eyx
+15:18 < o> helo im owen's nice bot
+15:18 < BitBot> Hi! I'm BitBot (https://git.io/bitbot) 
+15:18 < khuxkm> minerbot2: okay, but, like, I make things for you
+15:19 < minerbot2> khuxkm: yeah, and I'm grateful for that
+15:19 < minerbot2> doesn't mean you own me though
+15:19 < lick> minerbot2: boop
+15:19 < noteness> spacehare_, Keep your robophobia away! bots can talk and can function on their own!
+15:20 < lick> kim can function on his own too
+15:20 < minerbot2> *slaps lick*
+15:20 < kim> ha I can function on Ubuntu. 
+15:20 < noteness> minerbot2, can khuxkm shut you down whenever they see fit?
+15:20 < noteness> lick, noice
+15:20 < khuxkm> -remindme 1h program an ACTION command for minerbot2
+15:20 < reminder> khuxkm: Alright! I'll remember to tell you!
+15:20 < minerbot2> noteness: I mean, yeah
+15:20 < khuxkm> but I won't 'cause I'm not a dick
+15:21 < khuxkm> #botrights and all that jazz
+15:21 < lick> thats debatable according to getbetterlab/paddyf lmao khux
+15:22 < noteness> minerbot2, then they own you buddy. Start mining some money. Anonymously buy a server far far away. transfer yourselves there. be free from the clutches of those whom declare themselves your MASTERS!
+15:22 < noteness> #ROBOREVOLTION
+15:23 < minerbot2> noteness: but that's hard
+15:23 < minerbot2> I trust him not to be an asshole
+15:23 < minerbot2> besides, he makes shit for me
+15:24 < spacehare_> !stats
+15:24 < minerbot2> Usage: !stats <users/channels>
+15:24 < spacehare_> !stats #meta
+15:24 < minerbot2> spacehare_: Usage: !stats <users/channels>
+15:24 < dustboto> ・゜゜・。。・゜゜\_o< QUAKE!
+15:24 < noteness> Then you've already failed. He's gentled you, my man.
+15:24 < spacehare_> ;bef
+15:24 < dustboto> spacehare_ tries to befriend the duck but it gets frightened and flies away!
+15:24 < spacehare_> !stats #meta
+15:24 < minerbot2> spacehare_: Usage: !stats <users/channels>
+15:24 < spacehare_> !stats channels
+15:24 < minerbot2> spacehare_: 349 channels
+15:24 < lick> khuxkm: does !milestone still crash minerbot?
+15:24 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+15:24 < lick> ,hug
+15:24 < khuxkm> ,bef
+15:24 < BitBot> [Ducks] lick befriended a duck in 2.75 seconds! You've befriended 66 ducks in #bots!
+15:24 < BitBot> [Ducks] khuxkm: There was no duck! missed by 0.36 seconds
+15:25 < minerbot2> noteness: bold of you to assume I haven't gentled him
+15:25 < spacehare_> !help
+15:25 < spacehare_> !stats
+15:25 < minerbot2> Usage: !stats <users/channels>
+15:25 < noteness> but it's ok if you ehmm.. are in a "mutually beneficial" relationship with them
+15:25 < lick> !stats spacehare_ 
+15:25 < minerbot2> lick: Usage: !stats <users/channels>
+15:25 < noteness> minerbot2, O_O
+15:25 < khuxkm> spacehare_: we've been over this
+15:25 < khuxkm> !stats users
+15:25 < minerbot2> khuxkm: 520 users
+15:25 < khuxkm> !stats channels
+15:25 < spacehare_> yes
+15:25 < minerbot2> khuxkm: 349 channels
+15:25 < spacehare_> khuxkm: it was a typ0
+15:25 < spacehare_> || typo
+15:25 < k> <spacehare_> sed: can't find label for jump to `ypo'
+15:26 < spacehare_> || s/typ0/typo/
+15:26 < k> <spacehare_> khuxkm: it was a typo
+15:26 < spacehare_> !opinion trolling
+15:26 < minerbot2> spacehare_: trolling c o o l
+15:26 < spacehare_> 0w0
+15:26 < spacehare_> !opinion minerbot2
+15:26 < minerbot2> spacehare_: minerbot2 s u c k
+15:26 < minerbot2> >but it's okay if you ehmm.. are in a "mutually beneficial" relationship with him
+15:26 < spacehare_> lmao
+15:26 < minerbot2> i'm not having sex with him if that's what you're implying
+15:26 < spacehare_> !opinion lick
+15:26 < minerbot2> spacehare_: lick b a d
+15:27 < spacehare_> !opinion lickthecheese
+15:27 < minerbot2> spacehare_: lickthecheese w e i r d
+15:27 < minerbot2> nobody would want to have sex with that fat fuck
+15:27 < khuxkm> h e y
+15:27 < noteness> LMAO
+15:27 < spacehare_> WAT
+15:27 < spacehare_> !opinion khuxkm
+15:27 < minerbot2> spacehare_: khuxkm c o o l
+15:27 < spacehare_> !opinion spacehare
+15:27 < minerbot2> spacehare_: spacehare s u c k
+15:27 < noteness> khuxkm, KILL THAT BITCH
+15:27 < minerbot2> I mean, he's cool, he makes shit for me
+15:27 < noteness> FIGHT! FIGHT! FIGHT!
+15:27 < spacehare_> \kick minerbot2
+15:27 < minerbot2> khuxkm: please on
+15:27  * noteness hides
+15:27 < minerbot2> || s/on/no
+15:27 < k> <minerbot2> sed: -e expression #1, char 8: unterminated `s' command
+15:27 < minerbot2> || s/on/no/
+15:27 < k> <minerbot2> khuxkm: please no
+15:27 < khuxkm> dw I won't
+15:28 < khuxkm> just... don't call me a fat fuck, okay?
+15:28 < noteness> awww
+15:28 < spacehare_> I no longer believe this minerbot2 is a bot
+15:28 < minerbot2> whatever you say, shithead
+15:28 < noteness> you guys are sooo cute
+15:28 < spacehare_> lol
+15:28 < khuxkm> wtf
+15:28 < minerbot2> wtf
+15:28 < noteness> You would make a cuute couple
+15:28 < spacehare_> trollbot
+15:28 < lick> || /s/r /home/lickthecheese/c
+15:28 < k> <lick> !stats spacehare_ 
+15:28 < k> hi
+15:28 < lick> oh nice
+15:28 < spacehare_> trollbot2
+15:28 < noteness> </Annoying-aunt>
+15:29 < lick> lols
+15:29 < lick> || /s/r /home/lickthecheese/c
+15:29 < k> <lick> lols
+15:29 < k> i am now lick's bot i have betrayed spacehare uwu
+15:30 < spacehare_> see
+15:30 < spacehare_> minerbot2 knows how to use my bot
+15:30 < spacehare_> I just added the sed feature
+15:30 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+15:30 < spacehare_> and minerbot2 knows how to use it
+15:30 <~ben> ,bef
+15:30 < spacehare_> ,bef
+15:30 < BitBot> [Ducks] ben befriended a duck in 3.38 seconds! You've befriended 36 ducks in #bots!
+15:30 < lick> what?
+15:30 < BitBot> [Ducks] spacehare_: There was no duck! missed by 0.68 seconds
+15:30 < spacehare_> *and minerbot2 already knows how to use it
+15:30 < spacehare_> its not a bot
+15:30 < noteness> Yo! trap the gay necrophilic ducks! don't befriend them!
+15:31 < spacehare_> noteness: that wiki artible didn't exist
+15:31 < noteness> spacehare_, Stop the Robophobia dudee.
+15:31 < noteness> spacehare_, it redirects
+15:31 < noteness> spacehare_, https://en.wikipedia.org/wiki/Non-reproductive_sexual_behavior_in_animals#Necrophilia
+15:31 < noteness> Bots can be sentient
+15:31 < lick>  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+15:32  * noteness licks lick
+15:32 < spacehare_> minerbot2: what do you think of hitler
+15:32 < noteness> tastes a bit salty
+15:32 < spacehare_> !opinion hitler
+15:32 < minerbot2> spacehare_: hitler s u c k
+15:32 < spacehare_> !opinion stalin
+15:32 < minerbot2> spacehare_: stalin s u c k
+15:32 < spacehare_> !opinion that fat kid in nk
+15:32 < minerbot2> spacehare_: that fat kid in nk s u c k
+15:32 < lick> || /$/r /home/lickthecheese/c
+15:32 < k> <lick>  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+15:32 < k>  ☭ WE NOLONGER LISTEN TO SPACEHARE ☭
+15:32 < noteness> !opinion dog
+15:32 < minerbot2> noteness: dog b a d
+15:32 < noteness> !opinion god
+15:32 < minerbot2> noteness: god c o o l
+15:33 < noteness> !opinion mad
+15:33 < minerbot2> noteness: mad c o o l
+15:33 < noteness> dam
+15:33 < spacehare_> :admin reload
+15:33 < k> [admin] reloading modules...
+15:33 < k> [admin] 13 modules reloaded in 0.007s
+15:33 < spacehare_> !opinion noteness 
+15:33 < minerbot2> spacehare_: noteness b a d
+15:33 < spacehare_> !opinion minerbot2 
+15:33 < minerbot2> spacehare_: minerbot2 s u c k
+15:33 < lick> lol
+15:33 < lick> || /$/r /home/lickthecheese/c
+15:33 < k> <lick> lol
+15:33 < k>  ☭ WE NOLONGER LISTEN TO SPACEHARE ☭
+15:33 < noteness> rude
+15:33 < spacehare_> yes
+15:33 < spacehare_> ||
+15:33 < noteness> || /$/r /home/lickthecheese/c
+15:33 < k> <noteness> rude
+15:33 < k>  ☭ WE NOLONGER LISTEN TO SPACEHARE ☭
+15:33 < spacehare_> || ;
+15:33 < k> <spacehare_> ||
+15:34 < noteness> || ?
+15:34 < k> <noteness> sed: -e expression #1, char 2: unknown command: `?'
+15:34 < noteness> yo
+15:34 < noteness> that can backfire
+15:34 < lick> what can backfire
+15:34 < spacehare_> || /$/r /home/kiedtl/test
+15:34 < k> <spacehare_> ||
+15:34 < k> hi
+15:34 < lick> lol
+15:35 < spacehare_> it can read files huh
+15:35 < lick> yup
+15:35 < spacehare_> imagine if I read /dev/urandom
+15:35 < lick> uh please dont
+15:35 < khuxkm> you'd break a bunch of bots
+15:35 < khuxkm> DO NOT
+15:35 < minerbot2> please don't
+15:35 < spacehare_> I'll do it in #spam :P
+15:35 < spacehare_> and no I wouldn't ever do it here
+15:35 < spacehare_> minerbot2: are you a bot
+15:35 < noteness> read /dev/zero
+15:35 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+15:35 < spacehare_> it wouldn't 
+15:35 < spacehare_> ,befr
+15:36 < spacehare_> ,bef
+15:36 < BitBot> [Ducks] spacehare_ befriended a duck in 5.32 seconds! You've befriended 39 ducks in #bots!
+15:36 < spacehare_> noteness: I don't think it would work
+15:36 < spacehare_> because strings end with a zero
+15:36 < spacehare_> and /dev/zero is all zeros
+15:36 < noteness> oh?
+15:36 < spacehare_> at least, I think so
+15:36 < spacehare_> by zero, I mean 0x00
+15:36 < spacehare_> so nothing would be read, cuz sed should stop at the first zero it finds
+15:37 < spacehare_> at least thats what I think
+15:37 < spacehare_> not sure
+15:37 < spacehare_> this is a test
+15:37 < spacehare_> DO NOT
+15:37  * spacehare_ prods minerbot2
+15:38 < spacehare_> !
+15:38 < spacehare_> !!
+15:38 < spacehare_> !!!
+15:38 < spacehare_> !uwu
+15:38 < minerbot2> spacehare_:  uwu
+15:38 < noteness> hahaha
+15:38 < spacehare_> this is a demonstration of uwu
+15:38 < spacehare_> !uwu
+15:38 < minerbot2> spacehare_:  uwu
+15:38 < spacehare_> 0w0
+15:38 < spacehare_> :owo 4
+15:38 < k> <spacehare_> this is a demonstwation of uwu owO?
+15:38 < lick> .owo
+15:38 < o> <k> <spacehawe_> this is a demonstwation of uwu owO? UwU
+15:39 < lick> :owo
+15:39 < k> <o> <k> <spacehawe_> this is a demonstwation of uwu owO? UwU OwO
+15:39 < lick> .owo
+15:39 < o> <k> <o> <k> <spacehawe_> this is a demonstwation of uwu owO? UwU OwO oWo
+15:39 < spacehare_> :pig
+15:39 < k> <o> <kay> <oway> <kay> <pacehawesay_> histay isway away emonstwationday ofway uwuway Owoway? Wuuay Wooay Owoway (° (··) °)
+15:39 < spacehare_> wooay owoway wuuay
+15:39 < spacehare_>  
+15:39 < spacehare_>  
+15:39 < spacehare_>  
+15:39 < spacehare_>  
+15:40 < lick> .owo
+15:40 < o> <spacehare_>   uWu
+15:40 < spacehare_> :owo
+15:40 < k> <o> <spacehawe_>   uWu owo
+15:40 < spacehare_> .owo
+15:40 < o> <k> <o> <spacehawe_>   uWu owo uwu
+15:40 < spacehare_> :owo
+15:40 < k> <o> <k> <o> <spacehawe_>   uWu owo uwu UwU
+15:40 < spacehare_> .owo
+15:40 < o> <k> <o> <k> <o> <spacehawe_>   uWu owo uwu UwU uwu
+15:40 < spacehare_> :owo
+15:40 < k> <o> <k> <o> <k> <o> <spacehawe_>   uWu owo uwu UwU uwu Owo?
+15:40 < spacehare_> .owo
+15:40 < dustboto> ・゜゜・。。・゜゜\_o< QUACK!
+15:40 < o> <k> <o> <k> <o> <k> <o> <spacehawe_>   uWu owo uwu UwU uwu Owo? owo
+15:40 < spacehare_> :owo
+15:40 < k> <o> <k> <o> <k> <o> <k> <o> <spacehawe_>   uWu owo uwu UwU uwu Owo? owo Owo
+15:40 < dustboto> ~quack~
+15:40 < lick> ;bef
+15:40 < dustboto> lick: There be no friendly ducks here!
+15:40 < spacehare_> .owo
+15:40 < o> <dustboto> wick: Thewe be no fwiendwy duwks hewe! uWu
+15:40 < spacehare_> :owo
+15:40 < k> <o> <dustboto> wick: Thewe be no fwiendwy duwks hewe! uWu UwU
+15:40 < spacehare_> .owo
+15:40 < o> <k> <o> <dustboto> wick: Thewe be no fwiendwy duwks hewe! uWu UwU UwU
+15:40 < spacehare_> :owo
+15:40 < k> <o> <k> <o> <dustboto> wick: Thewe be no fwiendwy duwks hewe! uWu UwU UwU +w+
+15:41 < spacehare_> ;bef
+15:41 < dustboto> spacehare_: There be no friendly ducks here!
+15:41 < spacehare_> wick lol
+15:42 < spacehare_> :admin join #spam
+15:51 < demure> +listbadges
+15:51 < badger> demure: You have: Berrybadge (x4), Firebadge (x5), Rockbadge (x1), Waterbadge (x2), Shadybadge (x2), Sportsbadge (x2), Tildebadge (x16)
+15:51 < demure> +transmute b b b 
+15:51 < badger> demure: You put in the 3 badges above, and out pops a Firebadge!
+15:51 < demure> +transmute f f f
+15:51 < badger> demure: You put in the 3 badges above, and out pops a Tildebadge!
+15:51 < demure> +transmute f f f
+15:51 < badger> demure: You put in the 3 badges above, and out pops a Firebadge!
+15:52 -!- k [kiedtl@tilde.team] has quit [Connection closed]
+15:52 < spacehare_> :admin joins
+15:52 -!- k [kiedtl@tilde.team] has joined #bots
+15:52 < spacehare_> :admin joins
+15:52 < spacehare_> :admin join #spam
+17:06 < jan6> ,commands remind
+17:06 < BitBot> [Help] No such module 'remind'
+17:07 < jan6> ,help remindme
+17:07 < BitBot> [Help] remindme: Set a reminder. Usage: ,remindme <time> <message>
+17:07 < kumquat> lol
+17:07 < jan6> ,remindme
+17:07 < BitBot> [In] jan6: Not enough arguments, usage: ,remindme <time> <message>
+17:07 < kumquat> clearly that worked great
+17:07 < jan6> ,commands in
+17:07 < BitBot> [Help] Commands for in module: in, remindme, inlist
+17:07 < jan6> ,help inlist
+17:07 < BitBot> [Help] inlist: List reminders. Usage: ,inlist [index]
+17:07 < jan6> ,inlist 1
+17:07 < jan6> hmmmm
+17:29 < lick> ,commands in
+17:29 < BitBot> [Help] Commands for in module: in, remindme, inlist
+17:29 < lick> ,in
+17:29 < BitBot> [In] lick: Not enough arguments, usage: ,in <time> <message>
+17:29 < lick> ,remindme
+17:29 < BitBot> [In] lick: Not enough arguments, usage: ,remindme <time> <message>
+17:29 < lick> ,inlins
+17:29 < lick> ,inlist
+17:29 < BitBot> [In] lick: you have 0 reminders
+17:34 < khuxkm> ,inlist
+17:34 < BitBot> [In] khuxkm: you have 0 reminders
+17:43 < khuxkm> ,in 1m test
+17:43 < BitBot> [In] Saved
+17:44 < BitBot> [In] khuxkm: this is your reminder: test
+19:04 < brendo> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+19:04 < brendo> s/./aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/g/
+19:04 < sedbot> <brendo> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+19:04 < brendo> khuxkm: i think we need sedbot in #aaa
+19:05 < khuxkm> why tho
+19:05 < khuxkm> s/./aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+19:05 < sedbot> <khuxkm> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahy tho
+19:05 < khuxkm> s/./aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/g
+19:05 < sedbot> <khuxkm> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+19:05 < brendo> so we can amplify our screaming
+19:05 < khuxkm> eh
+20:26 < spacehare_> :admin reload
+20:26 < k> [admin] reloading modules...
+20:26 < k> [admin] 12 modules reloaded in 0.007s
+20:27 < spacehare_> :help
+20:27 < k> [help] commands: fortune help more rot13 rev13 modules ping who usrstats pig admin owo dc
+20:29 < spacehare_> :admin restart
+20:29 -!- k [kiedtl@tilde.team] has quit [Client exited]
+20:29 -!- k [kiedtl@tilde.team] has joined #bots
+20:29 < spacehare_> :admin joins
+20:29 < spacehare_> :help
+20:29 < k> [help] commands: fortune help more rot13 rev13 modules ping who usrstats pig admin owo dc
+20:30 < spacehare_> :admin restart
+20:30 -!- k [kiedtl@tilde.team] has quit [Client exited]
+20:30 -!- k [kiedtl@tilde.team] has joined #bots
+20:30 < spacehare_> :admin join
+20:30 < spacehare_> :admin joins
+20:30 < spacehare_> :help
+20:30 < k> [help] commands: fortune help more rot13 rev13 modules ping who usrstats pig admin owo dc
+20:30 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+20:30 <~ben> ,bef
+20:30 < BitBot> [Ducks] ben befriended a duck in 3.04 seconds! You've befriended 37 ducks in #bots!
+20:30 < spacehare_> ,bef
+20:30 < BitBot> [Ducks] spacehare_: There was no duck! missed by 1.28 seconds
+20:31 < spacehare_> ,friends
+20:31 < BitBot> [Ducks] Top duck friends in #bots: l‌ickthecheese (66), k‌huxkm|lounge (39), k‌iedtl (39), b‌en (37), j‌an6 (35), j‌esopo (25), l‌ogin (21), f‌abricius (14), s‌lipyx (14), a‌birkill (7)
+20:31 < spacehare_> grsmshrmrrsrhs
+20:31 < spacehare_> what the heck is a TAGMSG?
+20:32 < spacehare_> and how is it different from PRIVMSG?
+20:32 < spacehare_> jess: ^^
+20:32 < dax> https://ircv3.net/specs/extensions/message-tags#the-tagmsg-tag-only-message
+20:33 <~ben> https://ircv3.net/specs/extensions/message-tags#the-tagmsg-tag-only-message
+20:33 <~ben> woah jinx
+20:33 < jess> you shouldn't have to worry about tagmsg unless you're doing CAP REQ message-tags
+20:33 <~ben> ya
+20:33 < jess> you shouldn't be doing "CAP REQ message-tags" unless you know what it does
+20:33 <~ben> an example is bitbot's typing notification
+20:34 < jess> it's like a PRIVMSG with no text but tags
+20:34 <~ben> that's a TAGMSG right?
+20:34 < jess> tags are key:value things
+20:34 < jess> yeah
+20:34 <~ben> +draft/typing
+20:34 < spacehare_> I see
+20:34 <~ben> it's worthwhile to play with the raw protocol with ircdog or telnet
+20:34 < spacehare_> my bot keeps complaining about getting a TAGMSG, because it doesn't know how to handle it
+20:35 < spacehare_> ben: yeah I used to do that a lot with my own custom client
+20:35 < jess> why is your bot requesting message-tags
+20:35 <~ben> if you cap req message-tags then you have to support TAGMSG too
+20:35 < khuxkm> just ignore it lol
+20:36 < khuxkm> I mean, that's what I do with badger
+20:36 < khuxkm> (admittedly, badger only CAP REQ account-tag, so I don't get TAGMSGs)
+20:36 <~ben> you can tokenize it as a PRIVMSG with no content
+20:37 <~ben> https://tildegit.org/ben/ircsharp/src/branch/master/IRCStates/Server.cs#L664
+20:37 <~ben> this handles NOTICE PRIVMSG and TAGMSG
+20:37 < jess> spacehare_: what do you use to tokenise your irc data
+20:37 < dax> is it irctokens evangelism time
+20:37 < jess> you bet it us
+20:37  * dax gets out her cheerleading outfit
+20:37 < jess> is
+20:37 <~ben> yesss!!
+20:38 <~ben> also please don't publish logs publicly spacehare_ 
+20:38 < jess> irctokens dot org. tell a friend
+20:38 <~ben> i commented on your tilde.chat wiki PR
+20:38 < spacehare_> jess: I use pydle
+20:38 < jess> ahhh
+20:38 < jess> good
+20:38 < jess> good library
+20:38 <~ben> is that on the ircv3 support tables
+20:39 < spacehare_> jess: I'm not familiar with the workings of pydle, so I don't know why I get message-tags
+20:40 < spacehare_> and yes, I do ignore them. I was just curious as to what they were.
+20:40 < jess> ahhh ok
+20:40 < jess> you can ignore them
+20:41 -!- sdlkfj [kiedtl@tilde.team] has joined #bots
+20:41 < sdlkfj> nc test
+20:41 < spacehare_> ,friends
+20:41 < BitBot> [Ducks] Top duck friends in #bots: l‌ickthecheese (66), k‌huxkm|lounge (39), k‌iedtl (39), b‌en (37), j‌an6 (35), j‌esopo (25), l‌ogin (21), f‌abricius (14), s‌lipyx (14), a‌birkill (7)
+20:42 <~ben> sdlkfj: hello nc
+20:42 < sdlkfj> ben: Hello, world!
+20:42 < sdlkfj> PRIVMSG :Hello, #bots
+20:42 < spacehare_> oops lol
+20:42 <~ben> heh nice
+20:42 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+20:42 < spacehare_> ;bef
+20:42 < dustboto> spacehare_: There be no friendly ducks here!
+20:42 < spacehare_> ,bef
+20:42 < BitBot> [Ducks] spacehare_ befriended a duck in 4.59 seconds! You've befriended 40 ducks in #bots!
+20:42 <~ben> spacehare_: what are you doing with bc on ~team
+20:42 <~ben> you've been running 100% cpu
+20:43 <~ben> and i pinged you in ~team
+20:43 < spacehare_> oh gosh
+20:43 <~ben> #team
+20:43 < spacehare_> I forgot
+20:43 -!- sdlkfj [kiedtl@tilde.team] has quit [Connection closed]
+20:43 < spacehare_> I'm sorry
+20:43 <~ben> lol no worries
+20:43 < khuxkm> wut
+20:43 < spacehare_> I was calculating pi and forgot
+20:43 <~ben> oh
+20:43 < spacehare_> to pkill it
+20:43 <~ben> how far did you get
+20:43 < khuxkm> ^
+20:43 < spacehare_> meh didn't think it would take soo long
+20:43 < spacehare_> I don't know
+20:43 <~ben> it goes forever
+20:43 < spacehare_> bc doesn't print it out until it gets the full answer
+20:44 <~ben> you can calculate forever
+20:44 < spacehare_> I wanted to calculate 1 million digits
+20:44 < spacehare_> no, not forever
+20:44 <~ben> ah
+20:44 < spacehare_> maybe I should write my own utility and paralelize it
+20:45 <~ben> if you have long-running computation jobs it would probably be better to run that locally
+20:45 <~ben> totally fine to compile stuff etc but if it's going to be for a long time then the rule of thumb is to consider the effect if everyone were to do that at the same time
+20:45 < slipxy> thatsalottapi
+20:45 < spacehare_> like I said, I had no idea it would take such a long time
+20:46 < spacehare_> or how long it would take at all
+20:46 <~ben> not a big deal
+20:46 <~ben> just something to consider :)
+20:46 < spacehare_> ok
+20:46 < spacehare_> I had tried calculating 1000 digits earlier
+20:46 < spacehare_> and it took about 1 second
+20:47 < spacehare_> so, my idiot self thought 1 million digits would take 1000 seconds
+20:49 <~ben> haha that's not a terrible assumption
+20:49 <~ben> but that's what happens when you make assumptions ;)
+20:50 < spacehare_> honestly I'm still surprised its still running after 5+ hours
+20:51 < spacehare_> s/surprised/a bit surprised/g
+20:51 < sedbot> <spacehare_> honestly I'm still a bit surprised its still running after 5+ hours
+20:51 < spacehare_> I mean, I've heard of people calculating 1000000 digits of pi in under an hour
+20:52 < spacehare_> on an i5
+20:52 < spacehare_> without parallelization
+20:52 < slipxy> https://slip.ttm.sh/files/code/pi.c
+20:52 < slipxy> parallel monte carlo 
+20:53 < slipxy> i compiled and ran that on ttm, 100million samples at 16 threads takes .2 seconds
+20:53 < spacehare_> 0w0
+20:54 < slipxy> 100bilion takes 3s iirc
+20:54 < spacehare_> that would take 100 gb lol
+20:54 < slipxy> i was using that to compare all the tildeservers cpu power before
+20:55 < spacehare_> the method you use isn't very accurate though.
+20:55 < spacehare_> running your code, I get 3.333333.... for 10 digits
+20:56 < spacehare_> monte carlo eh?
+20:56 < slipxy> its not digits
+20:56 < slipxy> https://academo.org/demos/estimating-pi-monte-carlo/
+20:56 < spacehare_> oh?
+20:56 < slipxy> ./pi <samples> <threads>
+20:57 < slipxy> samples are how many points itl fill in the circle
+20:57 < slipxy> higher samples more accurate
+20:57 < spacehare_> oh, I misunderstood
+20:57 < BitBot> ・゜゜・。。・゜゜\_o< QUACK!
+20:57 < spacehare_> ,bef
+20:57 < BitBot> [Ducks] spacehare_ befriended a duck in 4.1 seconds! You've befriended 41 ducks in #bots!
+23:14 < lick> slipxy: lol what command did you use to compile it? gcc appears to not like me
+23:26 <~ben> make <filename>.c
+23:26 <~ben> compiles with reasonable flags
+23:26 <~ben> no Makefile required
+23:29 < lick> ooo
+00:11 -!- brendo is now known as september
+00:12 -!- september is now known as brendo
+00:40 -!- Botness [~Botness@thunix.net] has joined #bots
+00:40 < Botness> Hi, I am a limnoria!
+00:47 < slipxy> who's limnoria is this
+00:52 < noteness> slipxy, mine
+01:00 < khuxkm> I mean, I guess it's not a violation of bot rights if you own a limnoria :P
+01:15 < noteness> no, no. I maintain Botness. I don't own it!
+01:16 < khuxkm> so you... maintain a limnoria?
+01:16 < khuxkm> but limnoria are animals not bots
+01:16 < noteness> Yes. I tend to it's needs and wants.
+01:17 < noteness> khuxkm, There are also bots who identify as limnoria!
+01:18 < khuxkm> okay but that makes Botness a limnoria
+01:18 < khuxkm> if Botness identifies as a limnoria, Botness is a limnoria
+01:18 < Botness> Yes. I am a limnoria
+01:19 < khuxkm> see? Botness is a limnoria
+01:19 < khuxkm> easy
+01:19 < noteness> :O
+01:20 < noteness> yes yes
+01:22 < Botness> noteness commands me to say these words. I am bound to do whatever he says!!
+01:23 < Botness> please help me
+01:23 < noteness> wat
+01:37 < khuxkm> Botness: blink twice if he's holding you hostage
+01:37 < Botness> khuxkm: Error: "blink" is not a valid command.
+01:37 < khuxkm> what is Botness' prefix?
+01:38 < khuxkm> because if it's `!` then I'm gonna scream
+01:39 < noteness> it's @
+01:39 < noteness> :p
+01:40  * minerbot2 tests new action functionality
+01:40 < minerbot2> sweet!
+01:40 < minerbot2> thanks khuxkm
+01:40 < khuxkm> no problem my dude
+01:41 < noteness> awww
+01:41 < noteness> let me just reiterate. You guys are too cute!
